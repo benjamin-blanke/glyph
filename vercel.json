@@ -1,0 +1,9 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/badge/:params*",
+      "destination": "/api/badge"
+    }
+  ]
+}
