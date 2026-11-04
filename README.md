@@ -1,24 +1,5 @@
 ![Glyph Badges](https://glyphbadges.dev/cover?title=Glyph%20Badges&description=Beautiful%2C%20customizable%20SVG%20badges%20for%20your%20README.)
 
-<p align="center">
-  <a href="https://glyphbadges.dev/">Website</a> ·
-  <a href="BADGES.md">Badge gallery</a> ·
-  <a href="docs/graphs/README.md">Charts</a> ·
-  <a href="STATUS.md">Status badges</a>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/waveserv">
-    <img src="https://glyphbadges.dev/badge/Discord-Join-the-community-5865F2.svg?text=Join%20the%20community&bg=5865F2&labelBg=23272A&logo=discord" alt="Join the Discord">
-  </a>
-  <a href="https://github.com/benjamin-blanke/glyph">
-    <img src="https://glyphbadges.dev/badge/GitHub-Star-the-repo-181717.svg?text=Star%20the%20repo&bg=181717&labelBg=23272A&logo=github" alt="Star the repo">
-  </a>
-</p>
-
-Glyph gives projects polished SVG badges that work anywhere Markdown images
-work: GitHub, GitLab, documentation sites, blogs, and static websites.
-
 ## Quick start
 
 ```md
