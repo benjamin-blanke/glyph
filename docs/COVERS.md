@@ -1,4 +1,4 @@
-![Project covers](https://glyphbadges.dev/cover?title=Project%20covers&description=Create%20beautiful%20project%20covers%20with%20Glyph)
+![Project covers](https://glyphbadges.dev/cover?title=Project%20Covers&description=Create%20beautiful%20project%20covers%20with%20Glyph)
 
 # Project covers
 
