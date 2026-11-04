@@ -15,6 +15,7 @@
 
 See [`BADGES.md`](BADGES.md) for every preset badge and copyable Markdown snippet.
 See [`docs/graphs/README.md`](docs/graphs/README.md) for GitHub Pages graph assets.
+See [`STATUS.md`](STATUS.md) for the reusable dynamic status badge format.
 
 ## GitHub Pages
 

@@ -1,8 +1,24 @@
 # Glyph badges
 
-All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph's native badge style.
+All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph's native badge style. For dynamic status values, use the API format in [`STATUS.md`](STATUS.md).
 
 ## Badge gallery
+
+### Accessibility AA
+
+[![Accessibility AA](https://benjamin-blanke.github.io/glyph/badges/accessibility.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Accessibility AA](https://benjamin-blanke.github.io/glyph/badges/accessibility.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### API v2
+
+[![API v2](https://benjamin-blanke.github.io/glyph/badges/api-version.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![API v2](https://benjamin-blanke.github.io/glyph/badges/api-version.svg)](https://github.com/benjamin-blanke/glyph)
+```
 
 ### API Operational
 
@@ -28,6 +44,14 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 [![Availability 99.99%](https://benjamin-blanke.github.io/glyph/badges/availability.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Backers 24
+
+[![Backers 24](https://benjamin-blanke.github.io/glyph/badges/backers.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Backers 24](https://benjamin-blanke.github.io/glyph/badges/backers.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Status Beta
 
 [![Status Beta](https://benjamin-blanke.github.io/glyph/badges/beta.svg)](https://github.com/benjamin-blanke/glyph)
@@ -36,12 +60,28 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 [![Status Beta](https://benjamin-blanke.github.io/glyph/badges/beta.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Build 42s
+
+[![Build 42s](https://benjamin-blanke.github.io/glyph/badges/build-time.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Build 42s](https://benjamin-blanke.github.io/glyph/badges/build-time.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Build Passing
 
 [![Build Passing](https://benjamin-blanke.github.io/glyph/badges/build.svg)](https://github.com/benjamin-blanke/glyph)
 
 ```md
 [![Build Passing](https://benjamin-blanke.github.io/glyph/badges/build.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Bundle Small
+
+[![Bundle Small](https://benjamin-blanke.github.io/glyph/badges/bundle-size.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Bundle Small](https://benjamin-blanke.github.io/glyph/badges/bundle-size.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Cache Healthy
@@ -84,6 +124,14 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 [![CodeQL Passing](https://benjamin-blanke.github.io/glyph/badges/codeql.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Commits Daily
+
+[![Commits Daily](https://benjamin-blanke.github.io/glyph/badges/commit-frequency.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Commits Daily](https://benjamin-blanke.github.io/glyph/badges/commit-frequency.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Commits 1.2k
 
 [![Commits 1.2k](https://benjamin-blanke.github.io/glyph/badges/commits.svg)](https://github.com/benjamin-blanke/glyph)
@@ -98,6 +146,14 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 
 ```md
 [![Community Active](https://benjamin-blanke.github.io/glyph/badges/community.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Contributors Active
+
+[![Contributors Active](https://benjamin-blanke.github.io/glyph/badges/contributors-active.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Contributors Active](https://benjamin-blanke.github.io/glyph/badges/contributors-active.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Contributors 24
@@ -196,6 +252,14 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 [![Downloads 4.8k/month](https://benjamin-blanke.github.io/glyph/badges/downloads-month.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Downloads 10k
+
+[![Downloads 10k](https://benjamin-blanke.github.io/glyph/badges/downloads-total.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Downloads 10k](https://benjamin-blanke.github.io/glyph/badges/downloads-total.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Downloads 1.2k/week
 
 [![Downloads 1.2k/week](https://benjamin-blanke.github.io/glyph/badges/downloads-week.svg)](https://github.com/benjamin-blanke/glyph)
@@ -284,6 +348,14 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 [![Status Investigating](https://benjamin-blanke.github.io/glyph/badges/investigating.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Issues 98% closed
+
+[![Issues 98% closed](https://benjamin-blanke.github.io/glyph/badges/issues-closed.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Issues 98% closed](https://benjamin-blanke.github.io/glyph/badges/issues-closed.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Issues 12 open
 
 [![Issues 12 open](https://benjamin-blanke.github.io/glyph/badges/issues-open.svg)](https://github.com/benjamin-blanke/glyph)
@@ -330,6 +402,14 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 
 ```md
 [![Status Maintenance](https://benjamin-blanke.github.io/glyph/badges/maintenance.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Memory Efficient
+
+[![Memory Efficient](https://benjamin-blanke.github.io/glyph/badges/memory.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Memory Efficient](https://benjamin-blanke.github.io/glyph/badges/memory.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Status Monitoring
@@ -412,6 +492,14 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 [![Performance Excellent](https://benjamin-blanke.github.io/glyph/badges/performance.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Pull requests 92% merged
+
+[![Pull requests 92% merged](https://benjamin-blanke.github.io/glyph/badges/pr-merged.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Pull requests 92% merged](https://benjamin-blanke.github.io/glyph/badges/pr-merged.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Visibility Private
 
 [![Visibility Private](https://benjamin-blanke.github.io/glyph/badges/private.svg)](https://github.com/benjamin-blanke/glyph)
@@ -442,6 +530,14 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 
 ```md
 [![Python Supported](https://benjamin-blanke.github.io/glyph/badges/python.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Quality Excellent
+
+[![Quality Excellent](https://benjamin-blanke.github.io/glyph/badges/quality.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Quality Excellent](https://benjamin-blanke.github.io/glyph/badges/quality.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Queue Processing
@@ -492,6 +588,14 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 [![Response time Fast](https://benjamin-blanke.github.io/glyph/badges/response-time.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Review Approved
+
+[![Review Approved](https://benjamin-blanke.github.io/glyph/badges/reviewed.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Review Approved](https://benjamin-blanke.github.io/glyph/badges/reviewed.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Roadmap In progress
 
 [![Roadmap In progress](https://benjamin-blanke.github.io/glyph/badges/roadmap.svg)](https://github.com/benjamin-blanke/glyph)
@@ -514,6 +618,14 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 
 ```md
 [![Status Scheduled maintenance](https://benjamin-blanke.github.io/glyph/badges/scheduled.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Security A+
+
+[![Security A+](https://benjamin-blanke.github.io/glyph/badges/security-score.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Security A+](https://benjamin-blanke.github.io/glyph/badges/security-score.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Security Protected
@@ -554,6 +666,54 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 
 ```md
 [![Stars 904](https://benjamin-blanke.github.io/glyph/badges/stars.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Status Degraded
+
+[![Status Degraded](https://benjamin-blanke.github.io/glyph/badges/status-degraded.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Status Degraded](https://benjamin-blanke.github.io/glyph/badges/status-degraded.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Status Down
+
+[![Status Down](https://benjamin-blanke.github.io/glyph/badges/status-down.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Status Down](https://benjamin-blanke.github.io/glyph/badges/status-down.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Status Maintenance
+
+[![Status Maintenance](https://benjamin-blanke.github.io/glyph/badges/status-maintenance.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Status Maintenance](https://benjamin-blanke.github.io/glyph/badges/status-maintenance.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Status Monitoring
+
+[![Status Monitoring](https://benjamin-blanke.github.io/glyph/badges/status-monitoring.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Status Monitoring](https://benjamin-blanke.github.io/glyph/badges/status-monitoring.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Status Operational
+
+[![Status Operational](https://benjamin-blanke.github.io/glyph/badges/status-operational.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Status Operational](https://benjamin-blanke.github.io/glyph/badges/status-operational.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Status Resolved
+
+[![Status Resolved](https://benjamin-blanke.github.io/glyph/badges/status-resolved.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Status Resolved](https://benjamin-blanke.github.io/glyph/badges/status-resolved.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Status All systems operational

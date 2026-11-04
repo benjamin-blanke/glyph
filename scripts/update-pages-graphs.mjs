@@ -13,7 +13,7 @@ const headers = {
   "X-GitHub-Api-Version": "2022-11-28",
   "User-Agent": "glyph-pages-graph",
 };
-if (token) headers.Authorization = `Bearer ${token}`;
+if (token) headers.Authorization = "Bearer " + token;
 
 async function github(path) {
   const response = await fetch(`https://api.github.com${path}`, { headers });
@@ -33,6 +33,12 @@ const metrics = [
   ["issues", "Open issues", Number(repositoryData.open_issues_count || 0)],
   ["watchers", "Watchers", Number(repositoryData.subscribers_count || 0)],
 ];
+const contributors = await github(
+  `/repos/${encodeURIComponent(owner)}/${encodeURIComponent(repo)}/contributors?per_page=8`
+);
+const languages = await github(
+  `/repos/${encodeURIComponent(owner)}/${encodeURIComponent(repo)}/languages`
+);
 
 const esc = (value) =>
   String(value).replace(/[&<>"']/g, (character) => ({
@@ -101,7 +107,56 @@ ${grid}
 `;
 }
 
+function barGraph(title, entries, valueLabel) {
+  const width = 760;
+  const rowHeight = 28;
+  const top = 92;
+  const height = Math.max(220, top + entries.length * rowHeight + 42);
+  const max = Math.max(1, ...entries.map((entry) => entry.value));
+  const rows = entries
+    .map((entry, index) => {
+      const y = top + index * rowHeight;
+      const barWidth = 540 * (entry.value / max);
+      return `<text x="48" y="${y + 15}" fill="#fafafa" font-size="12">${esc(entry.label)}</text><rect x="180" y="${y + 3}" width="540" height="14" rx="7" fill="#252532"/><rect x="180" y="${y + 3}" width="${barWidth.toFixed(1)}" height="14" rx="7" fill="#8b5cf6"/><text x="728" y="${y + 15}" text-anchor="end" fill="#a1a1aa" font-size="11">${formatNumber(entry.value)}${valueLabel}</text>`;
+    })
+    .join("");
+  const slug = `${owner}/${repo}`;
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-label="${esc(slug)} ${esc(title)} graph">
+<title>${esc(slug)} ${esc(title)} graph</title>
+<rect x=".5" y=".5" width="${width - 1}" height="${height - 1}" rx="16" fill="#111116" stroke="#30303a"/>
+<g font-family="Inter,ui-sans-serif,system-ui,sans-serif">
+<path fill="#fff" transform="translate(22 21) scale(1.25)" d="${githubPath}"/>
+<text x="84" y="51" fill="#fafafa" font-size="15" font-weight="600">${esc(slug)}</text>
+<text x="84" y="69" fill="#a1a1aa" font-size="11">${esc(title)} · GitHub Pages</text>
+${rows}
+<text x="${width / 2}" y="${height - 14}" text-anchor="middle" fill="#a1a1aa" font-size="11">Made with Glyph</text>
+</g></svg>
+`;
+}
+
 await mkdir("docs/graphs", { recursive: true });
 for (const [metric, label, value] of metrics) {
   await writeFile(`docs/graphs/${metric}.svg`, graph(metric, label, value));
 }
+await writeFile(
+  "docs/graphs/contributors.svg",
+  barGraph(
+    "Top contributors",
+    contributors.map((contributor) => ({
+      label: contributor.login,
+      value: Number(contributor.contributions || 0),
+    })),
+    " commits"
+  )
+);
+await writeFile(
+  "docs/graphs/languages.svg",
+  barGraph(
+    "Languages",
+    Object.entries(languages)
+      .sort(([, first], [, second]) => second - first)
+      .slice(0, 8)
+      .map(([language, bytes]) => ({ label: language, value: Number(bytes) })),
+    " bytes"
+  )
+);
