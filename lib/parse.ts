@@ -16,8 +16,14 @@ export function parseBadgeRequest(req: VercelRequest): BadgeRequest {
   return {
     label: safeText(first(q.label) || pathLabel, "Discord", 32),
     message: safeText(first(q.text) || first(q.message) || pathMessage, "Join the community", 80),
-    color: normalizeColor(first(q.color) || pathColor || "5865F2", "5865F2"),
-    labelColor: normalizeColor(first(q.labelColor) || "23272A", "23272A"),
+    color: normalizeColor(
+      first(q.color) || first(q.bg) || first(q.background) || pathColor || "5865F2",
+      "5865F2"
+    ),
+    labelColor: normalizeColor(
+      first(q.labelColor) || first(q.labelBg) || first(q.labelBackground) || "23272A",
+      "23272A"
+    ),
     logo: safeLogo(first(q.logo) || "discord"),
     style: safeStyle(first(q.style))
   };

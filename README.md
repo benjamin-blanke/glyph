@@ -14,24 +14,24 @@
 
 <p align="center">
   <a href="https://discord.gg/opushost">
-    <img src="https://benjamin-blanke.github.io/glyph/badges/discord.svg" alt="Join the Discord">
+    <img src="https://glyph-six.vercel.app/badge/Discord-Join-the-community-5865F2.svg?text=Join%20the%20community&color=5865F2&labelColor=23272A&logo=discord" alt="Join the Discord">
   </a>
   <a href="https://github.com/benjamin-blanke/glyph">
-    <img src="https://benjamin-blanke.github.io/glyph/badges/github.svg" alt="Star the repo">
+    <img src="https://glyph-six.vercel.app/badge/GitHub-Star-the-repo-181717.svg?text=Star%20the%20repo&color=181717&labelColor=23272A&logo=github" alt="Star the repo">
   </a>
 </p>
 
 Glyph gives projects polished SVG assets that work anywhere Markdown images work:
-GitHub, GitLab, documentation sites, blogs, and static websites. Every gallery
-asset is hosted on GitHub Pages, requires no JavaScript, and can be copied
-directly into a README.
+GitHub, GitLab, documentation sites, blogs, and static websites. Use the
+Vercel API for customizable badges or the GitHub Pages gallery for static
+presets.
 
 ## Quick start
 
-Copy a badge:
+Copy a customizable badge:
 
 ```md
-[![Join the Discord](https://benjamin-blanke.github.io/glyph/badges/discord.svg)](https://discord.gg/opushost)
+[![Join the Discord](https://glyph-six.vercel.app/badge/Discord-Join-the-community-5865F2.svg?text=Join%20our%20community&color=5865F2&labelColor=23272A&logo=discord&style=flat)](https://discord.gg/opushost)
 ```
 
 Add a repository graph:
@@ -47,7 +47,7 @@ Browse the complete collection in [`BADGES.md`](BADGES.md).
 For live status values, use the API deployment:
 
 ```md
-![Status](https://benjamin-blanke.github.io/glyph/badges/status-degraded.svg)
+![Status](https://glyph-six.vercel.app/badge/Status-Degraded-F59E0B.svg?text=Degraded&color=F59E0B&labelColor=23272A&logo=status)
 ```
 
 Supported states include `OPERATIONAL`, `DEGRADED`, `DOWN`, `MAINTENANCE`,
@@ -97,16 +97,18 @@ generation command.
 The API badge renderer accepts the compact path format:
 
 ```text
-/badge/<label>-<message>-<color>.svg?logo=<icon>&style=<style>
+https://glyph-six.vercel.app/badge/<label>-<message>-<color>.svg?text=<text>&color=<bg>&labelColor=<label-bg>&logo=<icon>&style=<style>
 ```
 
 Example:
 
 ```text
-https://benjamin-blanke.github.io/glyph/badges/build.svg
+https://glyph-six.vercel.app/badge/Build-Passing-16A34A.svg?text=Passing&color=16A34A&labelColor=23272A&logo=check&style=rounded
 ```
 
-Available styles are `flat`, `flat-square`, and `rounded`. See
+Available query parameters are `label`, `text`/`message`, `color`/`bg`/`background`,
+`labelColor`/`labelBg`/`labelBackground`, `logo`, and `style`. Available styles
+are `flat`, `flat-square`, and `rounded`. See
 [`docs/URLS.md`](docs/URLS.md), [`docs/STYLES.md`](docs/STYLES.md), and
 [`docs/ICONS.md`](docs/ICONS.md).
 
