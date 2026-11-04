@@ -6,12 +6,14 @@
 
 <p align="center">
   <a href="https://discord.gg/opushost">
-    <img src="https://benjamin-blanke.github.io/glyph/badge/Discord.svg" alt="Join the Discord">
+    <img src="https://benjamin-blanke.github.io/glyph/badges/discord.svg" alt="Join the Discord">
   </a>
   <a href="https://glyph.blanke.lol">
-    <img src="https://glyph-six.vercel.app/badge/Website-Visit-2563EB.svg?logo=website" alt="Visit the Website">
+    <img src="https://benjamin-blanke.github.io/glyph/badges/website.svg" alt="Visit the Website">
   </a>
 </p>
+
+See [`BADGES.md`](BADGES.md) for every preset badge and copyable Markdown snippet.
 
 ## GitHub Pages
 
