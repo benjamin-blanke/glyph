@@ -47,7 +47,7 @@ and `OFFLINE`. See [`STATUS.md`](STATUS.md) for all formats.
 Fetch a Discord user's current avatar and username through Lanyard:
 
 ```md
-![Discord User](https://glyphbadges.dev/badge/discord?userId=123456789012345678)
+![Discord User](https://glyphbadges.dev/badge/discorduser?userId=123456789012345678)
 ```
 
 The badge displays the avatar and username as `@username`.

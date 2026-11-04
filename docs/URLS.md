@@ -36,7 +36,7 @@ See [`BADGES.md`](../BADGES.md) for the complete preset gallery.
 Use a Discord user ID to fetch the current username and avatar through Lanyard:
 
 ```text
-https://glyphbadges.dev/badge/discord?userId=123456789012345678
+https://glyphbadges.dev/badge/discorduser?userId=123456789012345678
 ```
 
 The badge displays the user's avatar and `@username`. The Discord user ID must
