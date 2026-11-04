@@ -11,6 +11,7 @@
 <p align="center">
   <a href="https://glyphbadges.dev/">Website</a> ·
   <a href="BADGES.md">Badge gallery</a> ·
+  <a href="docs/graphs/README.md">Charts</a> ·
   <a href="STATUS.md">Status badges</a>
 </p>
 
@@ -54,6 +55,17 @@ Fetch a Discord user's current avatar and username through Lanyard:
 ```
 
 The badge displays the avatar and username as `@username`.
+
+## Repository charts
+
+Display a live GitHub star-history chart for any public repository:
+
+```md
+![Star history](https://glyphbadges.dev/chart?owner=benjamin-blanke&repo=glyph)
+```
+
+See [`docs/graphs/README.md`](docs/graphs/README.md) for the chart URL and
+parameter documentation.
 
 ### Livck Cloud beta
 

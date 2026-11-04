@@ -1,5 +1,6 @@
 {
   "rewrites": [
+    { "source": "/chart", "destination": "/api/chart" },
     { "source": "/badge/discorduser", "destination": "/api/discord" },
     { "source": "/badge/status", "destination": "/api/status" },
     { "source": "/badge/livck", "destination": "/api/livck" },
