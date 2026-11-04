@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/opushost">
+  <a href="https://discord.gg/waveserv">
     <img src="https://glyphbadges.dev/badge/Discord-Join-the-community-5865F2.svg?text=Join%20the%20community&bg=5865F2&labelBg=23272A&logo=discord" alt="Join the Discord">
   </a>
   <a href="https://github.com/benjamin-blanke/glyph">
