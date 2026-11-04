@@ -8,10 +8,10 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 
 [![Livck Beta](https://benjamin-blanke.github.io/glyph/badges/livck-beta.svg)](https://livck.cloud)
 
-The live Pages badge is [livck.svg](https://benjamin-blanke.github.io/glyph/badges/livck.svg) and refreshes every 15 minutes.
+The live beta endpoint checks the status page on every image request.
 
 ```md
-[![Livck status](https://benjamin-blanke.github.io/glyph/badges/livck.svg)](https://status.waveserv.com)
+[![Livck status](https://glyph-six.vercel.app/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)](https://status.waveserv.com)
 ```
 
 ## Badge gallery

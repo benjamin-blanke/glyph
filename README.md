@@ -61,16 +61,16 @@ need a Pages-only solution. See [`STATUS.md`](STATUS.md) for all formats.
 
 ### Livck Cloud beta
 
-Glyph has a **Beta** integration for public Livck status pages. Use this one
-stable GitHub Pages URL:
+Glyph has a **Beta** integration for public Livck status pages. Paste this
+single URL into your Markdown:
 
 ```md
-![Livck status](https://benjamin-blanke.github.io/glyph/badges/livck.svg)
+![Livck status](https://glyph-six.vercel.app/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)
 ```
 
-The badge reads `https://status.waveserv.com` every 15 minutes using GitHub
-Actions and commits the updated SVG to Pages. No API host, URL encoding, or
-query string is required.
+It checks Livck whenever the image is requested. No GitHub Action or repository
+configuration is required. Replace the encoded URL to use another public Livck
+status page.
 
 ## Graphs
 

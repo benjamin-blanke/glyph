@@ -37,8 +37,7 @@ See [`BADGES.md`](../BADGES.md) for the complete preset gallery.
 ## Livck Cloud beta
 
 ```text
-https://benjamin-blanke.github.io/glyph/badges/livck.svg
+https://glyph-six.vercel.app/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com
 ```
 
-The source page is configured in `.github/workflows/update-livck.yml`; users
-never need to include it in the badge URL.
+The endpoint fetches the public Livck status page when the image is requested.

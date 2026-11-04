@@ -1,29 +1,25 @@
 # Status badges
 
-## Static GitHub Pages badges
+## Dynamic Livck badge
 
 Use these URLs directly in Markdown:
 
 ```md
-![Livck status](https://benjamin-blanke.github.io/glyph/badges/livck.svg)
+![Livck status](https://glyph-six.vercel.app/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)
 ![Status](https://benjamin-blanke.github.io/glyph/badges/status-degraded.svg)
 ```
 
-`livck.svg` is the **Beta** live-status badge. A GitHub Action checks
-`https://status.waveserv.com` every 15 minutes and updates the file in this
-repository. GitHub Pages then serves the newest committed SVG.
+The Livck badge is **Beta** and reads the public status page on every request.
+Use URL encoding for the status-page URL.
 
 Supported Livck states are Operational, Degraded, Down, Maintenance, Incident,
 Investigating, Monitoring, and Resolved.
 
-## Configure another Livck page
+## Static GitHub Pages fallback
 
-Edit `LIVCK_STATUS_URL` in
-[`.github/workflows/update-livck.yml`](.github/workflows/update-livck.yml), then
-run the workflow manually once. The Markdown URL stays exactly the same.
+GitHub Pages cannot fetch Livck dynamically. Use the static beta preview when
+you need a Pages-only asset:
 
-## Important limitation
-
-GitHub Pages cannot query Livck when a visitor reloads an image. The scheduled
-workflow is the reliable Pages-compatible solution: it fetches Livck server-side
-and publishes a static SVG.
+```md
+![Livck Beta](https://benjamin-blanke.github.io/glyph/badges/livck-beta.svg)
+```
