@@ -1,3 +1,5 @@
+![Glyph v6 banner](v6banner.png)
+
 # Glyph
 
 <p align="center">
