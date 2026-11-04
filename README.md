@@ -12,3 +12,11 @@
     <img src="https://glyph-six.vercel.app/badge/Website-Visit-2563EB.svg?logo=website" alt="Visit the Website">
   </a>
 </p>
+
+## GitHub Pages
+
+The project site is deployed automatically from `docs/` by
+[`.github/workflows/pages.yml`](.github/workflows/pages.yml) whenever `main`
+changes. In the repository settings, set **Pages → Build and deployment →
+Source** to **GitHub Actions** once, then the site will be available at
+`https://benjamin-blanke.github.io/glyph/`.
