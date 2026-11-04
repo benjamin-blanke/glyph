@@ -11,7 +11,5 @@ Dynamic badges support three styles through the `style` query parameter:
 Example:
 
 ```md
-![Build](https://benjamin-blanke.github.io/glyph/badges/build.svg)
+![Build](https://glyphbadges.dev/badge/Build-Passing-16A34A.svg?logo=check&style=rounded)
 ```
-
-Static Pages assets use the standard flat style.

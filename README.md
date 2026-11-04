@@ -1,109 +1,68 @@
 # Glyph
 
 <p align="center">
-  <strong>Beautiful SVG badges and repository graphs for your README.</strong><br>
-  A small, customizable alternative to Shields.io, built for static hosting.
+  <strong>Beautiful, customizable SVG badges for your README.</strong><br>
+  A small alternative to Shields.io, powered by a dynamic API.
 </p>
 
 <p align="center">
-  <a href="https://benjamin-blanke.github.io/glyph/">Website</a> ·
+  <a href="https://glyphbadges.dev/">Website</a> ·
   <a href="BADGES.md">Badge gallery</a> ·
-  <a href="docs/graphs/README.md">Graphs</a> ·
   <a href="STATUS.md">Status badges</a>
 </p>
 
 <p align="center">
   <a href="https://discord.gg/opushost">
-    <img src="https://glyph-six.vercel.app/badge/Discord-Join-the-community-5865F2.svg?text=Join%20the%20community&color=5865F2&labelColor=23272A&logo=discord" alt="Join the Discord">
+    <img src="https://glyphbadges.dev/badge/Discord-Join-the-community-5865F2.svg?text=Join%20the%20community&color=5865F2&labelColor=23272A&logo=discord" alt="Join the Discord">
   </a>
   <a href="https://github.com/benjamin-blanke/glyph">
-    <img src="https://glyph-six.vercel.app/badge/GitHub-Star-the-repo-181717.svg?text=Star%20the%20repo&color=181717&labelColor=23272A&logo=github" alt="Star the repo">
+    <img src="https://glyphbadges.dev/badge/GitHub-Star-the-repo-181717.svg?text=Star%20the%20repo&color=181717&labelColor=23272A&logo=github" alt="Star the repo">
   </a>
 </p>
 
-Glyph gives projects polished SVG assets that work anywhere Markdown images work:
-GitHub, GitLab, documentation sites, blogs, and static websites. Use the
-Vercel API for customizable badges or the GitHub Pages gallery for static
-presets.
+Glyph gives projects polished SVG badges that work anywhere Markdown images
+work: GitHub, GitLab, documentation sites, blogs, and static websites.
 
 ## Quick start
 
-Copy a customizable badge:
-
 ```md
-[![Join the Discord](https://glyph-six.vercel.app/badge/Discord-Join-the-community-5865F2.svg?text=Join%20our%20community&color=5865F2&labelColor=23272A&logo=discord&style=flat)](https://discord.gg/opushost)
+[![Join the Discord](https://glyphbadges.dev/badge/Discord-Join-the-community-5865F2.svg?text=Join%20our%20community&color=5865F2&labelColor=23272A&logo=discord&style=flat)](https://discord.gg/opushost)
 ```
 
-Add a repository graph:
-
-```md
-![Contributors](https://benjamin-blanke.github.io/glyph/graphs/contributors.svg)
-```
-
-Browse the complete collection in [`BADGES.md`](BADGES.md).
+Browse the complete collection in [`BADGES.md`](BADGES.md). Every entry shows
+the rendered badge followed by its customer URL parameters.
 
 ## Dynamic status badges
 
-For live status values, use the API deployment:
-
 ```md
-![Status](https://glyph-six.vercel.app/badge/Status-Degraded-F59E0B.svg?text=Degraded&color=F59E0B&labelColor=23272A&logo=status)
+![Status](https://glyphbadges.dev/badge/Status-Degraded-F59E0B.svg?text=Degraded&color=F59E0B&labelColor=23272A&logo=status)
 ```
 
 Supported states include `OPERATIONAL`, `DEGRADED`, `DOWN`, `MAINTENANCE`,
 `INCIDENT`, `INVESTIGATING`, `MONITORING`, `RESOLVED`, `SCHEDULED`, `ONLINE`,
-and `OFFLINE`.
-
-GitHub Pages is static, so query-string states cannot be evaluated there. Use
-the matching static files, such as
-`https://benjamin-blanke.github.io/glyph/badges/status-degraded.svg`, when you
-need a Pages-only solution. See [`STATUS.md`](STATUS.md) for all formats.
+and `OFFLINE`. See [`STATUS.md`](STATUS.md) for all formats.
 
 ### Livck Cloud beta
 
-Glyph has a **Beta** integration for public Livck status pages. Paste this
-single URL into your Markdown:
+Glyph has a **Beta** integration for public Livck status pages:
 
 ```md
-![Livck Beta](https://glyph-six.vercel.app/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)
+![Livck Beta](https://glyphbadges.dev/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)
 ```
 
-It checks Livck whenever the image is requested. No GitHub Action or repository
-configuration is required. Replace the encoded URL to use another public Livck
-status page.
-
-## Graphs
-
-The Pages gallery includes repository snapshots for:
-
-- stars
-- forks
-- open issues
-- watchers
-- top contributors
-- language usage
-
-```md
-![Stars](https://benjamin-blanke.github.io/glyph/graphs/stars.svg)
-![Languages](https://benjamin-blanke.github.io/glyph/graphs/languages.svg)
-```
-
-Graphs are refreshed daily by GitHub Actions. See
-[`docs/graphs/README.md`](docs/graphs/README.md) for the full list and local
-generation command.
+It checks Livck whenever the image is requested. Replace the encoded URL to
+use another public Livck status page.
 
 ## URL format
 
-The API badge renderer accepts the compact path format:
-
 ```text
-https://glyph-six.vercel.app/badge/<label>-<message>-<color>.svg?text=<text>&color=<bg>&labelColor=<label-bg>&logo=<icon>&style=<style>
+https://glyphbadges.dev/badge/<label>-<message>-<color>.svg?text=<text>&color=<bg>&labelColor=<label-bg>&logo=<icon>&style=<style>
 ```
 
 Example:
 
 ```text
-https://glyph-six.vercel.app/badge/Build-Passing-16A34A.svg?text=Passing&color=16A34A&labelColor=23272A&logo=check&style=rounded
+https://glyphbadges.dev/badge/Build-Passing-16A34A.svg?text=Passing&color=16A34A&labelColor=23272A&logo=check&style=rounded
 ```
 
 Available query parameters are `label`, `text`/`message`, `color`/`bg`/`background`,
@@ -112,17 +71,6 @@ are `flat`, `flat-square`, and `rounded`. See
 [`docs/URLS.md`](docs/URLS.md), [`docs/STYLES.md`](docs/STYLES.md), and
 [`docs/ICONS.md`](docs/ICONS.md).
 
-## GitHub Pages deployment
-
-The static site is deployed from `docs/` by
-[`.github/workflows/pages.yml`](.github/workflows/pages.yml) on every push to
-`main`. Set **Settings → Pages → Build and deployment → Source** to
-**GitHub Actions** once. The site will then be available at:
-
-```text
-https://benjamin-blanke.github.io/glyph/
-```
-
 ## Development
 
 ```bash
@@ -130,16 +78,10 @@ npm install
 npm run typecheck
 ```
 
-To regenerate repository graphs:
-
-```bash
-GLYPH_REPOSITORY=owner/repository npm run update:graphs
-```
-
 ## Contributing
 
 See [`docs/CONTRIBUTING.md`](docs/CONTRIBUTING.md) for the icon, SVG, testing,
-and documentation conventions. Bug reports and improvements are welcome.
+and documentation conventions.
 
 ## License
 

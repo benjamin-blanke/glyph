@@ -24,15 +24,8 @@ Do not load remote image assets inside generated SVGs.
 
 ## Adding a preset badge
 
-Add the preset to `lib/presets.ts`, generate the corresponding Pages SVG in
-`docs/badges/`, and update [`BADGES.md`](../BADGES.md) with a preview and a
-copyable Markdown snippet.
-
-## Graph changes
-
-Graph generation lives in `scripts/update-pages-graphs.mjs`. Keep generated
-files valid SVG, escape repository-provided text, and preserve a useful
-zero-data state.
+Add the preset to `lib/presets.ts` and update [`BADGES.md`](../BADGES.md) with
+the rendered API badge and customer URL parameters.
 
 ## Before opening a pull request
 
@@ -41,5 +34,5 @@ npm run typecheck
 git diff --check
 ```
 
-For visual changes, open the generated SVGs in a browser and verify that the
-Markdown examples in the documentation render correctly.
+For visual changes, open the rendered `glyphbadges.dev` URL in a browser and
+verify that the Markdown examples in the documentation render correctly.
