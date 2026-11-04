@@ -25,7 +25,8 @@ Example:
 ```
 
 The `title` and `description` values are URL-encoded and sanitized before
-rendering. The SVG loads Bricolage Grotesque from Google Fonts and uses weight
-800 for the title and weight 400 for the description. The Google Fonts variable
-family supports weights 200 through 800, but customers cannot change the font
-or style.
+rendering. The SVG embeds the official Bricolage Grotesque variable font from Google Fonts
+and uses weight 800 for the title and weight 400 for the description. The
+embedded family supports weights 200 through 800, so GitHub renders the same
+font without needing to load an external stylesheet. Customers cannot change
+the font or style.
