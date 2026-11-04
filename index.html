@@ -3,23 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='320 340 610 580'%3E%3Cstyle%3Epath{fill:%230a0a0a}@media(prefers-color-scheme:dark){path{fill:%23fff}}%3C/style%3E%3Cpath d='M706 354V470Q706 490 690 505L660 535Q645 551 625 551H508Z'/%3E%3Cpath d='M440 622H605Q622 622 640 605L700 548Q715 537 735 537H920L822 636Q808 650 788 650H648Q628 650 610 667L558 715Q548 722 535 722H340Q331 721 333 712L405 637Q420 622 440 622Z'/%3E%3Cpath d='M752 709L555 902V785Q555 765 570 750L595 725Q612 709 632 709Z'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<meta name="description" content="glyphbadges – schöne README-Badges und Charts im shadcn-Look. Kostenlos und Open Source.">
-<meta name="theme-color" content="#000000">
-<link rel="canonical" href="https://glyphbadges.dev/">
-<meta property="og:type" content="website">
-<meta property="og:site_name" content="glyphbadges">
-<meta property="og:locale" content="de_DE">
-<meta property="og:url" content="https://glyphbadges.dev/">
-<meta property="og:title" content="glyphbadges — Schöne README-Badges &amp; Charts">
-<meta property="og:description" content="Die Badges, die dein README verdient. Eine shields.io-Alternative mit der visuellen Qualität von shadcn/ui.">
-<meta property="og:image" content="https://www.glyphbadges.dev/website/v6banner.png">
-<meta property="og:image:alt" content="glyphbadges — Schöne README-Badges &amp; Charts">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="glyphbadges — Schöne README-Badges &amp; Charts">
-<meta name="twitter:description" content="Die Badges, die dein README verdient. Eine shields.io-Alternative mit der visuellen Qualität von shadcn/ui.">
-<meta name="twitter:image" content="https://www.glyphbadges.dev/website/v6banner.png">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&amp;display=swap" rel="stylesheet">
 <title>glyphbadges — Schöne README-Badges &amp; Charts</title>
@@ -29,7 +13,7 @@ box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:en
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#000;--fg:#fafafa;--muted:#9a9a9a;--card:#111;--border:#242424;--primary:#fafafa;--primary-fg:#0a0a0a}}
 :root[data-theme="dark"]{--bg:#000;--fg:#fafafa;--muted:#9a9a9a;--card:#111;--border:#242424;--primary:#fafafa;--primary-fg:#0a0a0a}
 *{box-sizing:border-box}html{scroll-padding-top:env(safe-area-inset-top,0px)}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 "Bricolage Grotesque",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+body{margin:0;overflow-x:clip;-webkit-text-size-adjust:100%;background:var(--bg);color:var(--fg);font:16px/1.6 "Bricolage Grotesque",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 a{color:inherit;text-decoration:none}
 .wrap{max-width:1040px;margin:0 auto;padding:0 20px}
 nav{display:flex;align-items:center;gap:22px;height:60px;border-bottom:1px solid var(--border)}
@@ -60,8 +44,8 @@ section{padding:44px 0;border-top:1px solid var(--border)}
 h2{font-size:28px;letter-spacing:-.025em;margin:0 0 8px}
 .sub{color:var(--muted);margin:0 0 24px}
 .card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:22px}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
-@media(max-width:760px){.grid{grid-template-columns:1fr}nav .links{display:none}}
+.grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:18px}.grid>*{min-width:0}
+@media(max-width:760px){.grid{grid-template-columns:minmax(0,1fr)}nav .links{display:none}.wrap{padding:0 14px}section{padding:30px 0}section h2{font-size:24px}.grid>.card{padding:14px}.card pre{font-size:11px;padding:10px}.card h3{font-size:16px}section .gal{grid-template-columns:repeat(auto-fill,minmax(160px,1fr))}.hero{padding:48px 0 32px}.hero p{font-size:16px}}
 .row{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px}
 .row label{display:flex;flex-direction:column;font-size:12px;color:var(--muted);gap:4px;flex:1;min-width:110px}
 .preview{display:flex;align-items:center;justify-content:center;min-height:90px;border:1px dashed var(--border);border-radius:10px;margin-bottom:14px}
@@ -77,6 +61,39 @@ footer .soc{display:flex;gap:10px}
 footer .soc a{display:flex;align-items:center;justify-content:center;width:40px;height:40px;padding:0;border:1px solid var(--border);border-radius:10px;background:var(--card);transition:transform .15s,border-color .15s}
 footer .soc a:hover{transform:translateY(-2px);border-color:var(--fg)}
 footer .soc svg{width:18px;height:18px;fill:currentColor}
+
+.f{display:flex;flex-direction:column;gap:4px;font-size:12px;color:var(--muted);min-width:0}
+.fg{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px}
+.col{display:flex;gap:8px}.col input[type=color]{width:42px;padding:2px;flex:none;height:38px}.col input[type=text]{flex:1}
+.stage{display:flex;align-items:center;justify-content:center;min-height:120px;border:1px dashed var(--border);border-radius:10px;margin-bottom:14px;padding:16px;overflow-x:auto}
+.stage svg,.gi svg{display:block;max-width:none}
+.out{display:flex;flex-direction:column;gap:10px}.out .lab{font-size:12px;color:var(--muted);display:flex;justify-content:space-between;align-items:center}
+.out .btn{padding:3px 10px;font-size:12px}
+.gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px;max-height:520px;overflow-y:auto;padding:2px}
+.gi{display:flex;flex-direction:column;gap:8px;align-items:flex-start;padding:12px;border:1px solid var(--border);border-radius:10px;background:var(--card);cursor:pointer;text-align:left;color:var(--fg);font:inherit}
+.gi:hover{border-color:var(--fg)}.gi span{font-size:11px;color:var(--muted)}
+.toolbar{display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap}.toolbar input{flex:1;min-width:180px}
+@media(max-width:760px){.fg{grid-template-columns:1fr}}
+
+.hero{position:relative;overflow:hidden;isolation:isolate}
+.hero:before{content:"";position:absolute;inset:0;z-index:-1;opacity:.55;background:radial-gradient(60% 60% at 50% 0,color-mix(in srgb,var(--fg) 16%,transparent),transparent 70%),linear-gradient(var(--border) 1px,transparent 1px) 0 0/48px 48px,linear-gradient(90deg,var(--border) 1px,transparent 1px) 0 0/48px 48px;-webkit-mask-image:radial-gradient(70% 80% at 50% 20%,#000,transparent);mask-image:radial-gradient(70% 80% at 50% 20%,#000,transparent)}
+.marq{margin-top:34px;display:flex;flex-direction:column;gap:10px;-webkit-mask-image:linear-gradient(90deg,transparent,#000 12%,#000 88%,transparent);mask-image:linear-gradient(90deg,transparent,#000 12%,#000 88%,transparent)}
+.mr{overflow:hidden}.mt{display:flex;gap:10px;padding-right:10px;width:max-content;animation:mq 70s linear infinite}.rev .mt{animation-direction:reverse}
+@keyframes mq{to{transform:translateX(-50%)}}
+@media(prefers-reduced-motion:reduce){.mt{animation:none}}
+.chip{border:1px solid var(--border);background:var(--card);color:var(--fg);border-radius:99px;padding:4px 12px;font:inherit;font-size:13px;cursor:pointer}
+.chip.on{background:var(--primary);color:var(--primary-fg);border-color:var(--primary)}
+.tb{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px;align-items:center}.tb .chip{font-size:12px;padding:3px 10px}
+.stage[data-bg=white]{background:#fff}.stage[data-bg=gh]{background:#0d1117}
+.stage[data-bg=check]{background:conic-gradient(#8884 25%,#0000 0 50%,#8884 0 75%,#0000 0) 0 0/16px 16px}
+.si{display:flex;align-items:center;gap:6px;padding:8px 10px;border:1px solid var(--border);border-radius:10px;background:var(--bg);margin-bottom:8px;overflow-x:auto}
+.sp2{flex:1}.si .btn{padding:2px 9px}
+
+.card h3{margin:0 0 10px;font-size:17px;letter-spacing:-.01em}
+textarea{background:var(--card);color:var(--fg);border:1px solid var(--border);border-radius:8px;padding:9px 12px;font:12.5px/1.5 ui-monospace,Menlo,Consolas,monospace;width:100%;min-height:110px;resize:vertical;margin-bottom:10px}
+.pvl{border:1px dashed var(--border);border-radius:10px;padding:10px;margin-bottom:10px;overflow-x:auto;white-space:nowrap}.pvl svg{display:inline-block;vertical-align:middle;margin:3px}
+.sw{width:34px;height:22px;border-radius:6px;border:1px solid var(--border);cursor:pointer;padding:0}.sw:hover{transform:scale(1.12)}
+.gi{position:relative}.gi .fv{position:absolute;right:10px;top:8px;font-size:16px;color:var(--muted);cursor:pointer}.gi .fv.on{color:#f59e0b}
 </style>
 </head>
 <body>
@@ -89,7 +106,7 @@ footer .soc svg{width:18px;height:18px;fill:currentColor}
 <div class="wrap">
 <nav>
   <a class="brand" href="#"><svg><use href="#g"/></svg>glyphbadges</a>
-  <div class="links"><a href="#showcase">Showcase</a><a href="#charts">Charts</a></div>
+  <div class="links"><a href="#generator">Generator</a><a href="#stack">Stack</a><a href="#tools">Werkzeuge</a><a href="#gallery">Galerie</a><a href="#dynamic">Dynamisch</a><a href="#charts">Charts</a></div>
   <span class="sp"></span>
   <button class="btn" id="theme" aria-label="Theme wechseln">◐</button>
   <a class="btn p" href="https://github.com/benjamin-blanke/glyph" target="_blank" rel="noopener">GitHub</a>
@@ -100,13 +117,90 @@ footer .soc svg{width:18px;height:18px;fill:currentColor}
   <a class="pill" href="#charts">Neu · Header-Banner für dein README →</a>
   <h1>Die Badges, die dein <code>README</code> verdient.</h1>
   <p>Eine shields.io-Alternative mit der visuellen Qualität von shadcn/ui. Badges und Charts. Unendlich viele Kombinationen.</p>
-  <div class="badges" id="demo"></div>
+  <div class="marq" id="marq" aria-hidden="true"></div>
 </header>
 
-<section id="showcase">
-  <h2>Showcase</h2>
-  <p class="sub">Vier Stile, ein Look – passend zu jedem README.</p>
-  <div class="grid" id="show"></div>
+<section id="generator">
+  <h2>Badge-Generator</h2>
+  <p class="sub">Live-Vorschau mit demselben Renderer wie die API – die ausgegebene URL liefert exakt dieses SVG.</p>
+  <div class="grid">
+    <div class="card">
+      <div class="f" style="margin-bottom:12px">Preset<select id="pre"></select></div>
+      <div class="fg">
+        <label class="f">Label<input id="lab" maxlength="32"></label>
+        <label class="f">Text<input id="msg" maxlength="80"></label>
+      </div>
+      <div class="fg">
+        <label class="f">Hintergrund (Text-Seite)<div class="col"><input type="color" id="bgc"><input type="text" id="bg" maxlength="7"></div></label>
+        <label class="f">Label-Hintergrund<div class="col"><input type="color" id="lbc"><input type="text" id="lb" maxlength="7"></div></label>
+      </div>
+      <div class="f" style="margin-bottom:12px">Farbschemata<div class="tb" id="sch" style="margin:0"></div></div>
+      <div class="fg" style="margin-bottom:0">
+        <label class="f">Logo<select id="logo"></select></label>
+        <label class="f">Stil<select id="sty"><option>flat</option><option>flat-square</option><option>rounded</option></select></label>
+      </div>
+    </div>
+    <div class="card">
+      <div class="tb" id="sbw"><button class="chip on" data-sb="auto">Auto</button><button class="chip" data-sb="white">Weiß</button><button class="chip" data-sb="gh">GitHub dunkel</button><button class="chip" data-sb="check">Schachbrett</button><select id="zoom" style="margin-left:auto;padding:3px 8px"><option value="1">1×</option><option value="2">2×</option><option value="3">3×</option></select></div>
+      <div class="stage" id="stage"></div>
+      <div class="sub" id="hint" style="font-size:12px;margin:-4px 0 12px"></div>
+      <div class="tb"><button class="btn" id="rnd">🎲 Zufall</button><button class="btn" id="sadd">＋ In Stapel</button><button class="btn" id="dsvg">SVG laden</button><button class="btn" id="dpng">PNG laden</button></div>
+      <div class="fg" style="margin-bottom:12px"><label class="f">Link (optional)<input id="lnk" placeholder="https://…"></label><label class="f">URL importieren<input id="imp" placeholder="https://glyphbadges.dev/badge/…"></label></div>
+      <div class="out">
+        <div><div class="lab">URL <button class="btn" data-c="u">Kopieren</button></div><pre id="u"></pre></div>
+        <div><div class="lab">Markdown <button class="btn" data-c="m">Kopieren</button></div><pre id="m"></pre></div>
+        <div><div class="lab">HTML <button class="btn" data-c="h">Kopieren</button></div><pre id="h"></pre></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="stack">
+  <h2>README-Stack</h2>
+  <p class="sub">Sammle mehrere Badges, sortiere sie und kopiere den fertigen Block fürs README. Der Stapel bleibt lokal gespeichert.</p>
+  <div class="grid">
+    <div class="card"><div id="sl"></div><div class="tb" style="margin:12px 0 0"><button class="btn" id="sex">Beispiel laden</button><button class="btn" id="scl">Leeren</button></div></div>
+    <div class="card"><div class="f" style="margin-bottom:12px">Ausgabe<select id="sal"><option value="left">Markdown (nebeneinander)</option><option value="center">HTML (zentriert)</option></select></div><pre id="so"></pre><div style="margin-top:10px"><button class="btn" data-c="so">Kopieren</button></div></div>
+  </div>
+</section>
+
+<section id="tools">
+  <h2>Werkzeuge</h2>
+  <p class="sub">Status-Builder, Bulk-Erstellung, Migration von shields.io und fertige README-Vorlagen.</p>
+  <div class="grid">
+    <div class="card"><h3>Status-Builder</h3><div class="tb" id="stc"></div><div class="stage" id="sts" style="min-height:70px"></div><pre id="sto"></pre><div style="margin-top:10px"><button class="btn" data-c="sto">Kopieren</button></div></div>
+    <div class="card"><h3>Bulk-Generator</h3><p class="sub" style="font-size:13px;margin:0 0 8px">Eine Zeile pro Badge: Label | Text | Farbe | Logo | Stil</p>
+      <textarea id="bin">Build | Passing | 16A34A | check
+Discord | Join us | 5865F2 | discord | rounded
+License | MIT | 64748B</textarea><div class="pvl" id="bpv"></div><pre id="bout"></pre><div style="margin-top:10px"><button class="btn" data-c="bout">Kopieren</button></div></div>
+    <div class="card"><h3>shields.io-Migrator</h3><p class="sub" style="font-size:13px;margin:0 0 8px">README einfügen – statische shields.io-Badges werden zu glyphbadges-URLs.</p>
+      <textarea id="min" placeholder="![build](https://img.shields.io/badge/build-passing-brightgreen)"></textarea><div class="sub" id="mst" style="font-size:12px;margin:0 0 8px"></div><textarea id="mout" readonly></textarea><button class="btn" data-c="mout">Ergebnis kopieren</button></div>
+    <div class="card"><h3>README-Vorlage</h3>
+      <div class="fg"><label class="f">Projektname<input id="tname" value="Mein Projekt"></label><label class="f">Vorlage<select id="ttpl"><option value="bot">Discord-Bot</option><option value="lib">Bibliothek</option><option value="hosting">Hosting / Service</option><option value="social">Social-Profil</option></select></label></div>
+      <label class="f" style="margin-bottom:12px">Beschreibung<input id="tdesc" value="Kurze Beschreibung deines Projekts."></label>
+      <div class="pvl" id="tpv"></div><pre id="tout"></pre><div class="tb" style="margin:10px 0 0"><button class="btn" data-c="tout">Kopieren</button><button class="btn" id="tst">In Stack übernehmen</button></div></div>
+  </div>
+</section>
+
+<section id="gallery">
+  <h2>Galerie</h2>
+  <p class="sub">Alle Presets aus <code>lib/presets.ts</code> – Klick lädt sie in den Generator.</p>
+  <div class="toolbar"><input id="q" placeholder="Presets durchsuchen …"><span class="pill" id="cnt"></span></div>
+  <div class="tb" id="chips"></div>
+  <div class="gal" id="gal"></div>
+</section>
+
+<section id="dynamic">
+  <h2>Dynamische Badges</h2>
+  <p class="sub">Diese Badges holen beim Abruf Live-Daten. Die Vorschau gibt es nur über die laufende API, hier baust du die URL.</p>
+  <div class="grid">
+    <div class="card"><h3 style="margin:0 0 4px">Discord-User</h3><p class="sub" style="font-size:14px">Avatar und @username über Lanyard.</p>
+      <label class="f" style="margin-bottom:12px">Discord User-ID<input id="did" value="123456789012345678"></label>
+      <pre id="dout"></pre><div style="margin-top:10px"><button class="btn" data-c="dout">Kopieren</button></div></div>
+    <div class="card"><h3 style="margin:0 0 4px">Livck Status <span class="pill">Beta</span></h3><p class="sub" style="font-size:14px">Liest eine öffentliche Livck-Statusseite.</p>
+      <label class="f" style="margin-bottom:12px">Statusseiten-URL<input id="lurl" value="https://status.waveserv.com"></label>
+      <pre id="lout"></pre><div style="margin-top:10px"><button class="btn" data-c="lout">Kopieren</button></div></div>
+  </div>
 </section>
 
 <section id="charts">
@@ -126,7 +220,7 @@ footer .soc svg{width:18px;height:18px;fill:currentColor}
 <footer><div class="wrap">
   <div class="cols">
     <div><h4>glyphbadges</h4><span>Schöne README-Badges &amp; Charts.</span></div>
-    <div><h4>Navigation</h4><a href="#showcase">Showcase</a><a href="#charts">Charts</a></div>
+    <div><h4>Navigation</h4><a href="#generator">Generator</a><a href="#stack">Stack</a><a href="#tools">Werkzeuge</a><a href="#gallery">Galerie</a><a href="#dynamic">Dynamisch</a><a href="#charts">Charts</a></div>
     <div><h4>Social</h4><div class="soc">
 <a href="https://github.com/benjamin-blanke/glyph" target="_blank" rel="noopener" aria-label="GitHub" title="GitHub"><svg viewBox="0 0 16 16"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/></svg></a>
 <a href="#" aria-label="Discord" title="Discord"><svg viewBox="0 0 24 24"><path d="M5 5.5Q8.5 4 12 4t7 1.5Q21 10 21.500 17Q18.500 19.200 15.500 19.700l-.9-1.500q-1.300.3-2.600.3t-2.600-.3l-.9 1.500Q5.500 19.200 2.500 17Q3 10 5 5.500Z"/><circle cx="8.800" cy="12" r="1.700" fill="var(--card)"/><circle cx="15.200" cy="12" r="1.700" fill="var(--card)"/></svg></a>
@@ -138,16 +232,116 @@ footer .soc svg{width:18px;height:18px;fill:currentColor}
 </div></footer>
 
 <script>
+const DATA={"icons":{"heart":{"path":"M12 21s-8.5-5.2-8.5-11.3A4.7 4.7 0 0 1 12 6.8a4.7 4.7 0 0 1 8.5 2.9C20.5 15.8 12 21 12 21Z","color":"#FFFFFF"},"instagram":{"path":"M7 2h10a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H7a5 5 0 0 1-5-5V7a5 5 0 0 1 5-5Zm0 2a3 3 0 0 0-3 3v10a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V7a3 3 0 0 0-3-3H7Zm5 3a5 5 0 1 1 0 10 5 5 0 0 1 0-10Zm0 2a3 3 0 1 0 0 6 3 3 0 0 0 0-6Zm5.5-3a1.2 1.2 0 1 1 0 2.4 1.2 1.2 0 0 1 0-2.4Z","color":"#FFFFFF"},"check":{"path":"m9.2 16.2-4-4-1.8 1.8 5.8 5.8L21 8l-1.8-1.8-10 10Z","color":"#FFFFFF"},"gitlab":{"path":"M22.65 13.1 12 22.8 1.35 13.1a1.1 1.1 0 0 1-.3-1.22L3.6 3.2a.58.58 0 0 1 1.1 0l1.9 5.8h10.8l1.9-5.8a.58.58 0 0 1 1.1 0l2.55 8.68a1.1 1.1 0 0 1-.3 1.22Z","color":"#FFFFFF"},"website":{"path":"M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm7.9 9h-3.1a15.8 15.8 0 0 0-1.3-5.1A8.03 8.03 0 0 1 19.9 11ZM12 4c.9 1.3 1.6 4 1.8 7h-3.6c.2-3 .9-5.7 1.8-7ZM4.1 13h3.1c.1 1.8.6 3.6 1.3 5.1A8.03 8.03 0 0 1 4.1 13Zm3.1-2H4.1a8.03 8.03 0 0 1 4.4-5.1A15.8 15.8 0 0 0 7.2 11Zm2 2h5.6c-.2 3-.9 5.7-1.8 7-.9-1.3-1.6-4-1.8-7Zm6.3 5.1c.7-1.5 1.2-3.3 1.3-5.1h3.1a8.03 8.03 0 0 1-4.4 5.1Z","color":"#FFFFFF"},"twitch":{"path":"M4 2 1 5v16h5v3h3l3-3h4l7-7V2H4Zm16 11-4 4h-5l-3 3v-3H4V4h16v9Zm-3-6h-2v5h2V7Zm-5 0h-2v5h2V7Z","color":"#FFFFFF"},"tiktok":{"path":"M19.6 5.4a5.6 5.6 0 0 1-3.4-3.2V2h-3.7v13.7a2.8 2.8 0 1 1-2.8-2.8c.4 0 .8.1 1.1.2V9.3a6.7 6.7 0 1 0 5.4 6.5V9a9.3 9.3 0 0 0 5.4 1.7V7a5.7 5.7 0 0 1-2-.4Z","color":"#FFFFFF"},"youtube":{"path":"M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8ZM9.6 15.6V8.4l6.3 3.6-6.3 3.6Z","color":"#FFFFFF"},"vercel":{"path":"M12 2 24 22H0L12 2Z","color":"#FFFFFF"},"status":{"path":"M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm-1.2 14.5-4-4 1.7-1.7 2.3 2.3 4.9-4.9 1.7 1.7-6.6 6.6Z","color":"#FFFFFF"},"x":{"path":"M18.9 2H22l-6.8 7.8L23.2 22h-6.3L12 14.8 5.7 22H2.5l7.3-8.4L1.8 2h6.5l4.4 6.6L18.9 2Zm-1.1 18h1.7L7.3 3.9H5.5L17.8 20Z","color":"#FFFFFF"},"npm":{"path":"M1 8h22v8H12v2H7v-2H1V8Zm3 2v4h2v-4H4Zm4 0v6h2v-2h2v-4H8Zm2 1h1v2h-1v-2Zm5-1v4h2v-2h2v-2h-6Zm6 0v4h2v-4h-2Z","color":"#FFFFFF"},"github":{"path":"M12 .9a11.1 11.1 0 0 0-3.51 21.63c.55.1.76-.24.76-.53v-2.08c-3.1.67-3.76-1.32-3.76-1.32-.5-1.3-1.23-1.65-1.23-1.65-1.01-.7.08-.69.08-.69 1.12.08 1.71 1.15 1.71 1.15.99 1.7 2.6 1.21 3.23.92.1-.72.39-1.21.7-1.49-2.48-.28-5.09-1.24-5.09-5.52 0-1.22.44-2.22 1.15-3-.12-.28-.5-1.42.11-2.96 0 0 .94-.3 3.05 1.14a10.6 10.6 0 0 1 5.55 0c2.12-1.44 3.05-1.14 3.05-1.14.61 1.54.23 2.68.11 2.96.72.78 1.15 1.78 1.15 3 0 4.29-2.62 5.24-5.11 5.52.4.35.75 1.03.75 2.08V22c0 .29.2.63.77.52A11.1 11.1 0 0 0 12 .9Z","color":"#FFFFFF"},"star":{"path":"m12 2 3.1 6.3 6.9 1-5 4.9 1.2 6.9-6.2-3.3-6.2 3.3 1.2-6.9-5-4.9 6.9-1L12 2Z","color":"#FFFFFF"},"mail":{"path":"M3 5.5h18v13H3z M3 6l9 7 9-7 M3 18.5l6-6 M21 18.5l-6-6","color":"#FFFFFF"},"discord":{"path":"M19.73 5.02A18.2 18.2 0 0 0 15.2 3.6l-.22.45a16.8 16.8 0 0 1 4.02 1.3 15.4 15.4 0 0 0-4.35-1.1 15.8 15.8 0 0 0-4.3 0A15.4 15.4 0 0 0 6 5.35a16.8 16.8 0 0 1 4.02-1.3l-.22-.45a18.2 18.2 0 0 0-4.53 1.42C2.4 9.2 1.62 13.3 2 17.35a18.4 18.4 0 0 0 5.56 2.8l1.2-1.95a11.8 11.8 0 0 1-1.9-.92l.46-.36c3.67 1.7 7.65 1.7 11.28 0l.47.36a11.8 11.8 0 0 1-1.9.92l1.2 1.95a18.4 18.4 0 0 0 5.56-2.8c.45-4.7-.77-8.76-4.2-12.33ZM9.2 14.8c-1.1 0-2-.98-2-2.18s.88-2.18 2-2.18 2.02.99 2 2.18c0 1.2-.88 2.18-2 2.18Zm5.6 0c-1.1 0-2-.98-2-2.18s.88-2.18 2-2.18 2.02.99 2 2.18c0 1.2-.88 2.18-2 2.18Z","color":"#FFFFFF"}},"presets":{"discord":["Discord","Join the community","5865F2","discord"],"github":["GitHub","Star the repo","181717","github"],"gitlab":["GitLab","View project","FC6D26","gitlab"],"youtube":["YouTube","Subscribe","FF0033","youtube"],"twitch":["Twitch","Follow","9146FF","twitch"],"instagram":["Instagram","Follow","C13584","instagram"],"x":["X","Follow","000000","x"],"tiktok":["TikTok","Follow","111111","tiktok"],"npm":["npm","Package","CB3837","npm"],"vercel":["Vercel","Deploy","000000","vercel"],"website":["Website","Visit","2563EB","website"],"status":["Status","All systems operational","16A34A","status"],"operational":["Status","Operational","16A34A","check"],"degraded":["Status","Degraded performance","F59E0B","status"],"down":["Status","Major outage","DC2626","status"],"maintenance":["Status","Maintenance","7C3AED","status"],"incident":["Status","Incident","EA580C","status"],"investigating":["Status","Investigating","F59E0B","status"],"monitoring":["Status","Monitoring","2563EB","status"],"resolved":["Status","Resolved","16A34A","check"],"scheduled":["Status","Scheduled maintenance","7C3AED","status"],"online":["Status","Online","16A34A","check"],"offline":["Status","Offline","DC2626","status"],"beta":["Status","Beta","8B5CF6","status"],"live":["Status","Live","16A34A","check"],"paused":["Status","Paused","64748B","status"],"updated":["Status","Updated","2563EB","status"],"build":["Build","Passing","16A34A","check"],"coverage":["Coverage","98%","16A34A","check"],"release":["Release","v1.0.0","2563EB","status"],"license":["License","MIT","64748B","status"],"docs":["Docs","Read the docs","2563EB","website"],"sponsors":["Sponsors","Support us","EC4899","heart"],"downloads":["Downloads","1.2k","8B5CF6","status"],"stars":["Stars","904","F59E0B","star"],"livck-beta":["Livck Beta","Beta","8B5CF6","status"],"availability":["Availability","99.99%","16A34A","check"],"performance":["Performance","Excellent","16A34A","check"],"latency":["Latency","120ms","2563EB","status"],"uptime":["Uptime","99.9%","16A34A","check"],"response-time":["Response time","Fast","16A34A","check"],"api":["API","Operational","16A34A","check"],"database":["Database","Healthy","16A34A","check"],"cache":["Cache","Healthy","16A34A","check"],"queue":["Queue","Processing","2563EB","status"],"security":["Security","Protected","16A34A","check"],"stable":["Channel","Stable","16A34A","check"],"experimental":["Channel","Experimental","F59E0B","status"],"deprecated":["Status","Deprecated","64748B","status"],"archived":["Status","Archived","64748B","status"],"verified":["Status","Verified","2563EB","check"],"community":["Community","Active","16A34A","check"],"public":["Visibility","Public","2563EB","status"],"private":["Visibility","Private","64748B","status"],"open-source":["Project","Open source","2563EB","website"],"documentation":["Docs","Available","2563EB","website"],"roadmap":["Roadmap","In progress","8B5CF6","status"],"changelog":["Changelog","Updated","2563EB","status"],"version":["Version","2.0.0","8B5CF6","status"],"node":["Node.js","Supported","339933","check"],"typescript":["TypeScript","Supported","3178C6","check"],"react":["React","Supported","61DAFB","check"],"vue":["Vue","Supported","42B883","check"],"python":["Python","Supported","3776AB","check"],"rust":["Rust","Supported","DEA584","check"],"go":["Go","Supported","00ADD8","check"],"docker":["Docker","Ready","2496ED","check"],"github-actions":["Actions","Passing","2088FF","check"],"ci":["CI","Passing","16A34A","check"],"cd":["CD","Deployed","8B5CF6","check"],"tests":["Tests","Passing","16A34A","check"],"lint":["Lint","Passing","16A34A","check"],"typecheck":["Typecheck","Passing","16A34A","check"],"codeql":["CodeQL","Passing","16A34A","check"],"dependabot":["Dependabot","Enabled","16A34A","check"],"package":["Package","Published","CB3837","status"],"downloads-week":["Downloads","1.2k/week","8B5CF6","status"],"downloads-month":["Downloads","4.8k/month","8B5CF6","status"],"issues-open":["Issues","12 open","F59E0B","status"],"prs-open":["Pull requests","4 open","2563EB","status"],"contributors":["Contributors","24","8B5CF6","status"],"commits":["Commits","1.2k","8B5CF6","status"],"forks":["Forks","48","2563EB","status"],"watchers":["Watchers","32","2563EB","status"],"stars-total":["Stars","904","F59E0B","star"],"release-latest":["Release","Latest","16A34A","check"],"status-operational":["Status","Operational","16A34A","check"],"status-degraded":["Status","Degraded","F59E0B","status"],"status-down":["Status","Down","DC2626","status"],"status-maintenance":["Status","Maintenance","7C3AED","status"],"status-monitoring":["Status","Monitoring","2563EB","status"],"status-resolved":["Status","Resolved","16A34A","check"],"security-score":["Security","A+","16A34A","check"],"bundle-size":["Bundle","Small","16A34A","check"],"memory":["Memory","Efficient","16A34A","check"],"accessibility":["Accessibility","AA","16A34A","check"],"quality":["Quality","Excellent","16A34A","check"],"reviewed":["Review","Approved","16A34A","check"],"backers":["Backers","24","EC4899","heart"],"downloads-total":["Downloads","10k","8B5CF6","status"],"issues-closed":["Issues","98% closed","16A34A","check"],"pr-merged":["Pull requests","92% merged","16A34A","check"],"contributors-active":["Contributors","Active","16A34A","check"],"commit-frequency":["Commits","Daily","8B5CF6","status"],"build-time":["Build","42s","2563EB","status"],"api-version":["API","v2","2563EB","status"],"security-audit":["Security","Audited","16A34A","check"],"privacy":["Privacy","Protected","16A34A","check"],"reliability":["Reliability","High","16A34A","check"],"scalable":["Scaling","Ready","2563EB","status"],"fast":["Performance","Fast","16A34A","check"],"accessible":["Accessibility","Accessible","16A34A","check"],"responsive":["Design","Responsive","2563EB","status"],"mobile-ready":["Mobile","Ready","2563EB","status"],"production":["Environment","Production","16A34A","check"],"staging":["Environment","Staging","F59E0B","status"],"development":["Environment","Development","8B5CF6","status"],"self-hosted":["Hosting","Self-hosted","64748B","status"],"cloud":["Hosting","Cloud","2563EB","status"],"serverless":["Architecture","Serverless","8B5CF6","status"],"edge":["Network","Edge","2563EB","status"],"webhooks":["Integration","Webhooks","8B5CF6","status"],"oauth":["Auth","OAuth","2563EB","status"],"sso":["Auth","SSO","2563EB","status"],"support":["Support","Available","16A34A","check"],"community-driven":["Community","Driven","EC4899","heart"],"mail":["Mail","Contact us","2563EB","mail"],"email":["Email","Verified","16A34A","mail"],"newsletter":["Newsletter","Subscribe","7C3AED","mail"],"contact":["Contact","Available","2563EB","mail"],"slack":["Slack","Join workspace","4A154B","status"],"telegram":["Telegram","Join channel","229ED9","status"],"reddit":["Reddit","Join community","FF4500","status"],"medium":["Medium","Read article","000000","website"],"devto":["DEV","Read posts","0A0A0A","website"],"stackoverflow":["Stack Overflow","Ask a question","F48024","status"],"product-hunt":["Product Hunt","Featured","DA552F","star"],"patreon":["Patreon","Support us","FF424D","heart"],"buy-me-a-coffee":["Support","Buy me a coffee","FFDD00","heart"],"paypal":["PayPal","Donate","003087","heart"],"stripe":["Stripe","Payments ready","635BFF","check"],"square":["Square","Payments ready","3E4348","check"],"firebase":["Firebase","Connected","FFCA28","check"],"supabase":["Supabase","Connected","3ECF8E","check"],"postgresql":["PostgreSQL","Supported","4169E1","check"],"mysql":["MySQL","Supported","4479A1","check"],"mongodb":["MongoDB","Supported","47A248","check"],"redis":["Redis","Connected","DC382D","check"],"graphql":["GraphQL","Supported","E10098","check"],"rest-api":["REST API","Available","2563EB","website"],"grpc":["gRPC","Available","4285F4","check"],"websocket":["WebSocket","Connected","16A34A","check"],"kubernetes":["Kubernetes","Ready","326CE5","check"],"terraform":["Terraform","Managed","844FBA","check"],"ansible":["Ansible","Automated","EE0000","check"],"jenkins":["Jenkins","Passing","D24939","check"],"circleci":["CircleCI","Passing","343434","check"],"travis-ci":["Travis CI","Passing","3EAAAF","check"],"codecov":["Codecov","Passing","F01F7A","check"],"sonarqube":["SonarQube","Quality gate","4E9BCD","check"],"snyk":["Snyk","Protected","4C4A73","check"],"npm-downloads":["npm","Downloads","CB3837","npm"],"pypi":["PyPI","Published","3775A9","status"],"crates":["crates.io","Published","DEA584","status"],"docker-pulls":["Docker","Pulls","2496ED","status"],"github-release":["GitHub","Latest release","181717","github"],"github-issues":["GitHub","Issues open","181717","github"],"github-discussions":["GitHub","Discussions","181717","github"],"gitlab-pipeline":["GitLab","Pipeline passing","FC6D26","gitlab"],"bitbucket":["Bitbucket","Repository","0052CC","website"],"codeberg":["Codeberg","Repository","2185D0","website"],"cloudflare":["Cloudflare","Protected","F38020","check"],"aws":["AWS","Deployed","FF9900","check"],"azure":["Azure","Deployed","0078D4","check"],"google-cloud":["Google Cloud","Deployed","4285F4","check"],"digitalocean":["DigitalOcean","Deployed","0080FF","check"],"railway":["Railway","Deployed","111111","check"],"render":["Render","Deployed","46E3B7","check"],"netlify":["Netlify","Deployed","00C7B7","check"],"security-verified":["Security","Verified","16A34A","check"],"privacy-safe":["Privacy","Safe","16A34A","check"],"gdpr":["GDPR","Compliant","2563EB","check"],"soc2":["SOC 2","Compliant","2563EB","check"],"accessible-aa":["Accessibility","AA","16A34A","check"],"openapi":["OpenAPI","Documented","6BA539","website"],"rss":["RSS","Subscribe","F26522","website"],"docs-site":["Docs","Online","2563EB","website"],"roadmap-public":["Roadmap","Public","8B5CF6","website"],"feedback":["Feedback","Welcome","EC4899","heart"],"early-access":["Access","Early access","8B5CF6","star"],"coming-soon":["Project","Coming soon","64748B","status"],"archived-project":["Project","Archived","64748B","status"]}};
+const BASE='https://glyphbadges.dev';
 const $=id=>document.getElementById(id);
-const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const badge=(l,v,s,h)=>`<span class="b ${s}" style="${h?'height:'+h+'px':''}"><i></i>${esc(l)}<span class="v">${esc(v)}</span></span>`;
-function demo(){
-  $('demo').innerHTML=[['npm','v1.0.0','default'],['stars','939','secondary'],['license','MIT','outline'],['discord','online','secondary'],['build','passing','default'],['glyph','♥','ghost']].map(a=>badge(...a)).join('');
-  const sets={default:[['npm','v1.0.0'],['build','passing'],['coverage','98%']],secondary:[['stars','939'],['forks','42'],['issues','3']],outline:[['license','MIT'],['node','≥ 20'],['types','included']],ghost:[['downloads','12k/mo'],['size','4 kB'],['status','online']]};
-  $('show').innerHTML=Object.entries(sets).map(([s,l])=>`<div class="card"><div class="sub" style="margin:0 0 12px;font-size:13px">${s}</div><div class="badges" style="justify-content:flex-start;margin-top:0">${l.map(a=>badge(a[0],a[1],s)).join('')}</div></div>`).join('');
+const HEX=/^[0-9a-fA-F]{3}(?:[0-9a-fA-F]{3})?$/;
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&apos;'}[c]));
+const safeText=(v,f,m)=>{v=String(v||'').replace(/[\u0000-\u001f\u007f]/g,'').trim().slice(0,m);return v||f};
+const norm=(v,f)=>{v=String(v||'').trim().replace(/^#/,'');if(!HEX.test(v))return f;return (v.length===3?v.split('').map(c=>c+c).join(''):v).toUpperCase()};
+const tw=(v,fs,p)=>Math.max(28,Math.ceil(v.length*fs*.62+p*2));
+const rad=s=>s==='flat-square'?0:s==='rounded'?8:4;
+let uid=0;
+function renderBadge(b){
+  const n=++uid,icon=DATA.icons[b.logo],sp=icon?22:0,lw=tw(b.label,11,10)+sp,rw=tw(b.message,11,11),w=lw+rw,r=rad(b.style);
+  const ic=icon?`<svg x="7" y="6" width="15" height="15" viewBox="${icon.viewBox||'0 0 24 24'}" aria-hidden="true"><path fill="${icon.color||'#FFFFFF'}" d="${icon.path}"/></svg>`:'';
+  const lx=lw/2+(icon?7:0),mx=lw+rw/2,t=esc(b.label+' '+b.message);
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${w}" height="28" viewBox="0 0 ${w} 28" role="img" aria-label="${t}"><title>${t}</title><defs><linearGradient id="sh${n}" x2="0" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".08"/><stop offset="1" stop-color="#000" stop-opacity=".04"/></linearGradient><clipPath id="cl${n}"><rect width="${w}" height="28" rx="${r}"/></clipPath></defs><g clip-path="url(#cl${n})"><rect width="${lw}" height="28" fill="#${b.labelColor}"/><rect x="${lw}" width="${rw}" height="28" fill="#${b.color}"/><rect width="${w}" height="28" fill="url(#sh${n})"/>${ic}<g fill="#fff" font-family="Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,sans-serif" font-size="11" font-weight="600" text-anchor="middle"><text x="${lx}" y="18.5">${esc(b.label)}</text><text x="${mx}" y="18.5">${esc(b.message)}</text></g></g></svg>`;
 }
+const fromPreset=k=>{const p=DATA.presets[k];return{label:p[0],message:p[1],color:p[2],labelColor:'23272A',logo:p[3],style:'flat'}};
+const state=()=>({label:safeText($('lab').value,'Discord',32),message:safeText($('msg').value,'Join the community',80),color:norm($('bg').value,'5865F2'),labelColor:norm($('lb').value,'23272A'),logo:$('logo').value,style:$('sty').value});
+function urls(b){
+  const slug=s=>encodeURIComponent(s.replace(/-/g,' ').trim().replace(/\s+/g,'-'));
+  const q=new URLSearchParams({label:b.label,text:b.message,bg:b.color,labelBg:b.labelColor,logo:b.logo,style:b.style}).toString().replace(/\+/g,'%20');
+  const u=`${BASE}/badge/${slug(b.label.split(' ')[0])}-${slug(b.message)}-${b.color}.svg?${q}`;
+  return{u,m:`![${b.label} ${b.message}](${u})`,h:`<img src="${u}" alt="${esc(b.label+' '+b.message)}">`};
+}
+function sync(){
+  const b=state();$('stage').innerHTML=renderBadge(b);
+  const o=urls(b),k=($('lnk').value||'').trim();$('u').textContent=o.u;$('m').textContent=k?`[${o.m}](${k})`:o.m;$('h').textContent=k?`<a href="${esc(k)}">${o.h}</a>`:o.h;hint(b);$('stage').style.zoom=$('zoom').value;
+  $('bgc').value='#'+(b.color.length===6?b.color:'5865F2').toLowerCase();$('lbc').value='#'+b.labelColor.toLowerCase();
+}
+function load(b){$('lab').value=b.label;$('msg').value=b.message;$('bg').value='#'+b.color;$('lb').value='#'+b.labelColor;$('logo').value=b.logo;$('sty').value=b.style;sync()}
+const keys=Object.keys(DATA.presets);
+$('pre').innerHTML=keys.map(k=>`<option value="${esc(k)}">${esc(k)}</option>`).join('');
+$('logo').innerHTML=['none',...Object.keys(DATA.icons)].map(k=>`<option>${k}</option>`).join('');
+$('pre').onchange=()=>load(fromPreset($('pre').value));
+['lab','msg','bg','lb','logo','sty'].forEach(i=>$(i).addEventListener('input',sync));
+$('bgc').oninput=e=>{$('bg').value=e.target.value;sync()};$('lbc').oninput=e=>{$('lb').value=e.target.value;sync()};
+function gallery(){
+  const f=$('q').value.trim().toLowerCase(),l=keys.filter(k=>(chip==='Alle'||(chip==='Favoriten'?fav.has(k):cat(k)===chip))&&(!f||k.includes(f)||DATA.presets[k].join(' ').toLowerCase().includes(f)));
+  $('cnt').textContent=l.length+' Presets';
+  $('gal').innerHTML=l.map(k=>`<button class="gi" data-k="${esc(k)}"><span class="fv${fav.has(k)?' on':''}" data-fav="${esc(k)}">${fav.has(k)?'★':'☆'}</span>${renderBadge(fromPreset(k))}<span>${esc(k)}</span></button>`).join('');
+}
+$('gal').onclick=e=>{const fv=e.target.closest('[data-fav]');if(fv){const k=fv.dataset.fav;fav.has(k)?fav.delete(k):fav.add(k);try{localStorage.setItem('gb-fav',JSON.stringify([...fav]))}catch(x){}gallery();return}const g=e.target.closest('.gi');if(!g)return;$('pre').value=g.dataset.k;load(fromPreset(g.dataset.k));$('generator').scrollIntoView({behavior:'smooth'})};
+$('q').oninput=gallery;
+function dyn(){
+  $('dout').textContent=`![Discord User](${BASE}/badge/discorduser?userId=${encodeURIComponent($('did').value.trim())})`;
+  $('lout').textContent=`![Livck Beta](${BASE}/badge/livck?url=${encodeURIComponent($('lurl').value.trim())})`;
+}
+['did','lurl'].forEach(i=>$(i).addEventListener('input',dyn));
+document.addEventListener('click',async e=>{const b=e.target.closest('[data-c]');if(!b)return;const el=$(b.dataset.c),t=el.value!==undefined?el.value:el.textContent,o=b.textContent;try{await navigator.clipboard.writeText(t);b.textContent='Kopiert ✓'}catch(x){b.textContent='Manuell kopieren'}setTimeout(()=>b.textContent=o,1500)});
 $('theme').onclick=()=>{const d=document.documentElement,dark=matchMedia('(prefers-color-scheme: dark)').matches;const cur=d.dataset.theme||(dark?'dark':'light');d.dataset.theme=cur==='dark'?'light':'dark'};
-demo();
+const SOC=new Set(['discord','github','gitlab','youtube','twitch','instagram','x','tiktok']);
+const cat=k=>SOC.has(k)?'Social':DATA.presets[k][0]==='Status'?'Status':'Projekt';
+let chip='Alle';
+$('chips').innerHTML=['Alle','Favoriten','Social','Status','Projekt'].map(c=>`<button class="chip${c==='Alle'?' on':''}" data-chip="${c}">${c}</button>`).join('');
+$('chips').onclick=e=>{const c=e.target.closest('[data-chip]');if(!c)return;chip=c.dataset.chip;[...$('chips').children].forEach(x=>x.classList.toggle('on',x===c));gallery()};
+const lum=h=>{const c=[0,2,4].map(i=>{const v=parseInt(h.slice(i,i+2),16)/255;return v<=.03928?v/12.92:Math.pow((v+.055)/1.055,2.4)});return .2126*c[0]+.7152*c[1]+.0722*c[2]};
+const cr=h=>1.05/(lum(h)+.05);
+function hint(b){const f=x=>x.toFixed(1)+':1 '+(x>=4.5?'✓':x>=3?'(grenzwertig)':'✗ schwach');$('hint').textContent='Kontrast (weißer Text) – Text-Seite '+f(cr(b.color))+' · Label-Seite '+f(cr(b.labelColor))}
+['lnk','zoom'].forEach(i=>$(i).addEventListener('input',sync));
+$('sbw').onclick=e=>{const c=e.target.closest('[data-sb]');if(!c)return;$('stage').dataset.bg=c.dataset.sb;[...$('sbw').querySelectorAll('.chip')].forEach(x=>x.classList.toggle('on',x===c))};
+const dl=(n,b)=>{const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=n;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),2000)};
+$('dsvg').onclick=()=>dl('badge.svg',new Blob([renderBadge(state())],{type:'image/svg+xml'}));
+$('dpng').onclick=()=>{const s=renderBadge(state()),m=s.match(/width="(\d+)" height="(\d+)"/),sc=4,im=new Image();im.onload=()=>{const c=document.createElement('canvas');c.width=m[1]*sc;c.height=m[2]*sc;c.getContext('2d').drawImage(im,0,0,c.width,c.height);c.toBlob(b=>b&&dl('badge.png',b))};im.src='data:image/svg+xml;charset=utf-8,'+encodeURIComponent(s)};
+$('rnd').onclick=()=>{const k=keys[Math.floor(Math.random()*keys.length)],b=fromPreset(k);$('pre').value=k;b.style=['flat','flat-square','rounded'][Math.floor(Math.random()*3)];load(b)};
+function parseUrl(s){try{const u=new URL(s.trim()),seg=decodeURIComponent(u.pathname.split('/').pop()).replace(/\.svg$/i,''),p=seg.split('-'),l0=p.shift(),c0=p.length&&HEX.test(p[p.length-1])?p.pop():null,q=u.searchParams,g=(...n)=>{for(const x of n)if(q.get(x))return q.get(x)},lg=(g('logo')||'discord').toLowerCase(),st=q.get('style');
+return{label:safeText(g('label')||l0,'Discord',32),message:safeText(g('text','message')||p.join(' '),'Join the community',80),color:norm(g('color','bg','background')||c0,'5865F2'),labelColor:norm(g('labelColor','labelBg','labelBackground'),'23272A'),logo:DATA.icons[lg]?lg:'none',style:['flat','flat-square','rounded'].includes(st)?st:'flat'}}catch(e){return null}}
+$('imp').addEventListener('input',()=>{const v=$('imp').value,b=/shields\.io/.test(v)?fromShields(v.trim()):parseUrl(v);if(b){load(b);$('imp').style.borderColor=''}else $('imp').style.borderColor='#dc2626'});
+let stack=[];try{stack=JSON.parse(localStorage.getItem('gb-stack')||'[]')}catch(e){}
+const save=()=>{try{localStorage.setItem('gb-stack',JSON.stringify(stack))}catch(e){}};
+function renderStack(){
+  $('sl').innerHTML=stack.length?stack.map((it,i)=>`<div class="si">${renderBadge(it.b)}<span class="sp2"></span><button class="btn" data-s="up" data-i="${i}">↑</button><button class="btn" data-s="dn" data-i="${i}">↓</button><button class="btn" data-s="rm" data-i="${i}">✕</button></div>`).join(''):'<div class="sub" style="margin:0">Noch leer – füge im Generator Badges hinzu oder lade ein Beispiel.</div>';
+  const al=$('sal').value,tag=it=>{const im=`<img src="${urls(it.b).u}" alt="${esc(it.b.label+' '+it.b.message)}">`;return it.k?`<a href="${esc(it.k)}">${im}</a>`:im},md=it=>it.k?`[${urls(it.b).m}](${it.k})`:urls(it.b).m;
+  $('so').textContent=!stack.length?'':al==='center'?`<p align="center">\n${stack.map(it=>'  '+tag(it)).join('\n')}\n</p>`:stack.map(md).join('\n');
+}
+$('sadd').onclick=()=>{stack.push({b:state(),k:($('lnk').value||'').trim()});save();renderStack();$('stack').scrollIntoView({behavior:'smooth'})};
+$('sl').onclick=e=>{const b=e.target.closest('[data-s]');if(!b)return;const i=+b.dataset.i,a=b.dataset.s;if(a==='rm')stack.splice(i,1);else{const j=a==='up'?i-1:i+1;if(j>=0&&j<stack.length)[stack[i],stack[j]]=[stack[j],stack[i]]}save();renderStack()};
+$('scl').onclick=()=>{stack=[];save();renderStack()};$('sal').onchange=renderStack;
+$('sex').onclick=()=>{stack=['discord','github','build','license','stars'].map(k=>({b:fromPreset(k),k:''}));save();renderStack()};
+const mk=(a,r)=>`<div class="mr${r?' rev':''}"><div class="mt">${[...a,...a].map(k=>renderBadge(fromPreset(k))).join('')}</div></div>`;
+$('marq').innerHTML=mk(keys.slice(0,16),0)+mk(keys.slice(16,32),1);
+let fav=new Set();try{fav=new Set(JSON.parse(localStorage.getItem('gb-fav')||'[]'))}catch(e){}
+const SCH=[['Discord','5865F2','23272A'],['GitHub','181717','30363D'],['Grün','16A34A','14532D'],['Ocean','2563EB','172554'],['Neon','8B5CF6','1E1B4B'],['Sunset','F59E0B','78350F'],['Rot','DC2626','450A0A'],['Pink','EC4899','500724'],['Teal','0D9488','134E4A']];
+$('sch').innerHTML=SCH.map((c,i)=>`<button class="sw" data-i="${i}" title="${c[0]}" style="background:linear-gradient(90deg,#${c[2]} 50%,#${c[1]} 50%)"></button>`).join('');
+$('sch').onclick=e=>{const b=e.target.closest('.sw');if(!b)return;const c=SCH[+b.dataset.i];$('bg').value='#'+c[1];$('lb').value='#'+c[2];sync()};
+const ST={operational:['Operational','16A34A','check'],degraded:['Degraded','F59E0B','status'],down:['Down','DC2626','status'],maintenance:['Maintenance','7C3AED','status'],incident:['Incident','EA580C','status'],investigating:['Investigating','F59E0B','status'],monitoring:['Monitoring','2563EB','status'],resolved:['Resolved','16A34A','check'],scheduled:['Scheduled maintenance','7C3AED','status'],online:['Online','16A34A','check'],offline:['Offline','DC2626','status']};
+let stt='operational';
+$('stc').innerHTML=Object.keys(ST).map(k=>`<button class="chip${k===stt?' on':''}" data-st="${k}">${k}</button>`).join('');
+function stSync(){const m=ST[stt];$('sts').innerHTML=renderBadge({label:'Status',message:m[0],color:m[1],labelColor:'23272A',logo:m[2],style:'flat'});$('sto').textContent=`![Status](${BASE}/badge/status?state=${stt})`}
+$('stc').onclick=e=>{const c=e.target.closest('[data-st]');if(!c)return;stt=c.dataset.st;[...$('stc').children].forEach(x=>x.classList.toggle('on',x===c));stSync()};
+const STY=['flat','flat-square','rounded'];
+function bulk(){const rows=$('bin').value.split('\n').map(l=>l.trim()).filter(Boolean).slice(0,40).map(l=>{const p=l.split('|').map(x=>x.trim()),lg=(p[3]||'none').toLowerCase();return{label:safeText(p[0],'Label',32),message:safeText(p[1],'Text',80),color:norm(p[2],'5865F2'),labelColor:'23272A',logo:DATA.icons[lg]?lg:'none',style:STY.includes(p[4])?p[4]:'flat'}});
+  $('bpv').innerHTML=rows.map(b=>renderBadge(b)).join('');$('bout').textContent=rows.map(b=>urls(b).m).join('\n')}
+$('bin').addEventListener('input',bulk);
+const SC={brightgreen:'4C1',green:'97CA00',yellowgreen:'A4A61D',yellow:'DFB317',orange:'FE7D37',red:'E05D44',blue:'007EC6',lightgrey:'9F9F9F',lightgray:'9F9F9F',success:'4C1',important:'FE7D37',critical:'E05D44',informational:'007EC6',inactive:'9F9F9F',gray:'555',grey:'555'};
+const shc=(v,f)=>{if(!v)return f;v=v.replace(/^#/,'');return HEX.test(v)?norm(v,f):SC[v.toLowerCase()]?norm(SC[v.toLowerCase()],f):f};
+function fromShields(url){try{const u=new URL(url);if(!u.pathname.startsWith('/badge/'))return null;
+  const seg=decodeURIComponent(u.pathname.slice(7)).replace(/\.(svg|png)$/i,'').replace(/--/g,'\u0001'),pt=seg.split('-').map(x=>x.replace(/__/g,'\u0002').replace(/_/g,' ').replace(/\u0002/g,'_').replace(/\u0001/g,'-')),q=u.searchParams;
+  const last=pt.length>1?pt.pop():'',label=pt.length>1?pt.shift():'Badge',lg=(q.get('logo')||'').toLowerCase().replace(/\s+/g,''),st=q.get('style');
+  return{label:safeText(q.get('label')||label,'Badge',32),message:safeText(pt.join('-'),'Text',80),color:shc(q.get('color')||last,'64748B'),labelColor:shc(q.get('labelColor'),'23272A'),logo:DATA.icons[lg]?lg:'none',style:st==='flat-square'?'flat-square':st==='flat'||!st?'flat':'rounded'}}catch(e){return null}}
+function migrate(){const t=$('min').value;let ok=0,sk=0;const out=t.replace(/https?:\/\/img\.shields\.io\/[^\s)"'<>]+/g,m=>{const b=fromShields(m);if(b){ok++;return urls(b).u}sk++;return m});
+  $('mout').value=out;$('mst').textContent=t?`${ok} konvertiert · ${sk} übersprungen (dynamische shields.io-Badges wie /github/stars brauchen eine eigene Entsprechung)`:''}
+$('min').addEventListener('input',migrate);
+const TPL={bot:['discord','github','online','license'],lib:['npm','build','coverage','license','release'],hosting:['website','operational','uptime','discord','github'],social:['github','discord','youtube','twitch','x','instagram']};
+const tks=()=>TPL[$('ttpl').value].filter(k=>DATA.presets[k]);
+function tpl(){const ks=tks(),n=safeText($('tname').value,'Mein Projekt',60),d=safeText($('tdesc').value,'Kurze Beschreibung.',160);
+  $('tpv').innerHTML=ks.map(k=>renderBadge(fromPreset(k))).join('');
+  $('tout').textContent=`<div align="center">\n  <h1>${esc(n)}</h1>\n  <p>${esc(d)}</p>\n  <p>\n${ks.map(k=>'    '+urls(fromPreset(k)).h).join('\n')}\n  </p>\n</div>`}
+['tname','tdesc','ttpl'].forEach(i=>$(i).addEventListener('input',tpl));
+$('tst').onclick=()=>{stack=tks().map(k=>({b:fromPreset(k),k:''}));save();renderStack();$('stack').scrollIntoView({behavior:'smooth'})};
+load(fromPreset('discord'));gallery();dyn();renderStack();stSync();bulk();migrate();tpl();
 </script>
 </body>
 </html>
