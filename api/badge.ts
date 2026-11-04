@@ -2,6 +2,7 @@ import type { VercelRequest, VercelResponse } from "@vercel/node";
 import { parseBadgeRequest } from "../lib/parse";
 import { renderBadge } from "../lib/render";
 import { setSvgHeaders } from "../lib/headers";
+import { renderErrorBadge } from "../lib/error";
 
 export default function handler(req: VercelRequest, res: VercelResponse) {
   if (req.method !== "GET" && req.method !== "HEAD") {
@@ -15,6 +16,9 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
     if (req.method === "HEAD") return res.status(200).end();
     return res.status(200).send(svg);
   } catch {
-    return res.status(400).send("Invalid badge request");
+    setSvgHeaders(res);
+    const svg = renderErrorBadge("Rendering failed");
+    if (req.method === "HEAD") return res.status(200).end();
+    return res.status(200).send(svg);
   }
 }

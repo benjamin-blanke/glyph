@@ -1,6 +1,7 @@
 import type { VercelRequest, VercelResponse } from "@vercel/node";
 import { renderBadge } from "../lib/render";
 import { setSvgHeaders } from "../lib/headers";
+import { renderErrorBadge } from "../lib/error";
 
 const STATES = {
   operational: ["Operational", "16A34A", "check"],
@@ -34,19 +35,29 @@ export default function handler(req: VercelRequest, res: VercelResponse) {
   const preset = STATES[state as keyof typeof STATES];
 
   if (!preset) {
-    return res.status(400).send(`Unknown status. Use: ${Object.keys(STATES).join(", ")}`);
+    setSvgHeaders(res);
+    const svg = renderErrorBadge("Unknown status");
+    if (req.method === "HEAD") return res.status(200).end();
+    return res.status(200).send(svg);
   }
 
-  const [message, color, logo] = preset;
-  const svg = renderBadge({
-    label: "Status",
-    message,
-    color,
-    labelColor: "23272A",
-    logo,
-    style: "flat",
-  });
-  setSvgHeaders(res);
-  if (req.method === "HEAD") return res.status(200).end();
-  return res.status(200).send(svg);
+  try {
+    const [message, color, logo] = preset;
+    const svg = renderBadge({
+      label: "Status",
+      message,
+      color,
+      labelColor: "23272A",
+      logo,
+      style: "flat",
+    });
+    setSvgHeaders(res);
+    if (req.method === "HEAD") return res.status(200).end();
+    return res.status(200).send(svg);
+  } catch {
+    setSvgHeaders(res);
+    const svg = renderErrorBadge("Rendering failed");
+    if (req.method === "HEAD") return res.status(200).end();
+    return res.status(200).send(svg);
+  }
 }

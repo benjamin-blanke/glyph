@@ -5,27 +5,29 @@
 The API uses this format:
 
 ```text
-https://glyphbadges.dev/badge/<label>-<message>-<color>.svg?text=<text>&color=<bg>&labelColor=<label-bg>&logo=<icon>&style=<style>
+https://glyphbadges.dev/badge/<label>-<message>-<color>.svg?text=<text>&bg=<background>&labelBg=<label-background>&logo=<icon>&style=<style>
 ```
 
-Query parameters:
+Customer URL parameters:
 
-| Parameter | Purpose |
+| Parameter | What it does |
 |---|---|
-| `label` | Replace the left-side label. |
-| `text` or `message` | Replace the right-side text. |
-| `color`, `bg`, or `background` | Change the right-side background. |
-| `labelColor`, `labelBg`, or `labelBackground` | Change the left-side background. |
-| `logo` | Select an inline icon. |
-| `style` | Use `flat`, `flat-square`, or `rounded`. |
+| `?text=` | Brings custom text to the message side. `?message=` is an alias. |
+| `?bg=` | Changes the message background color. `?color=` and `?background=` are aliases. |
+| `?label=` | Changes the left-side label. |
+| `?labelBg=` | Changes the label background color. `?labelColor=` and `?labelBackground=` are aliases. |
+| `?logo=` | Selects an inline icon. |
+| `?style=` | Uses `flat`, `flat-square`, or `rounded`. |
 
 Examples:
 
 ```text
-https://glyphbadges.dev/badge/Discord-Join-the-community-5865F2.svg?text=Join%20us&color=5865F2&labelColor=23272A&logo=discord&style=flat
-https://glyphbadges.dev/badge/Build-Passing-16A34A.svg?text=Passing&color=16A34A&labelColor=23272A&logo=check&style=rounded
-https://glyphbadges.dev/badge/GitHub-Star-the-repo-181717.svg?text=Star%20it&color=181717&labelColor=23272A&logo=github&style=flat-square
+https://glyphbadges.dev/badge/Discord-Join-the-community-5865F2.svg?text=Join%20us&bg=5865F2&labelBg=23272A&logo=discord&style=flat
+https://glyphbadges.dev/badge/Build-Passing-16A34A.svg?text=Passing&bg=16A34A&labelBg=23272A&logo=check&style=rounded
+https://glyphbadges.dev/badge/GitHub-Star-the-repo-181717.svg?text=Star%20it&bg=181717&labelBg=23272A&logo=github&style=flat-square
 ```
+
+If a badge cannot be rendered, Glyph returns a red warning badge with `⚠️ Glyph` instead of a broken image placeholder.
 
 See [`BADGES.md`](../BADGES.md) for the complete preset gallery.
 

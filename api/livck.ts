@@ -1,6 +1,7 @@
 import type { VercelRequest, VercelResponse } from "@vercel/node";
 import { renderBadge } from "../lib/render";
 import { setSvgHeaders } from "../lib/headers";
+import { renderErrorBadge } from "../lib/error";
 
 const states = {
   up: ["Operational", "16A34A", "check"],
@@ -66,7 +67,10 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     pageUrl = new URL(rawUrl);
     if (pageUrl.protocol !== "https:") throw new Error("HTTPS required");
   } catch {
-    return res.status(400).send("Use ?url=https://your-livck-status-page.example");
+    setSvgHeaders(res);
+    const svg = renderErrorBadge("Invalid Livck URL");
+    if (req.method === "HEAD") return res.status(200).end();
+    return res.status(200).send(svg);
   }
 
   let detected: State | undefined;
@@ -83,19 +87,31 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
     }
   }
 
-  if (!detected) return res.status(502).send("Could not read Livck status");
+  if (!detected) {
+    setSvgHeaders(res);
+    const svg = renderErrorBadge("Livck unavailable");
+    if (req.method === "HEAD") return res.status(200).end();
+    return res.status(200).send(svg);
+  }
 
-  const [message, color, logo] = states[detected];
-  const svg = renderBadge({
-    label: "Livck",
-    message,
-    color,
-    labelColor: "23272A",
-    logo,
-    style: "flat",
-  });
-  setSvgHeaders(res);
-  res.setHeader("Cache-Control", "no-store, max-age=0");
-  if (req.method === "HEAD") return res.status(200).end();
-  return res.status(200).send(svg);
+  try {
+    const [message, color, logo] = states[detected];
+    const svg = renderBadge({
+      label: "Livck",
+      message,
+      color,
+      labelColor: "23272A",
+      logo,
+      style: "flat",
+    });
+    setSvgHeaders(res);
+    res.setHeader("Cache-Control", "no-store, max-age=0");
+    if (req.method === "HEAD") return res.status(200).end();
+    return res.status(200).send(svg);
+  } catch {
+    setSvgHeaders(res);
+    const svg = renderErrorBadge("Rendering failed");
+    if (req.method === "HEAD") return res.status(200).end();
+    return res.status(200).send(svg);
+  }
 }
