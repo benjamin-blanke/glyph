@@ -6,7 +6,7 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 
 ### Livck status — Beta
 
-[![Livck Beta](https://benjamin-blanke.github.io/glyph/badges/livck-beta.svg)](https://livck.cloud)
+[![Livck](https://benjamin-blanke.github.io/glyph/badges/livck-beta.svg)](https://livck.cloud)
 
 The live **Beta** endpoint checks the status page on every image request.
 
