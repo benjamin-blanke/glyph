@@ -37,11 +37,8 @@ See [`BADGES.md`](../BADGES.md) for the complete preset gallery.
 ## Livck Cloud beta
 
 ```text
-https://YOUR_API_HOST/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com
+https://benjamin-blanke.github.io/glyph/badges/livck.svg
 ```
 
-The URL can also be supplied as the query key:
-
-```text
-https://YOUR_API_HOST/badge/livck?https://status.waveserv.com
-```
+The source page is configured in `.github/workflows/update-livck.yml`; users
+never need to include it in the badge URL.
