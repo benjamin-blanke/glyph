@@ -15,7 +15,7 @@ Every badge below is rendered directly from the Glyph API. Customize each one wi
 
 ### Livck status — Beta
 
-![Livck Beta](docs/error.svg)
+![Livck Beta](https://glyphbadges.dev/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)
 
 **Customer URL Parameters:**
 
@@ -29,7 +29,7 @@ https://glyphbadges.dev/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com
 
 ### Discord Join the community
 
-![Discord Join the community](docs/error.svg)
+![Discord Join the community](https://glyphbadges.dev/badge/Discord-Join-the-community-5865F2.svg?text=Join%20the%20community%20custom&bg=5865F2&labelBg=23272A&logo=discord&style=flat)
 
 **Customer URL Parameters:**
 
@@ -46,7 +46,7 @@ https://glyphbadges.dev/badge/Discord-Join-the-community-5865F2.svg?text=Join%20
 
 ### GitHub Star the repo
 
-![GitHub Star the repo](docs/error.svg)
+![GitHub Star the repo](https://glyphbadges.dev/badge/GitHub-Star-the-repo-181717.svg?text=Star%20the%20repo%20custom&bg=181717&labelBg=23272A&logo=github&style=flat)
 
 **Customer URL Parameters:**
 
@@ -63,7 +63,7 @@ https://glyphbadges.dev/badge/GitHub-Star-the-repo-181717.svg?text=Star%20the%20
 
 ### GitLab View project
 
-![GitLab View project](docs/error.svg)
+![GitLab View project](https://glyphbadges.dev/badge/GitLab-View-project-FC6D26.svg?text=View%20project%20custom&bg=FC6D26&labelBg=23272A&logo=gitlab&style=flat)
 
 **Customer URL Parameters:**
 
@@ -80,7 +80,7 @@ https://glyphbadges.dev/badge/GitLab-View-project-FC6D26.svg?text=View%20project
 
 ### YouTube Subscribe
 
-![YouTube Subscribe](docs/error.svg)
+![YouTube Subscribe](https://glyphbadges.dev/badge/YouTube-Subscribe-FF0033.svg?text=Subscribe%20custom&bg=FF0033&labelBg=23272A&logo=youtube&style=flat)
 
 **Customer URL Parameters:**
 
@@ -97,7 +97,7 @@ https://glyphbadges.dev/badge/YouTube-Subscribe-FF0033.svg?text=Subscribe%20cust
 
 ### Twitch Follow
 
-![Twitch Follow](docs/error.svg)
+![Twitch Follow](https://glyphbadges.dev/badge/Twitch-Follow-9146FF.svg?text=Follow%20custom&bg=9146FF&labelBg=23272A&logo=twitch&style=flat)
 
 **Customer URL Parameters:**
 
@@ -114,7 +114,7 @@ https://glyphbadges.dev/badge/Twitch-Follow-9146FF.svg?text=Follow%20custom&bg=9
 
 ### Instagram Follow
 
-![Instagram Follow](docs/error.svg)
+![Instagram Follow](https://glyphbadges.dev/badge/Instagram-Follow-C13584.svg?text=Follow%20custom&bg=C13584&labelBg=23272A&logo=instagram&style=flat)
 
 **Customer URL Parameters:**
 
@@ -131,7 +131,7 @@ https://glyphbadges.dev/badge/Instagram-Follow-C13584.svg?text=Follow%20custom&b
 
 ### X Follow
 
-![X Follow](docs/error.svg)
+![X Follow](https://glyphbadges.dev/badge/X-Follow-000000.svg?text=Follow%20custom&bg=000000&labelBg=23272A&logo=x&style=flat)
 
 **Customer URL Parameters:**
 
@@ -148,7 +148,7 @@ https://glyphbadges.dev/badge/X-Follow-000000.svg?text=Follow%20custom&bg=000000
 
 ### TikTok Follow
 
-![TikTok Follow](docs/error.svg)
+![TikTok Follow](https://glyphbadges.dev/badge/TikTok-Follow-111111.svg?text=Follow%20custom&bg=111111&labelBg=23272A&logo=tiktok&style=flat)
 
 **Customer URL Parameters:**
 
@@ -165,7 +165,7 @@ https://glyphbadges.dev/badge/TikTok-Follow-111111.svg?text=Follow%20custom&bg=1
 
 ### npm Package
 
-![npm Package](docs/error.svg)
+![npm Package](https://glyphbadges.dev/badge/npm-Package-CB3837.svg?text=Package%20custom&bg=CB3837&labelBg=23272A&logo=npm&style=flat)
 
 **Customer URL Parameters:**
 
@@ -182,7 +182,7 @@ https://glyphbadges.dev/badge/npm-Package-CB3837.svg?text=Package%20custom&bg=CB
 
 ### Vercel Deploy
 
-![Vercel Deploy](docs/error.svg)
+![Vercel Deploy](https://glyphbadges.dev/badge/Vercel-Deploy-000000.svg?text=Deploy%20custom&bg=000000&labelBg=23272A&logo=vercel&style=flat)
 
 **Customer URL Parameters:**
 
@@ -199,7 +199,7 @@ https://glyphbadges.dev/badge/Vercel-Deploy-000000.svg?text=Deploy%20custom&bg=0
 
 ### Website Visit
 
-![Website Visit](docs/error.svg)
+![Website Visit](https://glyphbadges.dev/badge/Website-Visit-2563EB.svg?text=Visit%20custom&bg=2563EB&labelBg=23272A&logo=website&style=flat)
 
 **Customer URL Parameters:**
 
@@ -216,7 +216,7 @@ https://glyphbadges.dev/badge/Website-Visit-2563EB.svg?text=Visit%20custom&bg=25
 
 ### Status All systems operational
 
-![Status All systems operational](docs/error.svg)
+![Status All systems operational](https://glyphbadges.dev/badge/Status-All-systems-operational-16A34A.svg?text=All%20systems%20operational%20custom&bg=16A34A&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -233,7 +233,7 @@ https://glyphbadges.dev/badge/Status-All-systems-operational-16A34A.svg?text=All
 
 ### Status Operational
 
-![Status Operational](docs/error.svg)
+![Status Operational](https://glyphbadges.dev/badge/Status-Operational-16A34A.svg?text=Operational%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -250,7 +250,7 @@ https://glyphbadges.dev/badge/Status-Operational-16A34A.svg?text=Operational%20c
 
 ### Status Degraded performance
 
-![Status Degraded performance](docs/error.svg)
+![Status Degraded performance](https://glyphbadges.dev/badge/Status-Degraded-performance-F59E0B.svg?text=Degraded%20performance%20custom&bg=F59E0B&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -267,7 +267,7 @@ https://glyphbadges.dev/badge/Status-Degraded-performance-F59E0B.svg?text=Degrad
 
 ### Status Major outage
 
-![Status Major outage](docs/error.svg)
+![Status Major outage](https://glyphbadges.dev/badge/Status-Major-outage-DC2626.svg?text=Major%20outage%20custom&bg=DC2626&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -284,7 +284,7 @@ https://glyphbadges.dev/badge/Status-Major-outage-DC2626.svg?text=Major%20outage
 
 ### Status Maintenance
 
-![Status Maintenance](docs/error.svg)
+![Status Maintenance](https://glyphbadges.dev/badge/Status-Maintenance-7C3AED.svg?text=Maintenance%20custom&bg=7C3AED&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -301,7 +301,7 @@ https://glyphbadges.dev/badge/Status-Maintenance-7C3AED.svg?text=Maintenance%20c
 
 ### Status Incident
 
-![Status Incident](docs/error.svg)
+![Status Incident](https://glyphbadges.dev/badge/Status-Incident-EA580C.svg?text=Incident%20custom&bg=EA580C&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -318,7 +318,7 @@ https://glyphbadges.dev/badge/Status-Incident-EA580C.svg?text=Incident%20custom&
 
 ### Status Investigating
 
-![Status Investigating](docs/error.svg)
+![Status Investigating](https://glyphbadges.dev/badge/Status-Investigating-F59E0B.svg?text=Investigating%20custom&bg=F59E0B&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -335,7 +335,7 @@ https://glyphbadges.dev/badge/Status-Investigating-F59E0B.svg?text=Investigating
 
 ### Status Monitoring
 
-![Status Monitoring](docs/error.svg)
+![Status Monitoring](https://glyphbadges.dev/badge/Status-Monitoring-2563EB.svg?text=Monitoring%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -352,7 +352,7 @@ https://glyphbadges.dev/badge/Status-Monitoring-2563EB.svg?text=Monitoring%20cus
 
 ### Status Resolved
 
-![Status Resolved](docs/error.svg)
+![Status Resolved](https://glyphbadges.dev/badge/Status-Resolved-16A34A.svg?text=Resolved%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -369,7 +369,7 @@ https://glyphbadges.dev/badge/Status-Resolved-16A34A.svg?text=Resolved%20custom&
 
 ### Status Scheduled maintenance
 
-![Status Scheduled maintenance](docs/error.svg)
+![Status Scheduled maintenance](https://glyphbadges.dev/badge/Status-Scheduled-maintenance-7C3AED.svg?text=Scheduled%20maintenance%20custom&bg=7C3AED&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -386,7 +386,7 @@ https://glyphbadges.dev/badge/Status-Scheduled-maintenance-7C3AED.svg?text=Sched
 
 ### Status Online
 
-![Status Online](docs/error.svg)
+![Status Online](https://glyphbadges.dev/badge/Status-Online-16A34A.svg?text=Online%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -403,7 +403,7 @@ https://glyphbadges.dev/badge/Status-Online-16A34A.svg?text=Online%20custom&bg=1
 
 ### Status Offline
 
-![Status Offline](docs/error.svg)
+![Status Offline](https://glyphbadges.dev/badge/Status-Offline-DC2626.svg?text=Offline%20custom&bg=DC2626&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -420,7 +420,7 @@ https://glyphbadges.dev/badge/Status-Offline-DC2626.svg?text=Offline%20custom&bg
 
 ### Status Beta
 
-![Status Beta](docs/error.svg)
+![Status Beta](https://glyphbadges.dev/badge/Status-Beta-8B5CF6.svg?text=Beta%20custom&bg=8B5CF6&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -437,7 +437,7 @@ https://glyphbadges.dev/badge/Status-Beta-8B5CF6.svg?text=Beta%20custom&bg=8B5CF
 
 ### Status Live
 
-![Status Live](docs/error.svg)
+![Status Live](https://glyphbadges.dev/badge/Status-Live-16A34A.svg?text=Live%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -454,7 +454,7 @@ https://glyphbadges.dev/badge/Status-Live-16A34A.svg?text=Live%20custom&bg=16A34
 
 ### Status Paused
 
-![Status Paused](docs/error.svg)
+![Status Paused](https://glyphbadges.dev/badge/Status-Paused-64748B.svg?text=Paused%20custom&bg=64748B&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -471,7 +471,7 @@ https://glyphbadges.dev/badge/Status-Paused-64748B.svg?text=Paused%20custom&bg=6
 
 ### Status Updated
 
-![Status Updated](docs/error.svg)
+![Status Updated](https://glyphbadges.dev/badge/Status-Updated-2563EB.svg?text=Updated%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -488,7 +488,7 @@ https://glyphbadges.dev/badge/Status-Updated-2563EB.svg?text=Updated%20custom&bg
 
 ### Build Passing
 
-![Build Passing](docs/error.svg)
+![Build Passing](https://glyphbadges.dev/badge/Build-Passing-16A34A.svg?text=Passing%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -505,7 +505,7 @@ https://glyphbadges.dev/badge/Build-Passing-16A34A.svg?text=Passing%20custom&bg=
 
 ### Coverage 98%
 
-![Coverage 98%](docs/error.svg)
+![Coverage 98%](https://glyphbadges.dev/badge/Coverage-98-16A34A.svg?text=98%25%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -522,7 +522,7 @@ https://glyphbadges.dev/badge/Coverage-98-16A34A.svg?text=98%25%20custom&bg=16A3
 
 ### Release v1.0.0
 
-![Release v1.0.0](docs/error.svg)
+![Release v1.0.0](https://glyphbadges.dev/badge/Release-v1-0-0-2563EB.svg?text=v1.0.0%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -539,7 +539,7 @@ https://glyphbadges.dev/badge/Release-v1-0-0-2563EB.svg?text=v1.0.0%20custom&bg=
 
 ### License MIT
 
-![License MIT](docs/error.svg)
+![License MIT](https://glyphbadges.dev/badge/License-MIT-64748B.svg?text=MIT%20custom&bg=64748B&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -556,7 +556,7 @@ https://glyphbadges.dev/badge/License-MIT-64748B.svg?text=MIT%20custom&bg=64748B
 
 ### Docs Read the docs
 
-![Docs Read the docs](docs/error.svg)
+![Docs Read the docs](https://glyphbadges.dev/badge/Docs-Read-the-docs-2563EB.svg?text=Read%20the%20docs%20custom&bg=2563EB&labelBg=23272A&logo=website&style=flat)
 
 **Customer URL Parameters:**
 
@@ -573,7 +573,7 @@ https://glyphbadges.dev/badge/Docs-Read-the-docs-2563EB.svg?text=Read%20the%20do
 
 ### Sponsors Support us
 
-![Sponsors Support us](docs/error.svg)
+![Sponsors Support us](https://glyphbadges.dev/badge/Sponsors-Support-us-EC4899.svg?text=Support%20us%20custom&bg=EC4899&labelBg=23272A&logo=heart&style=flat)
 
 **Customer URL Parameters:**
 
@@ -590,7 +590,7 @@ https://glyphbadges.dev/badge/Sponsors-Support-us-EC4899.svg?text=Support%20us%2
 
 ### Downloads 1.2k
 
-![Downloads 1.2k](docs/error.svg)
+![Downloads 1.2k](https://glyphbadges.dev/badge/Downloads-1-2k-8B5CF6.svg?text=1.2k%20custom&bg=8B5CF6&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -607,7 +607,7 @@ https://glyphbadges.dev/badge/Downloads-1-2k-8B5CF6.svg?text=1.2k%20custom&bg=8B
 
 ### Stars 904
 
-![Stars 904](docs/error.svg)
+![Stars 904](https://glyphbadges.dev/badge/Stars-904-F59E0B.svg?text=904%20custom&bg=F59E0B&labelBg=23272A&logo=star&style=flat)
 
 **Customer URL Parameters:**
 
@@ -624,7 +624,7 @@ https://glyphbadges.dev/badge/Stars-904-F59E0B.svg?text=904%20custom&bg=F59E0B&l
 
 ### Availability 99.99%
 
-![Availability 99.99%](docs/error.svg)
+![Availability 99.99%](https://glyphbadges.dev/badge/Availability-99-99-16A34A.svg?text=99.99%25%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -641,7 +641,7 @@ https://glyphbadges.dev/badge/Availability-99-99-16A34A.svg?text=99.99%25%20cust
 
 ### Performance Excellent
 
-![Performance Excellent](docs/error.svg)
+![Performance Excellent](https://glyphbadges.dev/badge/Performance-Excellent-16A34A.svg?text=Excellent%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -658,7 +658,7 @@ https://glyphbadges.dev/badge/Performance-Excellent-16A34A.svg?text=Excellent%20
 
 ### Latency 120ms
 
-![Latency 120ms](docs/error.svg)
+![Latency 120ms](https://glyphbadges.dev/badge/Latency-120ms-2563EB.svg?text=120ms%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -675,7 +675,7 @@ https://glyphbadges.dev/badge/Latency-120ms-2563EB.svg?text=120ms%20custom&bg=25
 
 ### Uptime 99.9%
 
-![Uptime 99.9%](docs/error.svg)
+![Uptime 99.9%](https://glyphbadges.dev/badge/Uptime-99-9-16A34A.svg?text=99.9%25%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -692,7 +692,7 @@ https://glyphbadges.dev/badge/Uptime-99-9-16A34A.svg?text=99.9%25%20custom&bg=16
 
 ### Response time Fast
 
-![Response time Fast](docs/error.svg)
+![Response time Fast](https://glyphbadges.dev/badge/Response-time-Fast-16A34A.svg?text=Fast%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -709,7 +709,7 @@ https://glyphbadges.dev/badge/Response-time-Fast-16A34A.svg?text=Fast%20custom&b
 
 ### API Operational
 
-![API Operational](docs/error.svg)
+![API Operational](https://glyphbadges.dev/badge/API-Operational-16A34A.svg?text=Operational%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -726,7 +726,7 @@ https://glyphbadges.dev/badge/API-Operational-16A34A.svg?text=Operational%20cust
 
 ### Database Healthy
 
-![Database Healthy](docs/error.svg)
+![Database Healthy](https://glyphbadges.dev/badge/Database-Healthy-16A34A.svg?text=Healthy%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -743,7 +743,7 @@ https://glyphbadges.dev/badge/Database-Healthy-16A34A.svg?text=Healthy%20custom&
 
 ### Cache Healthy
 
-![Cache Healthy](docs/error.svg)
+![Cache Healthy](https://glyphbadges.dev/badge/Cache-Healthy-16A34A.svg?text=Healthy%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -760,7 +760,7 @@ https://glyphbadges.dev/badge/Cache-Healthy-16A34A.svg?text=Healthy%20custom&bg=
 
 ### Queue Processing
 
-![Queue Processing](docs/error.svg)
+![Queue Processing](https://glyphbadges.dev/badge/Queue-Processing-2563EB.svg?text=Processing%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -777,7 +777,7 @@ https://glyphbadges.dev/badge/Queue-Processing-2563EB.svg?text=Processing%20cust
 
 ### Security Protected
 
-![Security Protected](docs/error.svg)
+![Security Protected](https://glyphbadges.dev/badge/Security-Protected-16A34A.svg?text=Protected%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -794,7 +794,7 @@ https://glyphbadges.dev/badge/Security-Protected-16A34A.svg?text=Protected%20cus
 
 ### Channel Stable
 
-![Channel Stable](docs/error.svg)
+![Channel Stable](https://glyphbadges.dev/badge/Channel-Stable-16A34A.svg?text=Stable%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -811,7 +811,7 @@ https://glyphbadges.dev/badge/Channel-Stable-16A34A.svg?text=Stable%20custom&bg=
 
 ### Channel Experimental
 
-![Channel Experimental](docs/error.svg)
+![Channel Experimental](https://glyphbadges.dev/badge/Channel-Experimental-F59E0B.svg?text=Experimental%20custom&bg=F59E0B&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -828,7 +828,7 @@ https://glyphbadges.dev/badge/Channel-Experimental-F59E0B.svg?text=Experimental%
 
 ### Status Deprecated
 
-![Status Deprecated](docs/error.svg)
+![Status Deprecated](https://glyphbadges.dev/badge/Status-Deprecated-64748B.svg?text=Deprecated%20custom&bg=64748B&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -845,7 +845,7 @@ https://glyphbadges.dev/badge/Status-Deprecated-64748B.svg?text=Deprecated%20cus
 
 ### Status Archived
 
-![Status Archived](docs/error.svg)
+![Status Archived](https://glyphbadges.dev/badge/Status-Archived-64748B.svg?text=Archived%20custom&bg=64748B&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -862,7 +862,7 @@ https://glyphbadges.dev/badge/Status-Archived-64748B.svg?text=Archived%20custom&
 
 ### Status Verified
 
-![Status Verified](docs/error.svg)
+![Status Verified](https://glyphbadges.dev/badge/Status-Verified-2563EB.svg?text=Verified%20custom&bg=2563EB&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -879,7 +879,7 @@ https://glyphbadges.dev/badge/Status-Verified-2563EB.svg?text=Verified%20custom&
 
 ### Community Active
 
-![Community Active](docs/error.svg)
+![Community Active](https://glyphbadges.dev/badge/Community-Active-16A34A.svg?text=Active%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -896,7 +896,7 @@ https://glyphbadges.dev/badge/Community-Active-16A34A.svg?text=Active%20custom&b
 
 ### Visibility Public
 
-![Visibility Public](docs/error.svg)
+![Visibility Public](https://glyphbadges.dev/badge/Visibility-Public-2563EB.svg?text=Public%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -913,7 +913,7 @@ https://glyphbadges.dev/badge/Visibility-Public-2563EB.svg?text=Public%20custom&
 
 ### Visibility Private
 
-![Visibility Private](docs/error.svg)
+![Visibility Private](https://glyphbadges.dev/badge/Visibility-Private-64748B.svg?text=Private%20custom&bg=64748B&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -930,7 +930,7 @@ https://glyphbadges.dev/badge/Visibility-Private-64748B.svg?text=Private%20custo
 
 ### Project Open source
 
-![Project Open source](docs/error.svg)
+![Project Open source](https://glyphbadges.dev/badge/Project-Open-source-2563EB.svg?text=Open%20source%20custom&bg=2563EB&labelBg=23272A&logo=website&style=flat)
 
 **Customer URL Parameters:**
 
@@ -947,7 +947,7 @@ https://glyphbadges.dev/badge/Project-Open-source-2563EB.svg?text=Open%20source%
 
 ### Docs Available
 
-![Docs Available](docs/error.svg)
+![Docs Available](https://glyphbadges.dev/badge/Docs-Available-2563EB.svg?text=Available%20custom&bg=2563EB&labelBg=23272A&logo=website&style=flat)
 
 **Customer URL Parameters:**
 
@@ -964,7 +964,7 @@ https://glyphbadges.dev/badge/Docs-Available-2563EB.svg?text=Available%20custom&
 
 ### Roadmap In progress
 
-![Roadmap In progress](docs/error.svg)
+![Roadmap In progress](https://glyphbadges.dev/badge/Roadmap-In-progress-8B5CF6.svg?text=In%20progress%20custom&bg=8B5CF6&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -981,7 +981,7 @@ https://glyphbadges.dev/badge/Roadmap-In-progress-8B5CF6.svg?text=In%20progress%
 
 ### Changelog Updated
 
-![Changelog Updated](docs/error.svg)
+![Changelog Updated](https://glyphbadges.dev/badge/Changelog-Updated-2563EB.svg?text=Updated%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -998,7 +998,7 @@ https://glyphbadges.dev/badge/Changelog-Updated-2563EB.svg?text=Updated%20custom
 
 ### Version 2.0.0
 
-![Version 2.0.0](docs/error.svg)
+![Version 2.0.0](https://glyphbadges.dev/badge/Version-2-0-0-8B5CF6.svg?text=2.0.0%20custom&bg=8B5CF6&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1015,7 +1015,7 @@ https://glyphbadges.dev/badge/Version-2-0-0-8B5CF6.svg?text=2.0.0%20custom&bg=8B
 
 ### Node.js Supported
 
-![Node.js Supported](docs/error.svg)
+![Node.js Supported](https://glyphbadges.dev/badge/Node-js-Supported-339933.svg?text=Supported%20custom&bg=339933&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1032,7 +1032,7 @@ https://glyphbadges.dev/badge/Node-js-Supported-339933.svg?text=Supported%20cust
 
 ### TypeScript Supported
 
-![TypeScript Supported](docs/error.svg)
+![TypeScript Supported](https://glyphbadges.dev/badge/TypeScript-Supported-3178C6.svg?text=Supported%20custom&bg=3178C6&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1049,7 +1049,7 @@ https://glyphbadges.dev/badge/TypeScript-Supported-3178C6.svg?text=Supported%20c
 
 ### React Supported
 
-![React Supported](docs/error.svg)
+![React Supported](https://glyphbadges.dev/badge/React-Supported-61DAFB.svg?text=Supported%20custom&bg=61DAFB&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1066,7 +1066,7 @@ https://glyphbadges.dev/badge/React-Supported-61DAFB.svg?text=Supported%20custom
 
 ### Vue Supported
 
-![Vue Supported](docs/error.svg)
+![Vue Supported](https://glyphbadges.dev/badge/Vue-Supported-42B883.svg?text=Supported%20custom&bg=42B883&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1083,7 +1083,7 @@ https://glyphbadges.dev/badge/Vue-Supported-42B883.svg?text=Supported%20custom&b
 
 ### Python Supported
 
-![Python Supported](docs/error.svg)
+![Python Supported](https://glyphbadges.dev/badge/Python-Supported-3776AB.svg?text=Supported%20custom&bg=3776AB&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1100,7 +1100,7 @@ https://glyphbadges.dev/badge/Python-Supported-3776AB.svg?text=Supported%20custo
 
 ### Rust Supported
 
-![Rust Supported](docs/error.svg)
+![Rust Supported](https://glyphbadges.dev/badge/Rust-Supported-DEA584.svg?text=Supported%20custom&bg=DEA584&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1117,7 +1117,7 @@ https://glyphbadges.dev/badge/Rust-Supported-DEA584.svg?text=Supported%20custom&
 
 ### Go Supported
 
-![Go Supported](docs/error.svg)
+![Go Supported](https://glyphbadges.dev/badge/Go-Supported-00ADD8.svg?text=Supported%20custom&bg=00ADD8&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1134,7 +1134,7 @@ https://glyphbadges.dev/badge/Go-Supported-00ADD8.svg?text=Supported%20custom&bg
 
 ### Docker Ready
 
-![Docker Ready](docs/error.svg)
+![Docker Ready](https://glyphbadges.dev/badge/Docker-Ready-2496ED.svg?text=Ready%20custom&bg=2496ED&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1151,7 +1151,7 @@ https://glyphbadges.dev/badge/Docker-Ready-2496ED.svg?text=Ready%20custom&bg=249
 
 ### Actions Passing
 
-![Actions Passing](docs/error.svg)
+![Actions Passing](https://glyphbadges.dev/badge/Actions-Passing-2088FF.svg?text=Passing%20custom&bg=2088FF&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1168,7 +1168,7 @@ https://glyphbadges.dev/badge/Actions-Passing-2088FF.svg?text=Passing%20custom&b
 
 ### CI Passing
 
-![CI Passing](docs/error.svg)
+![CI Passing](https://glyphbadges.dev/badge/CI-Passing-16A34A.svg?text=Passing%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1185,7 +1185,7 @@ https://glyphbadges.dev/badge/CI-Passing-16A34A.svg?text=Passing%20custom&bg=16A
 
 ### CD Deployed
 
-![CD Deployed](docs/error.svg)
+![CD Deployed](https://glyphbadges.dev/badge/CD-Deployed-8B5CF6.svg?text=Deployed%20custom&bg=8B5CF6&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1202,7 +1202,7 @@ https://glyphbadges.dev/badge/CD-Deployed-8B5CF6.svg?text=Deployed%20custom&bg=8
 
 ### Tests Passing
 
-![Tests Passing](docs/error.svg)
+![Tests Passing](https://glyphbadges.dev/badge/Tests-Passing-16A34A.svg?text=Passing%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1219,7 +1219,7 @@ https://glyphbadges.dev/badge/Tests-Passing-16A34A.svg?text=Passing%20custom&bg=
 
 ### Lint Passing
 
-![Lint Passing](docs/error.svg)
+![Lint Passing](https://glyphbadges.dev/badge/Lint-Passing-16A34A.svg?text=Passing%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1236,7 +1236,7 @@ https://glyphbadges.dev/badge/Lint-Passing-16A34A.svg?text=Passing%20custom&bg=1
 
 ### Typecheck Passing
 
-![Typecheck Passing](docs/error.svg)
+![Typecheck Passing](https://glyphbadges.dev/badge/Typecheck-Passing-16A34A.svg?text=Passing%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1253,7 +1253,7 @@ https://glyphbadges.dev/badge/Typecheck-Passing-16A34A.svg?text=Passing%20custom
 
 ### CodeQL Passing
 
-![CodeQL Passing](docs/error.svg)
+![CodeQL Passing](https://glyphbadges.dev/badge/CodeQL-Passing-16A34A.svg?text=Passing%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1270,7 +1270,7 @@ https://glyphbadges.dev/badge/CodeQL-Passing-16A34A.svg?text=Passing%20custom&bg
 
 ### Dependabot Enabled
 
-![Dependabot Enabled](docs/error.svg)
+![Dependabot Enabled](https://glyphbadges.dev/badge/Dependabot-Enabled-16A34A.svg?text=Enabled%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1287,7 +1287,7 @@ https://glyphbadges.dev/badge/Dependabot-Enabled-16A34A.svg?text=Enabled%20custo
 
 ### Package Published
 
-![Package Published](docs/error.svg)
+![Package Published](https://glyphbadges.dev/badge/Package-Published-CB3837.svg?text=Published%20custom&bg=CB3837&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1304,7 +1304,7 @@ https://glyphbadges.dev/badge/Package-Published-CB3837.svg?text=Published%20cust
 
 ### Downloads 1.2k/week
 
-![Downloads 1.2k/week](docs/error.svg)
+![Downloads 1.2k/week](https://glyphbadges.dev/badge/Downloads-1-2k-week-8B5CF6.svg?text=1.2k%2Fweek%20custom&bg=8B5CF6&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1321,7 +1321,7 @@ https://glyphbadges.dev/badge/Downloads-1-2k-week-8B5CF6.svg?text=1.2k%2Fweek%20
 
 ### Downloads 4.8k/month
 
-![Downloads 4.8k/month](docs/error.svg)
+![Downloads 4.8k/month](https://glyphbadges.dev/badge/Downloads-4-8k-month-8B5CF6.svg?text=4.8k%2Fmonth%20custom&bg=8B5CF6&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1338,7 +1338,7 @@ https://glyphbadges.dev/badge/Downloads-4-8k-month-8B5CF6.svg?text=4.8k%2Fmonth%
 
 ### Issues 12 open
 
-![Issues 12 open](docs/error.svg)
+![Issues 12 open](https://glyphbadges.dev/badge/Issues-12-open-F59E0B.svg?text=12%20open%20custom&bg=F59E0B&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1355,7 +1355,7 @@ https://glyphbadges.dev/badge/Issues-12-open-F59E0B.svg?text=12%20open%20custom&
 
 ### Pull requests 4 open
 
-![Pull requests 4 open](docs/error.svg)
+![Pull requests 4 open](https://glyphbadges.dev/badge/Pull-requests-4-open-2563EB.svg?text=4%20open%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1372,7 +1372,7 @@ https://glyphbadges.dev/badge/Pull-requests-4-open-2563EB.svg?text=4%20open%20cu
 
 ### Contributors 24
 
-![Contributors 24](docs/error.svg)
+![Contributors 24](https://glyphbadges.dev/badge/Contributors-24-8B5CF6.svg?text=24%20custom&bg=8B5CF6&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1389,7 +1389,7 @@ https://glyphbadges.dev/badge/Contributors-24-8B5CF6.svg?text=24%20custom&bg=8B5
 
 ### Commits 1.2k
 
-![Commits 1.2k](docs/error.svg)
+![Commits 1.2k](https://glyphbadges.dev/badge/Commits-1-2k-8B5CF6.svg?text=1.2k%20custom&bg=8B5CF6&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1406,7 +1406,7 @@ https://glyphbadges.dev/badge/Commits-1-2k-8B5CF6.svg?text=1.2k%20custom&bg=8B5C
 
 ### Forks 48
 
-![Forks 48](docs/error.svg)
+![Forks 48](https://glyphbadges.dev/badge/Forks-48-2563EB.svg?text=48%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1423,7 +1423,7 @@ https://glyphbadges.dev/badge/Forks-48-2563EB.svg?text=48%20custom&bg=2563EB&lab
 
 ### Watchers 32
 
-![Watchers 32](docs/error.svg)
+![Watchers 32](https://glyphbadges.dev/badge/Watchers-32-2563EB.svg?text=32%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1440,7 +1440,7 @@ https://glyphbadges.dev/badge/Watchers-32-2563EB.svg?text=32%20custom&bg=2563EB&
 
 ### Stars 904
 
-![Stars 904](docs/error.svg)
+![Stars 904](https://glyphbadges.dev/badge/Stars-904-F59E0B.svg?text=904%20custom&bg=F59E0B&labelBg=23272A&logo=star&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1457,7 +1457,7 @@ https://glyphbadges.dev/badge/Stars-904-F59E0B.svg?text=904%20custom&bg=F59E0B&l
 
 ### Release Latest
 
-![Release Latest](docs/error.svg)
+![Release Latest](https://glyphbadges.dev/badge/Release-Latest-16A34A.svg?text=Latest%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1474,7 +1474,7 @@ https://glyphbadges.dev/badge/Release-Latest-16A34A.svg?text=Latest%20custom&bg=
 
 ### Status Operational
 
-![Status Operational](docs/error.svg)
+![Status Operational](https://glyphbadges.dev/badge/Status-Operational-16A34A.svg?text=Operational%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1491,7 +1491,7 @@ https://glyphbadges.dev/badge/Status-Operational-16A34A.svg?text=Operational%20c
 
 ### Status Degraded
 
-![Status Degraded](docs/error.svg)
+![Status Degraded](https://glyphbadges.dev/badge/Status-Degraded-F59E0B.svg?text=Degraded%20custom&bg=F59E0B&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1508,7 +1508,7 @@ https://glyphbadges.dev/badge/Status-Degraded-F59E0B.svg?text=Degraded%20custom&
 
 ### Status Down
 
-![Status Down](docs/error.svg)
+![Status Down](https://glyphbadges.dev/badge/Status-Down-DC2626.svg?text=Down%20custom&bg=DC2626&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1525,7 +1525,7 @@ https://glyphbadges.dev/badge/Status-Down-DC2626.svg?text=Down%20custom&bg=DC262
 
 ### Status Maintenance
 
-![Status Maintenance](docs/error.svg)
+![Status Maintenance](https://glyphbadges.dev/badge/Status-Maintenance-7C3AED.svg?text=Maintenance%20custom&bg=7C3AED&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1542,7 +1542,7 @@ https://glyphbadges.dev/badge/Status-Maintenance-7C3AED.svg?text=Maintenance%20c
 
 ### Status Monitoring
 
-![Status Monitoring](docs/error.svg)
+![Status Monitoring](https://glyphbadges.dev/badge/Status-Monitoring-2563EB.svg?text=Monitoring%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1559,7 +1559,7 @@ https://glyphbadges.dev/badge/Status-Monitoring-2563EB.svg?text=Monitoring%20cus
 
 ### Status Resolved
 
-![Status Resolved](docs/error.svg)
+![Status Resolved](https://glyphbadges.dev/badge/Status-Resolved-16A34A.svg?text=Resolved%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1576,7 +1576,7 @@ https://glyphbadges.dev/badge/Status-Resolved-16A34A.svg?text=Resolved%20custom&
 
 ### Security A+
 
-![Security A+](docs/error.svg)
+![Security A+](https://glyphbadges.dev/badge/Security-A-16A34A.svg?text=A%2B%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1593,7 +1593,7 @@ https://glyphbadges.dev/badge/Security-A-16A34A.svg?text=A%2B%20custom&bg=16A34A
 
 ### Bundle Small
 
-![Bundle Small](docs/error.svg)
+![Bundle Small](https://glyphbadges.dev/badge/Bundle-Small-16A34A.svg?text=Small%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1610,7 +1610,7 @@ https://glyphbadges.dev/badge/Bundle-Small-16A34A.svg?text=Small%20custom&bg=16A
 
 ### Memory Efficient
 
-![Memory Efficient](docs/error.svg)
+![Memory Efficient](https://glyphbadges.dev/badge/Memory-Efficient-16A34A.svg?text=Efficient%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1627,7 +1627,7 @@ https://glyphbadges.dev/badge/Memory-Efficient-16A34A.svg?text=Efficient%20custo
 
 ### Accessibility AA
 
-![Accessibility AA](docs/error.svg)
+![Accessibility AA](https://glyphbadges.dev/badge/Accessibility-AA-16A34A.svg?text=AA%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1644,7 +1644,7 @@ https://glyphbadges.dev/badge/Accessibility-AA-16A34A.svg?text=AA%20custom&bg=16
 
 ### Quality Excellent
 
-![Quality Excellent](docs/error.svg)
+![Quality Excellent](https://glyphbadges.dev/badge/Quality-Excellent-16A34A.svg?text=Excellent%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1661,7 +1661,7 @@ https://glyphbadges.dev/badge/Quality-Excellent-16A34A.svg?text=Excellent%20cust
 
 ### Review Approved
 
-![Review Approved](docs/error.svg)
+![Review Approved](https://glyphbadges.dev/badge/Review-Approved-16A34A.svg?text=Approved%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1678,7 +1678,7 @@ https://glyphbadges.dev/badge/Review-Approved-16A34A.svg?text=Approved%20custom&
 
 ### Backers 24
 
-![Backers 24](docs/error.svg)
+![Backers 24](https://glyphbadges.dev/badge/Backers-24-EC4899.svg?text=24%20custom&bg=EC4899&labelBg=23272A&logo=heart&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1695,7 +1695,7 @@ https://glyphbadges.dev/badge/Backers-24-EC4899.svg?text=24%20custom&bg=EC4899&l
 
 ### Downloads 10k
 
-![Downloads 10k](docs/error.svg)
+![Downloads 10k](https://glyphbadges.dev/badge/Downloads-10k-8B5CF6.svg?text=10k%20custom&bg=8B5CF6&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1712,7 +1712,7 @@ https://glyphbadges.dev/badge/Downloads-10k-8B5CF6.svg?text=10k%20custom&bg=8B5C
 
 ### Issues 98% closed
 
-![Issues 98% closed](docs/error.svg)
+![Issues 98% closed](https://glyphbadges.dev/badge/Issues-98-closed-16A34A.svg?text=98%25%20closed%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1729,7 +1729,7 @@ https://glyphbadges.dev/badge/Issues-98-closed-16A34A.svg?text=98%25%20closed%20
 
 ### Pull requests 92% merged
 
-![Pull requests 92% merged](docs/error.svg)
+![Pull requests 92% merged](https://glyphbadges.dev/badge/Pull-requests-92-merged-16A34A.svg?text=92%25%20merged%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1746,7 +1746,7 @@ https://glyphbadges.dev/badge/Pull-requests-92-merged-16A34A.svg?text=92%25%20me
 
 ### Contributors Active
 
-![Contributors Active](docs/error.svg)
+![Contributors Active](https://glyphbadges.dev/badge/Contributors-Active-16A34A.svg?text=Active%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1763,7 +1763,7 @@ https://glyphbadges.dev/badge/Contributors-Active-16A34A.svg?text=Active%20custo
 
 ### Commits Daily
 
-![Commits Daily](docs/error.svg)
+![Commits Daily](https://glyphbadges.dev/badge/Commits-Daily-8B5CF6.svg?text=Daily%20custom&bg=8B5CF6&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1780,7 +1780,7 @@ https://glyphbadges.dev/badge/Commits-Daily-8B5CF6.svg?text=Daily%20custom&bg=8B
 
 ### Build 42s
 
-![Build 42s](docs/error.svg)
+![Build 42s](https://glyphbadges.dev/badge/Build-42s-2563EB.svg?text=42s%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1797,7 +1797,7 @@ https://glyphbadges.dev/badge/Build-42s-2563EB.svg?text=42s%20custom&bg=2563EB&l
 
 ### API v2
 
-![API v2](docs/error.svg)
+![API v2](https://glyphbadges.dev/badge/API-v2-2563EB.svg?text=v2%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1814,7 +1814,7 @@ https://glyphbadges.dev/badge/API-v2-2563EB.svg?text=v2%20custom&bg=2563EB&label
 
 ### Security Audited
 
-![Security Audited](docs/error.svg)
+![Security Audited](https://glyphbadges.dev/badge/Security-Audited-16A34A.svg?text=Audited%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1831,7 +1831,7 @@ https://glyphbadges.dev/badge/Security-Audited-16A34A.svg?text=Audited%20custom&
 
 ### Privacy Protected
 
-![Privacy Protected](docs/error.svg)
+![Privacy Protected](https://glyphbadges.dev/badge/Privacy-Protected-16A34A.svg?text=Protected%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1848,7 +1848,7 @@ https://glyphbadges.dev/badge/Privacy-Protected-16A34A.svg?text=Protected%20cust
 
 ### Reliability High
 
-![Reliability High](docs/error.svg)
+![Reliability High](https://glyphbadges.dev/badge/Reliability-High-16A34A.svg?text=High%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1865,7 +1865,7 @@ https://glyphbadges.dev/badge/Reliability-High-16A34A.svg?text=High%20custom&bg=
 
 ### Scaling Ready
 
-![Scaling Ready](docs/error.svg)
+![Scaling Ready](https://glyphbadges.dev/badge/Scaling-Ready-2563EB.svg?text=Ready%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1882,7 +1882,7 @@ https://glyphbadges.dev/badge/Scaling-Ready-2563EB.svg?text=Ready%20custom&bg=25
 
 ### Performance Fast
 
-![Performance Fast](docs/error.svg)
+![Performance Fast](https://glyphbadges.dev/badge/Performance-Fast-16A34A.svg?text=Fast%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1899,7 +1899,7 @@ https://glyphbadges.dev/badge/Performance-Fast-16A34A.svg?text=Fast%20custom&bg=
 
 ### Accessibility Accessible
 
-![Accessibility Accessible](docs/error.svg)
+![Accessibility Accessible](https://glyphbadges.dev/badge/Accessibility-Accessible-16A34A.svg?text=Accessible%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1916,7 +1916,7 @@ https://glyphbadges.dev/badge/Accessibility-Accessible-16A34A.svg?text=Accessibl
 
 ### Design Responsive
 
-![Design Responsive](docs/error.svg)
+![Design Responsive](https://glyphbadges.dev/badge/Design-Responsive-2563EB.svg?text=Responsive%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1933,7 +1933,7 @@ https://glyphbadges.dev/badge/Design-Responsive-2563EB.svg?text=Responsive%20cus
 
 ### Mobile Ready
 
-![Mobile Ready](docs/error.svg)
+![Mobile Ready](https://glyphbadges.dev/badge/Mobile-Ready-2563EB.svg?text=Ready%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1950,7 +1950,7 @@ https://glyphbadges.dev/badge/Mobile-Ready-2563EB.svg?text=Ready%20custom&bg=256
 
 ### Environment Production
 
-![Environment Production](docs/error.svg)
+![Environment Production](https://glyphbadges.dev/badge/Environment-Production-16A34A.svg?text=Production%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1967,7 +1967,7 @@ https://glyphbadges.dev/badge/Environment-Production-16A34A.svg?text=Production%
 
 ### Environment Staging
 
-![Environment Staging](docs/error.svg)
+![Environment Staging](https://glyphbadges.dev/badge/Environment-Staging-F59E0B.svg?text=Staging%20custom&bg=F59E0B&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -1984,7 +1984,7 @@ https://glyphbadges.dev/badge/Environment-Staging-F59E0B.svg?text=Staging%20cust
 
 ### Environment Development
 
-![Environment Development](docs/error.svg)
+![Environment Development](https://glyphbadges.dev/badge/Environment-Development-8B5CF6.svg?text=Development%20custom&bg=8B5CF6&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -2001,7 +2001,7 @@ https://glyphbadges.dev/badge/Environment-Development-8B5CF6.svg?text=Developmen
 
 ### Hosting Self-hosted
 
-![Hosting Self-hosted](docs/error.svg)
+![Hosting Self-hosted](https://glyphbadges.dev/badge/Hosting-Self-hosted-64748B.svg?text=Self-hosted%20custom&bg=64748B&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -2018,7 +2018,7 @@ https://glyphbadges.dev/badge/Hosting-Self-hosted-64748B.svg?text=Self-hosted%20
 
 ### Hosting Cloud
 
-![Hosting Cloud](docs/error.svg)
+![Hosting Cloud](https://glyphbadges.dev/badge/Hosting-Cloud-2563EB.svg?text=Cloud%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -2035,7 +2035,7 @@ https://glyphbadges.dev/badge/Hosting-Cloud-2563EB.svg?text=Cloud%20custom&bg=25
 
 ### Architecture Serverless
 
-![Architecture Serverless](docs/error.svg)
+![Architecture Serverless](https://glyphbadges.dev/badge/Architecture-Serverless-8B5CF6.svg?text=Serverless%20custom&bg=8B5CF6&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -2052,7 +2052,7 @@ https://glyphbadges.dev/badge/Architecture-Serverless-8B5CF6.svg?text=Serverless
 
 ### Network Edge
 
-![Network Edge](docs/error.svg)
+![Network Edge](https://glyphbadges.dev/badge/Network-Edge-2563EB.svg?text=Edge%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -2069,7 +2069,7 @@ https://glyphbadges.dev/badge/Network-Edge-2563EB.svg?text=Edge%20custom&bg=2563
 
 ### Integration Webhooks
 
-![Integration Webhooks](docs/error.svg)
+![Integration Webhooks](https://glyphbadges.dev/badge/Integration-Webhooks-8B5CF6.svg?text=Webhooks%20custom&bg=8B5CF6&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -2086,7 +2086,7 @@ https://glyphbadges.dev/badge/Integration-Webhooks-8B5CF6.svg?text=Webhooks%20cu
 
 ### Auth OAuth
 
-![Auth OAuth](docs/error.svg)
+![Auth OAuth](https://glyphbadges.dev/badge/Auth-OAuth-2563EB.svg?text=OAuth%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -2103,7 +2103,7 @@ https://glyphbadges.dev/badge/Auth-OAuth-2563EB.svg?text=OAuth%20custom&bg=2563E
 
 ### Auth SSO
 
-![Auth SSO](docs/error.svg)
+![Auth SSO](https://glyphbadges.dev/badge/Auth-SSO-2563EB.svg?text=SSO%20custom&bg=2563EB&labelBg=23272A&logo=status&style=flat)
 
 **Customer URL Parameters:**
 
@@ -2120,7 +2120,7 @@ https://glyphbadges.dev/badge/Auth-SSO-2563EB.svg?text=SSO%20custom&bg=2563EB&la
 
 ### Support Available
 
-![Support Available](docs/error.svg)
+![Support Available](https://glyphbadges.dev/badge/Support-Available-16A34A.svg?text=Available%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
 
 **Customer URL Parameters:**
 
@@ -2137,7 +2137,7 @@ https://glyphbadges.dev/badge/Support-Available-16A34A.svg?text=Available%20cust
 
 ### Community Driven
 
-![Community Driven](docs/error.svg)
+![Community Driven](https://glyphbadges.dev/badge/Community-Driven-EC4899.svg?text=Driven%20custom&bg=EC4899&labelBg=23272A&logo=heart&style=flat)
 
 **Customer URL Parameters:**
 
@@ -2150,4 +2150,1126 @@ https://glyphbadges.dev/badge/Support-Available-16A34A.svg?text=Available%20cust
 
 ```text
 https://glyphbadges.dev/badge/Community-Driven-EC4899.svg?text=Driven%20custom&bg=EC4899&labelBg=23272A&logo=heart&style=flat
+```
+
+### Mail Contact us
+
+![Mail Contact us](https://glyphbadges.dev/badge/Mail-Contact-us-2563EB.svg?text=Contact%20us%20custom&bg=2563EB&labelBg=23272A&logo=mail&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Mail-Contact-us-2563EB.svg?text=Contact%20us%20custom&bg=2563EB&labelBg=23272A&logo=mail&style=flat
+```
+
+### Email Verified
+
+![Email Verified](https://glyphbadges.dev/badge/Email-Verified-16A34A.svg?text=Verified%20custom&bg=16A34A&labelBg=23272A&logo=mail&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Email-Verified-16A34A.svg?text=Verified%20custom&bg=16A34A&labelBg=23272A&logo=mail&style=flat
+```
+
+### Newsletter Subscribe
+
+![Newsletter Subscribe](https://glyphbadges.dev/badge/Newsletter-Subscribe-7C3AED.svg?text=Subscribe%20custom&bg=7C3AED&labelBg=23272A&logo=mail&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Newsletter-Subscribe-7C3AED.svg?text=Subscribe%20custom&bg=7C3AED&labelBg=23272A&logo=mail&style=flat
+```
+
+### Contact Available
+
+![Contact Available](https://glyphbadges.dev/badge/Contact-Available-2563EB.svg?text=Available%20custom&bg=2563EB&labelBg=23272A&logo=mail&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Contact-Available-2563EB.svg?text=Available%20custom&bg=2563EB&labelBg=23272A&logo=mail&style=flat
+```
+
+### Slack Join workspace
+
+![Slack Join workspace](https://glyphbadges.dev/badge/Slack-Join-workspace-4A154B.svg?text=Join%20workspace%20custom&bg=4A154B&labelBg=23272A&logo=status&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Slack-Join-workspace-4A154B.svg?text=Join%20workspace%20custom&bg=4A154B&labelBg=23272A&logo=status&style=flat
+```
+
+### Telegram Join channel
+
+![Telegram Join channel](https://glyphbadges.dev/badge/Telegram-Join-channel-229ED9.svg?text=Join%20channel%20custom&bg=229ED9&labelBg=23272A&logo=status&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Telegram-Join-channel-229ED9.svg?text=Join%20channel%20custom&bg=229ED9&labelBg=23272A&logo=status&style=flat
+```
+
+### Reddit Join community
+
+![Reddit Join community](https://glyphbadges.dev/badge/Reddit-Join-community-FF4500.svg?text=Join%20community%20custom&bg=FF4500&labelBg=23272A&logo=status&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Reddit-Join-community-FF4500.svg?text=Join%20community%20custom&bg=FF4500&labelBg=23272A&logo=status&style=flat
+```
+
+### Medium Read article
+
+![Medium Read article](https://glyphbadges.dev/badge/Medium-Read-article-000000.svg?text=Read%20article%20custom&bg=000000&labelBg=23272A&logo=website&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Medium-Read-article-000000.svg?text=Read%20article%20custom&bg=000000&labelBg=23272A&logo=website&style=flat
+```
+
+### DEV Read posts
+
+![DEV Read posts](https://glyphbadges.dev/badge/DEV-Read-posts-0A0A0A.svg?text=Read%20posts%20custom&bg=0A0A0A&labelBg=23272A&logo=website&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/DEV-Read-posts-0A0A0A.svg?text=Read%20posts%20custom&bg=0A0A0A&labelBg=23272A&logo=website&style=flat
+```
+
+### Stack Overflow Ask a question
+
+![Stack Overflow Ask a question](https://glyphbadges.dev/badge/Stack-Overflow-Ask-a-question-F48024.svg?text=Ask%20a%20question%20custom&bg=F48024&labelBg=23272A&logo=status&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Stack-Overflow-Ask-a-question-F48024.svg?text=Ask%20a%20question%20custom&bg=F48024&labelBg=23272A&logo=status&style=flat
+```
+
+### Product Hunt Featured
+
+![Product Hunt Featured](https://glyphbadges.dev/badge/Product-Hunt-Featured-DA552F.svg?text=Featured%20custom&bg=DA552F&labelBg=23272A&logo=star&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Product-Hunt-Featured-DA552F.svg?text=Featured%20custom&bg=DA552F&labelBg=23272A&logo=star&style=flat
+```
+
+### Patreon Support us
+
+![Patreon Support us](https://glyphbadges.dev/badge/Patreon-Support-us-FF424D.svg?text=Support%20us%20custom&bg=FF424D&labelBg=23272A&logo=heart&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Patreon-Support-us-FF424D.svg?text=Support%20us%20custom&bg=FF424D&labelBg=23272A&logo=heart&style=flat
+```
+
+### Support Buy me a coffee
+
+![Support Buy me a coffee](https://glyphbadges.dev/badge/Support-Buy-me-a-coffee-FFDD00.svg?text=Buy%20me%20a%20coffee%20custom&bg=FFDD00&labelBg=23272A&logo=heart&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Support-Buy-me-a-coffee-FFDD00.svg?text=Buy%20me%20a%20coffee%20custom&bg=FFDD00&labelBg=23272A&logo=heart&style=flat
+```
+
+### PayPal Donate
+
+![PayPal Donate](https://glyphbadges.dev/badge/PayPal-Donate-003087.svg?text=Donate%20custom&bg=003087&labelBg=23272A&logo=heart&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/PayPal-Donate-003087.svg?text=Donate%20custom&bg=003087&labelBg=23272A&logo=heart&style=flat
+```
+
+### Stripe Payments ready
+
+![Stripe Payments ready](https://glyphbadges.dev/badge/Stripe-Payments-ready-635BFF.svg?text=Payments%20ready%20custom&bg=635BFF&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Stripe-Payments-ready-635BFF.svg?text=Payments%20ready%20custom&bg=635BFF&labelBg=23272A&logo=check&style=flat
+```
+
+### Square Payments ready
+
+![Square Payments ready](https://glyphbadges.dev/badge/Square-Payments-ready-3E4348.svg?text=Payments%20ready%20custom&bg=3E4348&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Square-Payments-ready-3E4348.svg?text=Payments%20ready%20custom&bg=3E4348&labelBg=23272A&logo=check&style=flat
+```
+
+### Firebase Connected
+
+![Firebase Connected](https://glyphbadges.dev/badge/Firebase-Connected-FFCA28.svg?text=Connected%20custom&bg=FFCA28&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Firebase-Connected-FFCA28.svg?text=Connected%20custom&bg=FFCA28&labelBg=23272A&logo=check&style=flat
+```
+
+### Supabase Connected
+
+![Supabase Connected](https://glyphbadges.dev/badge/Supabase-Connected-3ECF8E.svg?text=Connected%20custom&bg=3ECF8E&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Supabase-Connected-3ECF8E.svg?text=Connected%20custom&bg=3ECF8E&labelBg=23272A&logo=check&style=flat
+```
+
+### PostgreSQL Supported
+
+![PostgreSQL Supported](https://glyphbadges.dev/badge/PostgreSQL-Supported-4169E1.svg?text=Supported%20custom&bg=4169E1&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/PostgreSQL-Supported-4169E1.svg?text=Supported%20custom&bg=4169E1&labelBg=23272A&logo=check&style=flat
+```
+
+### MySQL Supported
+
+![MySQL Supported](https://glyphbadges.dev/badge/MySQL-Supported-4479A1.svg?text=Supported%20custom&bg=4479A1&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/MySQL-Supported-4479A1.svg?text=Supported%20custom&bg=4479A1&labelBg=23272A&logo=check&style=flat
+```
+
+### MongoDB Supported
+
+![MongoDB Supported](https://glyphbadges.dev/badge/MongoDB-Supported-47A248.svg?text=Supported%20custom&bg=47A248&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/MongoDB-Supported-47A248.svg?text=Supported%20custom&bg=47A248&labelBg=23272A&logo=check&style=flat
+```
+
+### Redis Connected
+
+![Redis Connected](https://glyphbadges.dev/badge/Redis-Connected-DC382D.svg?text=Connected%20custom&bg=DC382D&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Redis-Connected-DC382D.svg?text=Connected%20custom&bg=DC382D&labelBg=23272A&logo=check&style=flat
+```
+
+### GraphQL Supported
+
+![GraphQL Supported](https://glyphbadges.dev/badge/GraphQL-Supported-E10098.svg?text=Supported%20custom&bg=E10098&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/GraphQL-Supported-E10098.svg?text=Supported%20custom&bg=E10098&labelBg=23272A&logo=check&style=flat
+```
+
+### REST API Available
+
+![REST API Available](https://glyphbadges.dev/badge/REST-API-Available-2563EB.svg?text=Available%20custom&bg=2563EB&labelBg=23272A&logo=website&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/REST-API-Available-2563EB.svg?text=Available%20custom&bg=2563EB&labelBg=23272A&logo=website&style=flat
+```
+
+### gRPC Available
+
+![gRPC Available](https://glyphbadges.dev/badge/gRPC-Available-4285F4.svg?text=Available%20custom&bg=4285F4&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/gRPC-Available-4285F4.svg?text=Available%20custom&bg=4285F4&labelBg=23272A&logo=check&style=flat
+```
+
+### WebSocket Connected
+
+![WebSocket Connected](https://glyphbadges.dev/badge/WebSocket-Connected-16A34A.svg?text=Connected%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/WebSocket-Connected-16A34A.svg?text=Connected%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat
+```
+
+### Kubernetes Ready
+
+![Kubernetes Ready](https://glyphbadges.dev/badge/Kubernetes-Ready-326CE5.svg?text=Ready%20custom&bg=326CE5&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Kubernetes-Ready-326CE5.svg?text=Ready%20custom&bg=326CE5&labelBg=23272A&logo=check&style=flat
+```
+
+### Terraform Managed
+
+![Terraform Managed](https://glyphbadges.dev/badge/Terraform-Managed-844FBA.svg?text=Managed%20custom&bg=844FBA&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Terraform-Managed-844FBA.svg?text=Managed%20custom&bg=844FBA&labelBg=23272A&logo=check&style=flat
+```
+
+### Ansible Automated
+
+![Ansible Automated](https://glyphbadges.dev/badge/Ansible-Automated-EE0000.svg?text=Automated%20custom&bg=EE0000&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Ansible-Automated-EE0000.svg?text=Automated%20custom&bg=EE0000&labelBg=23272A&logo=check&style=flat
+```
+
+### Jenkins Passing
+
+![Jenkins Passing](https://glyphbadges.dev/badge/Jenkins-Passing-D24939.svg?text=Passing%20custom&bg=D24939&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Jenkins-Passing-D24939.svg?text=Passing%20custom&bg=D24939&labelBg=23272A&logo=check&style=flat
+```
+
+### CircleCI Passing
+
+![CircleCI Passing](https://glyphbadges.dev/badge/CircleCI-Passing-343434.svg?text=Passing%20custom&bg=343434&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/CircleCI-Passing-343434.svg?text=Passing%20custom&bg=343434&labelBg=23272A&logo=check&style=flat
+```
+
+### Travis CI Passing
+
+![Travis CI Passing](https://glyphbadges.dev/badge/Travis-CI-Passing-3EAAAF.svg?text=Passing%20custom&bg=3EAAAF&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Travis-CI-Passing-3EAAAF.svg?text=Passing%20custom&bg=3EAAAF&labelBg=23272A&logo=check&style=flat
+```
+
+### Codecov Passing
+
+![Codecov Passing](https://glyphbadges.dev/badge/Codecov-Passing-F01F7A.svg?text=Passing%20custom&bg=F01F7A&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Codecov-Passing-F01F7A.svg?text=Passing%20custom&bg=F01F7A&labelBg=23272A&logo=check&style=flat
+```
+
+### SonarQube Quality gate
+
+![SonarQube Quality gate](https://glyphbadges.dev/badge/SonarQube-Quality-gate-4E9BCD.svg?text=Quality%20gate%20custom&bg=4E9BCD&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/SonarQube-Quality-gate-4E9BCD.svg?text=Quality%20gate%20custom&bg=4E9BCD&labelBg=23272A&logo=check&style=flat
+```
+
+### Snyk Protected
+
+![Snyk Protected](https://glyphbadges.dev/badge/Snyk-Protected-4C4A73.svg?text=Protected%20custom&bg=4C4A73&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Snyk-Protected-4C4A73.svg?text=Protected%20custom&bg=4C4A73&labelBg=23272A&logo=check&style=flat
+```
+
+### npm Downloads
+
+![npm Downloads](https://glyphbadges.dev/badge/npm-Downloads-CB3837.svg?text=Downloads%20custom&bg=CB3837&labelBg=23272A&logo=npm&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/npm-Downloads-CB3837.svg?text=Downloads%20custom&bg=CB3837&labelBg=23272A&logo=npm&style=flat
+```
+
+### PyPI Published
+
+![PyPI Published](https://glyphbadges.dev/badge/PyPI-Published-3775A9.svg?text=Published%20custom&bg=3775A9&labelBg=23272A&logo=status&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/PyPI-Published-3775A9.svg?text=Published%20custom&bg=3775A9&labelBg=23272A&logo=status&style=flat
+```
+
+###  crates.io Published
+
+![ crates.io Published](https://glyphbadges.dev/badge/crates-io-Published-DEA584.svg?text=Published%20custom&bg=DEA584&labelBg=23272A&logo=status&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/crates-io-Published-DEA584.svg?text=Published%20custom&bg=DEA584&labelBg=23272A&logo=status&style=flat
+```
+
+### Docker Pulls
+
+![Docker Pulls](https://glyphbadges.dev/badge/Docker-Pulls-2496ED.svg?text=Pulls%20custom&bg=2496ED&labelBg=23272A&logo=status&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Docker-Pulls-2496ED.svg?text=Pulls%20custom&bg=2496ED&labelBg=23272A&logo=status&style=flat
+```
+
+### GitHub Latest release
+
+![GitHub Latest release](https://glyphbadges.dev/badge/GitHub-Latest-release-181717.svg?text=Latest%20release%20custom&bg=181717&labelBg=23272A&logo=github&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/GitHub-Latest-release-181717.svg?text=Latest%20release%20custom&bg=181717&labelBg=23272A&logo=github&style=flat
+```
+
+### GitHub Issues open
+
+![GitHub Issues open](https://glyphbadges.dev/badge/GitHub-Issues-open-181717.svg?text=Issues%20open%20custom&bg=181717&labelBg=23272A&logo=github&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/GitHub-Issues-open-181717.svg?text=Issues%20open%20custom&bg=181717&labelBg=23272A&logo=github&style=flat
+```
+
+### GitHub Discussions
+
+![GitHub Discussions](https://glyphbadges.dev/badge/GitHub-Discussions-181717.svg?text=Discussions%20custom&bg=181717&labelBg=23272A&logo=github&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/GitHub-Discussions-181717.svg?text=Discussions%20custom&bg=181717&labelBg=23272A&logo=github&style=flat
+```
+
+### GitLab Pipeline passing
+
+![GitLab Pipeline passing](https://glyphbadges.dev/badge/GitLab-Pipeline-passing-FC6D26.svg?text=Pipeline%20passing%20custom&bg=FC6D26&labelBg=23272A&logo=gitlab&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/GitLab-Pipeline-passing-FC6D26.svg?text=Pipeline%20passing%20custom&bg=FC6D26&labelBg=23272A&logo=gitlab&style=flat
+```
+
+### Bitbucket Repository
+
+![Bitbucket Repository](https://glyphbadges.dev/badge/Bitbucket-Repository-0052CC.svg?text=Repository%20custom&bg=0052CC&labelBg=23272A&logo=website&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Bitbucket-Repository-0052CC.svg?text=Repository%20custom&bg=0052CC&labelBg=23272A&logo=website&style=flat
+```
+
+### Codeberg Repository
+
+![Codeberg Repository](https://glyphbadges.dev/badge/Codeberg-Repository-2185D0.svg?text=Repository%20custom&bg=2185D0&labelBg=23272A&logo=website&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Codeberg-Repository-2185D0.svg?text=Repository%20custom&bg=2185D0&labelBg=23272A&logo=website&style=flat
+```
+
+### Cloudflare Protected
+
+![Cloudflare Protected](https://glyphbadges.dev/badge/Cloudflare-Protected-F38020.svg?text=Protected%20custom&bg=F38020&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Cloudflare-Protected-F38020.svg?text=Protected%20custom&bg=F38020&labelBg=23272A&logo=check&style=flat
+```
+
+### AWS Deployed
+
+![AWS Deployed](https://glyphbadges.dev/badge/AWS-Deployed-FF9900.svg?text=Deployed%20custom&bg=FF9900&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/AWS-Deployed-FF9900.svg?text=Deployed%20custom&bg=FF9900&labelBg=23272A&logo=check&style=flat
+```
+
+### Azure Deployed
+
+![Azure Deployed](https://glyphbadges.dev/badge/Azure-Deployed-0078D4.svg?text=Deployed%20custom&bg=0078D4&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Azure-Deployed-0078D4.svg?text=Deployed%20custom&bg=0078D4&labelBg=23272A&logo=check&style=flat
+```
+
+### Google Cloud Deployed
+
+![Google Cloud Deployed](https://glyphbadges.dev/badge/Google-Cloud-Deployed-4285F4.svg?text=Deployed%20custom&bg=4285F4&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Google-Cloud-Deployed-4285F4.svg?text=Deployed%20custom&bg=4285F4&labelBg=23272A&logo=check&style=flat
+```
+
+### DigitalOcean Deployed
+
+![DigitalOcean Deployed](https://glyphbadges.dev/badge/DigitalOcean-Deployed-0080FF.svg?text=Deployed%20custom&bg=0080FF&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/DigitalOcean-Deployed-0080FF.svg?text=Deployed%20custom&bg=0080FF&labelBg=23272A&logo=check&style=flat
+```
+
+### Railway Deployed
+
+![Railway Deployed](https://glyphbadges.dev/badge/Railway-Deployed-111111.svg?text=Deployed%20custom&bg=111111&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Railway-Deployed-111111.svg?text=Deployed%20custom&bg=111111&labelBg=23272A&logo=check&style=flat
+```
+
+### Render Deployed
+
+![Render Deployed](https://glyphbadges.dev/badge/Render-Deployed-46E3B7.svg?text=Deployed%20custom&bg=46E3B7&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Render-Deployed-46E3B7.svg?text=Deployed%20custom&bg=46E3B7&labelBg=23272A&logo=check&style=flat
+```
+
+### Netlify Deployed
+
+![Netlify Deployed](https://glyphbadges.dev/badge/Netlify-Deployed-00C7B7.svg?text=Deployed%20custom&bg=00C7B7&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Netlify-Deployed-00C7B7.svg?text=Deployed%20custom&bg=00C7B7&labelBg=23272A&logo=check&style=flat
+```
+
+### Security Verified
+
+![Security Verified](https://glyphbadges.dev/badge/Security-Verified-16A34A.svg?text=Verified%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Security-Verified-16A34A.svg?text=Verified%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat
+```
+
+### Privacy Safe
+
+![Privacy Safe](https://glyphbadges.dev/badge/Privacy-Safe-16A34A.svg?text=Safe%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Privacy-Safe-16A34A.svg?text=Safe%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat
+```
+
+### GDPR Compliant
+
+![GDPR Compliant](https://glyphbadges.dev/badge/GDPR-Compliant-2563EB.svg?text=Compliant%20custom&bg=2563EB&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/GDPR-Compliant-2563EB.svg?text=Compliant%20custom&bg=2563EB&labelBg=23272A&logo=check&style=flat
+```
+
+### SOC 2 Compliant
+
+![SOC 2 Compliant](https://glyphbadges.dev/badge/SOC-2-Compliant-2563EB.svg?text=Compliant%20custom&bg=2563EB&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/SOC-2-Compliant-2563EB.svg?text=Compliant%20custom&bg=2563EB&labelBg=23272A&logo=check&style=flat
+```
+
+### Accessibility AA
+
+![Accessibility AA](https://glyphbadges.dev/badge/Accessibility-AA-16A34A.svg?text=AA%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Accessibility-AA-16A34A.svg?text=AA%20custom&bg=16A34A&labelBg=23272A&logo=check&style=flat
+```
+
+### OpenAPI Documented
+
+![OpenAPI Documented](https://glyphbadges.dev/badge/OpenAPI-Documented-6BA539.svg?text=Documented%20custom&bg=6BA539&labelBg=23272A&logo=website&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/OpenAPI-Documented-6BA539.svg?text=Documented%20custom&bg=6BA539&labelBg=23272A&logo=website&style=flat
+```
+
+### RSS Subscribe
+
+![RSS Subscribe](https://glyphbadges.dev/badge/RSS-Subscribe-F26522.svg?text=Subscribe%20custom&bg=F26522&labelBg=23272A&logo=website&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/RSS-Subscribe-F26522.svg?text=Subscribe%20custom&bg=F26522&labelBg=23272A&logo=website&style=flat
+```
+
+### Docs Online
+
+![Docs Online](https://glyphbadges.dev/badge/Docs-Online-2563EB.svg?text=Online%20custom&bg=2563EB&labelBg=23272A&logo=website&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Docs-Online-2563EB.svg?text=Online%20custom&bg=2563EB&labelBg=23272A&logo=website&style=flat
+```
+
+### Roadmap Public
+
+![Roadmap Public](https://glyphbadges.dev/badge/Roadmap-Public-8B5CF6.svg?text=Public%20custom&bg=8B5CF6&labelBg=23272A&logo=website&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Roadmap-Public-8B5CF6.svg?text=Public%20custom&bg=8B5CF6&labelBg=23272A&logo=website&style=flat
+```
+
+### Feedback Welcome
+
+![Feedback Welcome](https://glyphbadges.dev/badge/Feedback-Welcome-EC4899.svg?text=Welcome%20custom&bg=EC4899&labelBg=23272A&logo=heart&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Feedback-Welcome-EC4899.svg?text=Welcome%20custom&bg=EC4899&labelBg=23272A&logo=heart&style=flat
+```
+
+### Access Early access
+
+![Access Early access](https://glyphbadges.dev/badge/Access-Early-access-8B5CF6.svg?text=Early%20access%20custom&bg=8B5CF6&labelBg=23272A&logo=star&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Access-Early-access-8B5CF6.svg?text=Early%20access%20custom&bg=8B5CF6&labelBg=23272A&logo=star&style=flat
+```
+
+### Project Coming soon
+
+![Project Coming soon](https://glyphbadges.dev/badge/Project-Coming-soon-64748B.svg?text=Coming%20soon%20custom&bg=64748B&labelBg=23272A&logo=status&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Project-Coming-soon-64748B.svg?text=Coming%20soon%20custom&bg=64748B&labelBg=23272A&logo=status&style=flat
+```
+
+### Project Archived
+
+![Project Archived](https://glyphbadges.dev/badge/Project-Archived-64748B.svg?text=Archived%20custom&bg=64748B&labelBg=23272A&logo=status&style=flat)
+
+**Customer URL Parameters:**
+
+- `?text=` — brings custom text to the message side.
+- `?bg=` — changes the message background color.
+- `?label=` — changes the left-side label.
+- `?labelBg=` — changes the label background color.
+- `?logo=` — selects an inline logo.
+- `?style=` — selects `flat`, `flat-square`, or `rounded` corners.
+
+```text
+https://glyphbadges.dev/badge/Project-Archived-64748B.svg?text=Archived%20custom&bg=64748B&labelBg=23272A&logo=status&style=flat
 ```
