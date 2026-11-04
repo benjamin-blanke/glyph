@@ -1,12 +1,4 @@
-<div align="center">
-  <img src="v6banner.png" alt="Glyph v6 banner">
-  <h1>Glyph</h1>
-</div>
-
-<p align="center">
-  <strong>Beautiful, customizable SVG badges for your README.</strong><br>
-  A small alternative to Shields.io, powered by a dynamic API.
-</p>
+![Glyph Badges](https://glyphbadges.dev/cover?title=Glyph%20Badges&description=Beautiful%2C%20customizable%20SVG%20badges%20for%20your%20README.)
 
 <p align="center">
   <a href="https://glyphbadges.dev/">Website</a> ·
