@@ -73,8 +73,8 @@ and `labelBackground`. See
 [`docs/URLS.md`](docs/URLS.md), [`docs/STYLES.md`](docs/STYLES.md), and
 [`docs/ICONS.md`](docs/ICONS.md).
 
-If rendering fails, Glyph returns a red warning badge with `⚠️ Glyph` instead
-of leaving Markdown with a broken-image placeholder.
+If rendering fails, Glyph returns a native red warning badge with an inline
+warning icon instead of leaving Markdown with a broken-image placeholder.
 
 ## Development
 

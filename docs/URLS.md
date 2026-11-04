@@ -27,7 +27,7 @@ https://glyphbadges.dev/badge/Build-Passing-16A34A.svg?text=Passing&bg=16A34A&la
 https://glyphbadges.dev/badge/GitHub-Star-the-repo-181717.svg?text=Star%20it&bg=181717&labelBg=23272A&logo=github&style=flat-square
 ```
 
-If a badge cannot be rendered, Glyph returns a red warning badge with `⚠️ Glyph` instead of a broken image placeholder.
+If a badge cannot be rendered, Glyph returns a native red warning badge with an inline warning icon instead of a broken image placeholder.
 
 See [`BADGES.md`](../BADGES.md) for the complete preset gallery.
 
