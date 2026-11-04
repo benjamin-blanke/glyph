@@ -31,14 +31,16 @@ The badge displays the avatar and username as `@username`.
 
 ## Repository charts
 
-Display a live GitHub star-history chart for any public repository:
+Display live GitHub repository charts for any public repository:
 
 ```md
-![Star history](https://glyphbadges.dev/chart?owner=benjamin-blanke&repo=glyph)
+![Star history](https://glyphbadges.dev/chart?owner=benjamin-blanke&repo=glyph&type=stars)
+![Commit activity](https://glyphbadges.dev/chart?owner=benjamin-blanke&repo=glyph&type=commits)
 ```
 
-See [`docs/graphs/README.md`](docs/graphs/README.md) for the chart URL and
-parameter documentation.
+Use `type=stars`, `commits`, `contributors`, `languages`, or `releases`. See
+[`docs/graphs/README.md`](docs/graphs/README.md) for all examples and
+parameters.
 
 ## Project covers
 
