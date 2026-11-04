@@ -4,7 +4,7 @@ Glyph covers use a fixed visual style based on the supplied reference:
 
 - 720 × 252 SVG canvas
 - Dark background
-- Subtle dotted grid
+- Visible dotted grid
 - Soft vignette
 - Centered title and description
 - Bricolage Grotesque from Google Fonts
@@ -23,6 +23,7 @@ Example:
 ```
 
 The `title` and `description` values are URL-encoded and sanitized before
-rendering. The title uses Bricolage Grotesque weight 800; the description uses
-weight 400. The embedded Google Fonts family supports weights 200 through 800,
-but customers cannot change the font or style.
+rendering. The SVG loads Bricolage Grotesque from Google Fonts and uses weight
+800 for the title and weight 400 for the description. The Google Fonts variable
+family supports weights 200 through 800, but customers cannot change the font
+or style.
