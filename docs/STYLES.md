@@ -1,5 +1,17 @@
-# Styles
+# Badge styles
 
-- `flat`: 4px corner radius
-- `flat-square`: square corners
-- `rounded`: 8px corner radius
+Dynamic badges support three styles through the `style` query parameter:
+
+| Style | Description |
+|---|---|
+| `flat` | Standard Glyph badge with a 4px radius. |
+| `flat-square` | No corner radius. |
+| `rounded` | Softer 8px radius. |
+
+Example:
+
+```md
+![Build](https://glyph-six.vercel.app/badge/Build-Passing-16A34A.svg?logo=check&style=rounded)
+```
+
+Static Pages assets use the standard flat style.
