@@ -67,6 +67,18 @@ Display a live GitHub star-history chart for any public repository:
 See [`docs/graphs/README.md`](docs/graphs/README.md) for the chart URL and
 parameter documentation.
 
+## Project covers
+
+Create a fixed-style project cover matching Glyph's dark dotted design:
+
+```md
+![Project cover](https://glyphbadges.dev/cover?title=Acme%20Toolkit&description=A%20delightful%20component%20library)
+```
+
+The cover uses Bricolage Grotesque from Google Fonts, with the title rendered
+at weight 800 and the description at weight 400. The font family and visual
+style are fixed so covers stay consistent.
+
 ### Livck Cloud beta
 
 Glyph has a **Beta** integration for public Livck status pages:
