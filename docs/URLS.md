@@ -34,7 +34,7 @@ https://benjamin-blanke.github.io/glyph/badges/contributors-active.svg
 
 See [`BADGES.md`](../BADGES.md) for the complete preset gallery.
 
-## Livck Cloud beta
+## Livck Cloud beta (Beta)
 
 ```text
 https://glyph-six.vercel.app/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com

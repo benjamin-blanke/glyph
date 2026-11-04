@@ -5,7 +5,7 @@
 Use these URLs directly in Markdown:
 
 ```md
-![Livck status](https://glyph-six.vercel.app/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)
+![Livck Beta](https://glyph-six.vercel.app/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)
 ![Status](https://benjamin-blanke.github.io/glyph/badges/status-degraded.svg)
 ```
 

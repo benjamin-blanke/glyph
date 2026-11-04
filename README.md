@@ -65,7 +65,7 @@ Glyph has a **Beta** integration for public Livck status pages. Paste this
 single URL into your Markdown:
 
 ```md
-![Livck status](https://glyph-six.vercel.app/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)
+![Livck Beta](https://glyph-six.vercel.app/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)
 ```
 
 It checks Livck whenever the image is requested. No GitHub Action or repository

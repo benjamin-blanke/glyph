@@ -4,14 +4,14 @@ All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph'
 
 ## Beta integrations
 
-### Livck status
+### Livck status — Beta
 
 [![Livck Beta](https://benjamin-blanke.github.io/glyph/badges/livck-beta.svg)](https://livck.cloud)
 
-The live beta endpoint checks the status page on every image request.
+The live **Beta** endpoint checks the status page on every image request.
 
 ```md
-[![Livck status](https://glyph-six.vercel.app/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)](https://status.waveserv.com)
+[![Livck Beta](https://glyph-six.vercel.app/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)](https://status.waveserv.com)
 ```
 
 ## Badge gallery
@@ -22,6 +22,14 @@ The live beta endpoint checks the status page on every image request.
 
 ```md
 [![Accessibility AA](https://benjamin-blanke.github.io/glyph/badges/accessibility.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Accessibility Accessible
+
+[![Accessibility Accessible](https://benjamin-blanke.github.io/glyph/badges/accessible.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Accessibility Accessible](https://benjamin-blanke.github.io/glyph/badges/accessible.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### API v2
@@ -128,6 +136,14 @@ The live beta endpoint checks the status page on every image request.
 [![CI Passing](https://benjamin-blanke.github.io/glyph/badges/ci.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Hosting Cloud
+
+[![Hosting Cloud](https://benjamin-blanke.github.io/glyph/badges/cloud.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Hosting Cloud](https://benjamin-blanke.github.io/glyph/badges/cloud.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### CodeQL Passing
 
 [![CodeQL Passing](https://benjamin-blanke.github.io/glyph/badges/codeql.svg)](https://github.com/benjamin-blanke/glyph)
@@ -150,6 +166,14 @@ The live beta endpoint checks the status page on every image request.
 
 ```md
 [![Commits 1.2k](https://benjamin-blanke.github.io/glyph/badges/commits.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Community Driven
+
+[![Community Driven](https://benjamin-blanke.github.io/glyph/badges/community-driven.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Community Driven](https://benjamin-blanke.github.io/glyph/badges/community-driven.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Community Active
@@ -214,6 +238,14 @@ The live beta endpoint checks the status page on every image request.
 
 ```md
 [![Status Deprecated](https://benjamin-blanke.github.io/glyph/badges/deprecated.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Environment Development
+
+[![Environment Development](https://benjamin-blanke.github.io/glyph/badges/development.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Environment Development](https://benjamin-blanke.github.io/glyph/badges/development.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Discord Join the community
@@ -288,12 +320,28 @@ The live beta endpoint checks the status page on every image request.
 [![Downloads 1.2k](https://benjamin-blanke.github.io/glyph/badges/downloads.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Network Edge
+
+[![Network Edge](https://benjamin-blanke.github.io/glyph/badges/edge.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Network Edge](https://benjamin-blanke.github.io/glyph/badges/edge.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Channel Experimental
 
 [![Channel Experimental](https://benjamin-blanke.github.io/glyph/badges/experimental.svg)](https://github.com/benjamin-blanke/glyph)
 
 ```md
 [![Channel Experimental](https://benjamin-blanke.github.io/glyph/badges/experimental.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Performance Fast
+
+[![Performance Fast](https://benjamin-blanke.github.io/glyph/badges/fast.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Performance Fast](https://benjamin-blanke.github.io/glyph/badges/fast.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Forks 48
@@ -424,6 +472,14 @@ The live beta endpoint checks the status page on every image request.
 [![Memory Efficient](https://benjamin-blanke.github.io/glyph/badges/memory.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Mobile Ready
+
+[![Mobile Ready](https://benjamin-blanke.github.io/glyph/badges/mobile-ready.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Mobile Ready](https://benjamin-blanke.github.io/glyph/badges/mobile-ready.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Status Monitoring
 
 [![Status Monitoring](https://benjamin-blanke.github.io/glyph/badges/monitoring.svg)](https://github.com/benjamin-blanke/glyph)
@@ -446,6 +502,14 @@ The live beta endpoint checks the status page on every image request.
 
 ```md
 [![npm Package](https://benjamin-blanke.github.io/glyph/badges/npm.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Auth OAuth
+
+[![Auth OAuth](https://benjamin-blanke.github.io/glyph/badges/oauth.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Auth OAuth](https://benjamin-blanke.github.io/glyph/badges/oauth.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Status Offline
@@ -512,12 +576,28 @@ The live beta endpoint checks the status page on every image request.
 [![Pull requests 92% merged](https://benjamin-blanke.github.io/glyph/badges/pr-merged.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Privacy Protected
+
+[![Privacy Protected](https://benjamin-blanke.github.io/glyph/badges/privacy.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Privacy Protected](https://benjamin-blanke.github.io/glyph/badges/privacy.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Visibility Private
 
 [![Visibility Private](https://benjamin-blanke.github.io/glyph/badges/private.svg)](https://github.com/benjamin-blanke/glyph)
 
 ```md
 [![Visibility Private](https://benjamin-blanke.github.io/glyph/badges/private.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Environment Production
+
+[![Environment Production](https://benjamin-blanke.github.io/glyph/badges/production.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Environment Production](https://benjamin-blanke.github.io/glyph/badges/production.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Pull requests 4 open
@@ -584,6 +664,14 @@ The live beta endpoint checks the status page on every image request.
 [![Release v1.0.0](https://benjamin-blanke.github.io/glyph/badges/release.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Reliability High
+
+[![Reliability High](https://benjamin-blanke.github.io/glyph/badges/reliability.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Reliability High](https://benjamin-blanke.github.io/glyph/badges/reliability.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Status Resolved
 
 [![Status Resolved](https://benjamin-blanke.github.io/glyph/badges/resolved.svg)](https://github.com/benjamin-blanke/glyph)
@@ -598,6 +686,14 @@ The live beta endpoint checks the status page on every image request.
 
 ```md
 [![Response time Fast](https://benjamin-blanke.github.io/glyph/badges/response-time.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Design Responsive
+
+[![Design Responsive](https://benjamin-blanke.github.io/glyph/badges/responsive.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Design Responsive](https://benjamin-blanke.github.io/glyph/badges/responsive.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Review Approved
@@ -624,12 +720,28 @@ The live beta endpoint checks the status page on every image request.
 [![Rust Supported](https://benjamin-blanke.github.io/glyph/badges/rust.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Scaling Ready
+
+[![Scaling Ready](https://benjamin-blanke.github.io/glyph/badges/scalable.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Scaling Ready](https://benjamin-blanke.github.io/glyph/badges/scalable.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Status Scheduled maintenance
 
 [![Status Scheduled maintenance](https://benjamin-blanke.github.io/glyph/badges/scheduled.svg)](https://github.com/benjamin-blanke/glyph)
 
 ```md
 [![Status Scheduled maintenance](https://benjamin-blanke.github.io/glyph/badges/scheduled.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Security Audited
+
+[![Security Audited](https://benjamin-blanke.github.io/glyph/badges/security-audit.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Security Audited](https://benjamin-blanke.github.io/glyph/badges/security-audit.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Security A+
@@ -648,6 +760,22 @@ The live beta endpoint checks the status page on every image request.
 [![Security Protected](https://benjamin-blanke.github.io/glyph/badges/security.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Hosting Self-hosted
+
+[![Hosting Self-hosted](https://benjamin-blanke.github.io/glyph/badges/self-hosted.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Hosting Self-hosted](https://benjamin-blanke.github.io/glyph/badges/self-hosted.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Architecture Serverless
+
+[![Architecture Serverless](https://benjamin-blanke.github.io/glyph/badges/serverless.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Architecture Serverless](https://benjamin-blanke.github.io/glyph/badges/serverless.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Sponsors Support us
 
 [![Sponsors Support us](https://benjamin-blanke.github.io/glyph/badges/sponsors.svg)](https://github.com/benjamin-blanke/glyph)
@@ -656,12 +784,28 @@ The live beta endpoint checks the status page on every image request.
 [![Sponsors Support us](https://benjamin-blanke.github.io/glyph/badges/sponsors.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
+### Auth SSO
+
+[![Auth SSO](https://benjamin-blanke.github.io/glyph/badges/sso.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Auth SSO](https://benjamin-blanke.github.io/glyph/badges/sso.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
 ### Channel Stable
 
 [![Channel Stable](https://benjamin-blanke.github.io/glyph/badges/stable.svg)](https://github.com/benjamin-blanke/glyph)
 
 ```md
 [![Channel Stable](https://benjamin-blanke.github.io/glyph/badges/stable.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Environment Staging
+
+[![Environment Staging](https://benjamin-blanke.github.io/glyph/badges/staging.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Environment Staging](https://benjamin-blanke.github.io/glyph/badges/staging.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Stars 904
@@ -734,6 +878,14 @@ The live beta endpoint checks the status page on every image request.
 
 ```md
 [![Status All systems operational](https://benjamin-blanke.github.io/glyph/badges/status.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Support Available
+
+[![Support Available](https://benjamin-blanke.github.io/glyph/badges/support.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Support Available](https://benjamin-blanke.github.io/glyph/badges/support.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Tests Passing
@@ -830,6 +982,14 @@ The live beta endpoint checks the status page on every image request.
 
 ```md
 [![Watchers 32](https://benjamin-blanke.github.io/glyph/badges/watchers.svg)](https://github.com/benjamin-blanke/glyph)
+```
+
+### Integration Webhooks
+
+[![Integration Webhooks](https://benjamin-blanke.github.io/glyph/badges/webhooks.svg)](https://github.com/benjamin-blanke/glyph)
+
+```md
+[![Integration Webhooks](https://benjamin-blanke.github.io/glyph/badges/webhooks.svg)](https://github.com/benjamin-blanke/glyph)
 ```
 
 ### Website Visit
