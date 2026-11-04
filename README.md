@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://discord.gg/opushost">
-    <img src="https://glyph-six.vercel.app/badge/Discord.svg?text=Join%20the%20community&color=5865F2&logo=discord" alt="Join the Discord">
+    <img src="https://benjamin-blanke.github.io/glyph/badge/Discord.svg" alt="Join the Discord">
   </a>
   <a href="https://glyph.blanke.lol">
     <img src="https://glyph-six.vercel.app/badge/Website-Visit-2563EB.svg?logo=website" alt="Visit the Website">

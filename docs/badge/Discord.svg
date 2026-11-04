@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="32" viewBox="0 0 260 32" role="img" aria-label="Discord: Join the community">
+  <title>Discord: Join the community</title>
+  <rect width="260" height="32" rx="6" fill="#5865F2"/>
+  <g fill="#fff">
+    <path d="M76.7 10.1a12.7 12.7 0 0 0-3.1-1 9.3 9.3 0 0 0-.4.8 11.6 11.6 0 0 0-4.3 0l-.4-.8a12.9 12.9 0 0 0-3.1 1c-2 3-2.5 5.9-2.2 8.8 1.3 1 2.6 1.6 3.9 2l.9-1.2a8.6 8.6 0 0 1-1.4-.7l.3-.2a8 8 0 0 0 6.8 0l.3.2c-.5.3-.9.5-1.4.7l.9 1.2c1.3-.4 2.6-1.1 3.9-2 .4-3.3-.6-6.2-2.2-8.8Zm-6.9 7.1c-.7 0-1.3-.6-1.3-1.4s.6-1.4 1.3-1.4 1.3.6 1.3 1.4-.6 1.4-1.3 1.4Zm4.7 0c-.7 0-1.3-.6-1.3-1.4s.6-1.4 1.3-1.4 1.3.6 1.3 1.4-.6 1.4-1.3 1.4Z"/>
+    <text x="88" y="21" font-family="Arial, sans-serif" font-size="14" font-weight="700">Join the community</text>
+  </g>
+  <text x="12" y="21" fill="#fff" font-family="Arial, sans-serif" font-size="14" font-weight="700">Discord</text>
+</svg>
