@@ -42,6 +42,16 @@ Supported states include `OPERATIONAL`, `DEGRADED`, `DOWN`, `MAINTENANCE`,
 `INCIDENT`, `INVESTIGATING`, `MONITORING`, `RESOLVED`, `SCHEDULED`, `ONLINE`,
 and `OFFLINE`. See [`STATUS.md`](STATUS.md) for all formats.
 
+## Dynamic Discord badge
+
+Fetch a Discord user's current avatar and username through Lanyard:
+
+```md
+![Discord User](https://glyphbadges.dev/badge/discord?userId=123456789012345678)
+```
+
+The badge displays the avatar and username as `@username`.
+
 ### Livck Cloud beta
 
 Glyph has a **Beta** integration for public Livck status pages:

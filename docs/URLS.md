@@ -31,6 +31,17 @@ If a badge cannot be rendered, Glyph returns a native red warning badge with an 
 
 See [`BADGES.md`](../BADGES.md) for the complete preset gallery.
 
+## Dynamic Discord badge
+
+Use a Discord user ID to fetch the current username and avatar through Lanyard:
+
+```text
+https://glyphbadges.dev/badge/discord?userId=123456789012345678
+```
+
+The badge displays the user's avatar and `@username`. The Discord user ID must
+be public and the Lanyard API must be able to resolve it.
+
 ## Livck Cloud beta (Beta)
 
 ```text
