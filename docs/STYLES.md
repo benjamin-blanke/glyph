@@ -11,7 +11,7 @@ Dynamic badges support three styles through the `style` query parameter:
 Example:
 
 ```md
-![Build](https://glyph-six.vercel.app/badge/Build-Passing-16A34A.svg?logo=check&style=rounded)
+![Build](https://benjamin-blanke.github.io/glyph/badges/build.svg)
 ```
 
 Static Pages assets use the standard flat style.

@@ -91,7 +91,7 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
         <path d="M36 24 L29 35 H35 L32 44 L42 31 H36 Z" fill="#fff"/>
         <text x="60" y="31" fill="#fafafa" font-size="15" font-weight="600">${esc(owner)}/${esc(repo)}</text>
         <text x="60" y="47" fill="#a1a1aa" font-size="11">Star history · ${latest.stars} stars</text>
-        <text x="${width-20}" y="30" text-anchor="end" fill="#a1a1aa" font-size="11">glyph-six.vercel.app</text>
+        <text x="${width-20}" y="30" text-anchor="end" fill="#a1a1aa" font-size="11">benjamin-blanke.github.io/glyph</text>
         ${grid}
         <path d="${area}" fill="url(#fill)"/>
         <path d="${line}" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>

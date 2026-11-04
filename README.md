@@ -47,7 +47,7 @@ Browse the complete collection in [`BADGES.md`](BADGES.md).
 For live status values, use the API deployment:
 
 ```md
-![Status](https://glyph-six.vercel.app/badge/status?DEGRADED)
+![Status](https://benjamin-blanke.github.io/glyph/badges/status-degraded.svg)
 ```
 
 Supported states include `OPERATIONAL`, `DEGRADED`, `DOWN`, `MAINTENANCE`,
@@ -58,6 +58,25 @@ GitHub Pages is static, so query-string states cannot be evaluated there. Use
 the matching static files, such as
 `https://benjamin-blanke.github.io/glyph/badges/status-degraded.svg`, when you
 need a Pages-only solution. See [`STATUS.md`](STATUS.md) for all formats.
+
+### Livck Cloud beta
+
+Glyph has a **Beta** integration for public Livck status pages. The endpoint
+looks up the current status on each request and renders a fresh SVG:
+
+```md
+![Livck status](https://YOUR_API_HOST/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)
+```
+
+The shorthand form is also supported:
+
+```text
+/badge/livck?https://status.waveserv.com
+```
+
+This is an API feature, not a static Pages feature: GitHub Pages cannot fetch a
+remote API or execute query parameters. The static beta preview is available at
+[`badges/livck-beta.svg`](https://benjamin-blanke.github.io/glyph/badges/livck-beta.svg).
 
 ## Graphs
 
@@ -90,7 +109,7 @@ The API badge renderer accepts the compact path format:
 Example:
 
 ```text
-https://glyph-six.vercel.app/badge/Build-Passing-16A34A.svg?logo=check
+https://benjamin-blanke.github.io/glyph/badges/build.svg
 ```
 
 Available styles are `flat`, `flat-square`, and `rounded`. See

@@ -34,6 +34,7 @@ export const presets = {
   sponsors: { label: "Sponsors", message: "Support us", color: "EC4899", logo: "heart" },
   downloads: { label: "Downloads", message: "1.2k", color: "8B5CF6", logo: "status" },
   stars: { label: "Stars", message: "904", color: "F59E0B", logo: "star" },
+  "livck-beta": { label: "Livck Beta", message: "Beta", color: "8B5CF6", logo: "status" },
   "availability": { label: "Availability", message: "99.99%", color: "16A34A", logo: "check" },
   "performance": { label: "Performance", message: "Excellent", color: "16A34A", logo: "check" },
   "latency": { label: "Latency", message: "120ms", color: "2563EB", logo: "status" },

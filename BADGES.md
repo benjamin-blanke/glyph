@@ -2,6 +2,16 @@
 
 All badges are static SVG assets hosted on GitHub Pages and rendered with Glyph's native badge style. For dynamic status values, use the API format in [`STATUS.md`](STATUS.md).
 
+## Beta integrations
+
+### Livck status
+
+[![Livck Beta](https://benjamin-blanke.github.io/glyph/badges/livck-beta.svg)](https://livck.cloud)
+
+```md
+[![Livck status](https://YOUR_API_HOST/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)](https://status.waveserv.com)
+```
+
 ## Badge gallery
 
 ### Accessibility AA

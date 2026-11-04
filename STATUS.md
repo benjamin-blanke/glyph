@@ -8,8 +8,8 @@ Use one endpoint and select the state with either shorthand or an explicit
 query parameter:
 
 ```md
-![Status](https://glyph-six.vercel.app/badge/status?DEGRADED)
-![Status](https://glyph-six.vercel.app/badge/status?status=maintenance)
+![Status](https://benjamin-blanke.github.io/glyph/badges/status-degraded.svg)
+![Status](https://benjamin-blanke.github.io/glyph/badges/status-maintenance.svg)
 ```
 
 Supported states:
@@ -31,7 +31,7 @@ Supported states:
 The explicit form is useful when the state comes from a monitoring system:
 
 ```text
-https://glyph-six.vercel.app/badge/status?status=degraded
+https://YOUR_API_HOST/badge/status?status=degraded
 ```
 
 ## GitHub Pages equivalents
@@ -53,3 +53,15 @@ https://benjamin-blanke.github.io/glyph/badges/status-resolved.svg
 ```md
 [![Status](https://benjamin-blanke.github.io/glyph/badges/status-operational.svg)](https://status.example.com)
 ```
+
+## Livck Cloud beta
+
+For a public Livck status page, use:
+
+```md
+![Livck status](https://YOUR_API_HOST/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com)
+```
+
+The endpoint also accepts the shorthand form `/badge/livck?https://status.waveserv.com`.
+It queries the public Livck status API on every request and returns a fresh
+badge. This integration is marked **Beta**.

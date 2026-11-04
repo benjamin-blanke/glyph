@@ -5,15 +5,15 @@
 The API uses this format:
 
 ```text
-https://glyph-six.vercel.app/badge/<label>-<message>-<color>.svg?logo=<icon>&style=<style>
+https://YOUR_API_HOST/badge/<label>-<message>-<color>.svg?logo=<icon>&style=<style>
 ```
 
 Examples:
 
 ```text
-https://glyph-six.vercel.app/badge/Discord-Join%20the%20community-5865F2.svg?logo=discord
-https://glyph-six.vercel.app/badge/Build-Passing-16A34A.svg?logo=check
-https://glyph-six.vercel.app/badge/GitHub-Star%20the%20repo-181717.svg?logo=github&style=rounded
+https://benjamin-blanke.github.io/glyph/badges/discord.svg
+https://benjamin-blanke.github.io/glyph/badges/build.svg
+https://benjamin-blanke.github.io/glyph/badges/github.svg
 ```
 
 ## GitHub Pages
@@ -33,3 +33,15 @@ https://benjamin-blanke.github.io/glyph/badges/contributors-active.svg
 ```
 
 See [`BADGES.md`](../BADGES.md) for the complete preset gallery.
+
+## Livck Cloud beta
+
+```text
+https://YOUR_API_HOST/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com
+```
+
+The URL can also be supplied as the query key:
+
+```text
+https://YOUR_API_HOST/badge/livck?https://status.waveserv.com
+```
