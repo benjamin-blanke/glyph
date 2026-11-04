@@ -15,7 +15,7 @@ Every badge below is rendered directly from the Glyph API. Customize each one wi
 
 ### Livck status — Beta
 
-![Livck Beta](error.svg)
+![Livck Beta](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -29,7 +29,7 @@ https://glyphbadges.dev/badge/livck?url=https%3A%2F%2Fstatus.waveserv.com
 
 ### Discord Join the community
 
-![Discord Join the community](error.svg)
+![Discord Join the community](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -46,7 +46,7 @@ https://glyphbadges.dev/badge/Discord-Join-the-community-5865F2.svg?text=Join%20
 
 ### GitHub Star the repo
 
-![GitHub Star the repo](error.svg)
+![GitHub Star the repo](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -63,7 +63,7 @@ https://glyphbadges.dev/badge/GitHub-Star-the-repo-181717.svg?text=Star%20the%20
 
 ### GitLab View project
 
-![GitLab View project](error.svg)
+![GitLab View project](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -80,7 +80,7 @@ https://glyphbadges.dev/badge/GitLab-View-project-FC6D26.svg?text=View%20project
 
 ### YouTube Subscribe
 
-![YouTube Subscribe](error.svg)
+![YouTube Subscribe](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -97,7 +97,7 @@ https://glyphbadges.dev/badge/YouTube-Subscribe-FF0033.svg?text=Subscribe%20cust
 
 ### Twitch Follow
 
-![Twitch Follow](error.svg)
+![Twitch Follow](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -114,7 +114,7 @@ https://glyphbadges.dev/badge/Twitch-Follow-9146FF.svg?text=Follow%20custom&bg=9
 
 ### Instagram Follow
 
-![Instagram Follow](error.svg)
+![Instagram Follow](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -131,7 +131,7 @@ https://glyphbadges.dev/badge/Instagram-Follow-C13584.svg?text=Follow%20custom&b
 
 ### X Follow
 
-![X Follow](error.svg)
+![X Follow](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -148,7 +148,7 @@ https://glyphbadges.dev/badge/X-Follow-000000.svg?text=Follow%20custom&bg=000000
 
 ### TikTok Follow
 
-![TikTok Follow](error.svg)
+![TikTok Follow](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -165,7 +165,7 @@ https://glyphbadges.dev/badge/TikTok-Follow-111111.svg?text=Follow%20custom&bg=1
 
 ### npm Package
 
-![npm Package](error.svg)
+![npm Package](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -182,7 +182,7 @@ https://glyphbadges.dev/badge/npm-Package-CB3837.svg?text=Package%20custom&bg=CB
 
 ### Vercel Deploy
 
-![Vercel Deploy](error.svg)
+![Vercel Deploy](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -199,7 +199,7 @@ https://glyphbadges.dev/badge/Vercel-Deploy-000000.svg?text=Deploy%20custom&bg=0
 
 ### Website Visit
 
-![Website Visit](error.svg)
+![Website Visit](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -216,7 +216,7 @@ https://glyphbadges.dev/badge/Website-Visit-2563EB.svg?text=Visit%20custom&bg=25
 
 ### Status All systems operational
 
-![Status All systems operational](error.svg)
+![Status All systems operational](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -233,7 +233,7 @@ https://glyphbadges.dev/badge/Status-All-systems-operational-16A34A.svg?text=All
 
 ### Status Operational
 
-![Status Operational](error.svg)
+![Status Operational](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -250,7 +250,7 @@ https://glyphbadges.dev/badge/Status-Operational-16A34A.svg?text=Operational%20c
 
 ### Status Degraded performance
 
-![Status Degraded performance](error.svg)
+![Status Degraded performance](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -267,7 +267,7 @@ https://glyphbadges.dev/badge/Status-Degraded-performance-F59E0B.svg?text=Degrad
 
 ### Status Major outage
 
-![Status Major outage](error.svg)
+![Status Major outage](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -284,7 +284,7 @@ https://glyphbadges.dev/badge/Status-Major-outage-DC2626.svg?text=Major%20outage
 
 ### Status Maintenance
 
-![Status Maintenance](error.svg)
+![Status Maintenance](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -301,7 +301,7 @@ https://glyphbadges.dev/badge/Status-Maintenance-7C3AED.svg?text=Maintenance%20c
 
 ### Status Incident
 
-![Status Incident](error.svg)
+![Status Incident](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -318,7 +318,7 @@ https://glyphbadges.dev/badge/Status-Incident-EA580C.svg?text=Incident%20custom&
 
 ### Status Investigating
 
-![Status Investigating](error.svg)
+![Status Investigating](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -335,7 +335,7 @@ https://glyphbadges.dev/badge/Status-Investigating-F59E0B.svg?text=Investigating
 
 ### Status Monitoring
 
-![Status Monitoring](error.svg)
+![Status Monitoring](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -352,7 +352,7 @@ https://glyphbadges.dev/badge/Status-Monitoring-2563EB.svg?text=Monitoring%20cus
 
 ### Status Resolved
 
-![Status Resolved](error.svg)
+![Status Resolved](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -369,7 +369,7 @@ https://glyphbadges.dev/badge/Status-Resolved-16A34A.svg?text=Resolved%20custom&
 
 ### Status Scheduled maintenance
 
-![Status Scheduled maintenance](error.svg)
+![Status Scheduled maintenance](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -386,7 +386,7 @@ https://glyphbadges.dev/badge/Status-Scheduled-maintenance-7C3AED.svg?text=Sched
 
 ### Status Online
 
-![Status Online](error.svg)
+![Status Online](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -403,7 +403,7 @@ https://glyphbadges.dev/badge/Status-Online-16A34A.svg?text=Online%20custom&bg=1
 
 ### Status Offline
 
-![Status Offline](error.svg)
+![Status Offline](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -420,7 +420,7 @@ https://glyphbadges.dev/badge/Status-Offline-DC2626.svg?text=Offline%20custom&bg
 
 ### Status Beta
 
-![Status Beta](error.svg)
+![Status Beta](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -437,7 +437,7 @@ https://glyphbadges.dev/badge/Status-Beta-8B5CF6.svg?text=Beta%20custom&bg=8B5CF
 
 ### Status Live
 
-![Status Live](error.svg)
+![Status Live](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -454,7 +454,7 @@ https://glyphbadges.dev/badge/Status-Live-16A34A.svg?text=Live%20custom&bg=16A34
 
 ### Status Paused
 
-![Status Paused](error.svg)
+![Status Paused](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -471,7 +471,7 @@ https://glyphbadges.dev/badge/Status-Paused-64748B.svg?text=Paused%20custom&bg=6
 
 ### Status Updated
 
-![Status Updated](error.svg)
+![Status Updated](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -488,7 +488,7 @@ https://glyphbadges.dev/badge/Status-Updated-2563EB.svg?text=Updated%20custom&bg
 
 ### Build Passing
 
-![Build Passing](error.svg)
+![Build Passing](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -505,7 +505,7 @@ https://glyphbadges.dev/badge/Build-Passing-16A34A.svg?text=Passing%20custom&bg=
 
 ### Coverage 98%
 
-![Coverage 98%](error.svg)
+![Coverage 98%](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -522,7 +522,7 @@ https://glyphbadges.dev/badge/Coverage-98-16A34A.svg?text=98%25%20custom&bg=16A3
 
 ### Release v1.0.0
 
-![Release v1.0.0](error.svg)
+![Release v1.0.0](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -539,7 +539,7 @@ https://glyphbadges.dev/badge/Release-v1-0-0-2563EB.svg?text=v1.0.0%20custom&bg=
 
 ### License MIT
 
-![License MIT](error.svg)
+![License MIT](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -556,7 +556,7 @@ https://glyphbadges.dev/badge/License-MIT-64748B.svg?text=MIT%20custom&bg=64748B
 
 ### Docs Read the docs
 
-![Docs Read the docs](error.svg)
+![Docs Read the docs](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -573,7 +573,7 @@ https://glyphbadges.dev/badge/Docs-Read-the-docs-2563EB.svg?text=Read%20the%20do
 
 ### Sponsors Support us
 
-![Sponsors Support us](error.svg)
+![Sponsors Support us](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -590,7 +590,7 @@ https://glyphbadges.dev/badge/Sponsors-Support-us-EC4899.svg?text=Support%20us%2
 
 ### Downloads 1.2k
 
-![Downloads 1.2k](error.svg)
+![Downloads 1.2k](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -607,7 +607,7 @@ https://glyphbadges.dev/badge/Downloads-1-2k-8B5CF6.svg?text=1.2k%20custom&bg=8B
 
 ### Stars 904
 
-![Stars 904](error.svg)
+![Stars 904](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -624,7 +624,7 @@ https://glyphbadges.dev/badge/Stars-904-F59E0B.svg?text=904%20custom&bg=F59E0B&l
 
 ### Availability 99.99%
 
-![Availability 99.99%](error.svg)
+![Availability 99.99%](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -641,7 +641,7 @@ https://glyphbadges.dev/badge/Availability-99-99-16A34A.svg?text=99.99%25%20cust
 
 ### Performance Excellent
 
-![Performance Excellent](error.svg)
+![Performance Excellent](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -658,7 +658,7 @@ https://glyphbadges.dev/badge/Performance-Excellent-16A34A.svg?text=Excellent%20
 
 ### Latency 120ms
 
-![Latency 120ms](error.svg)
+![Latency 120ms](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -675,7 +675,7 @@ https://glyphbadges.dev/badge/Latency-120ms-2563EB.svg?text=120ms%20custom&bg=25
 
 ### Uptime 99.9%
 
-![Uptime 99.9%](error.svg)
+![Uptime 99.9%](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -692,7 +692,7 @@ https://glyphbadges.dev/badge/Uptime-99-9-16A34A.svg?text=99.9%25%20custom&bg=16
 
 ### Response time Fast
 
-![Response time Fast](error.svg)
+![Response time Fast](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -709,7 +709,7 @@ https://glyphbadges.dev/badge/Response-time-Fast-16A34A.svg?text=Fast%20custom&b
 
 ### API Operational
 
-![API Operational](error.svg)
+![API Operational](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -726,7 +726,7 @@ https://glyphbadges.dev/badge/API-Operational-16A34A.svg?text=Operational%20cust
 
 ### Database Healthy
 
-![Database Healthy](error.svg)
+![Database Healthy](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -743,7 +743,7 @@ https://glyphbadges.dev/badge/Database-Healthy-16A34A.svg?text=Healthy%20custom&
 
 ### Cache Healthy
 
-![Cache Healthy](error.svg)
+![Cache Healthy](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -760,7 +760,7 @@ https://glyphbadges.dev/badge/Cache-Healthy-16A34A.svg?text=Healthy%20custom&bg=
 
 ### Queue Processing
 
-![Queue Processing](error.svg)
+![Queue Processing](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -777,7 +777,7 @@ https://glyphbadges.dev/badge/Queue-Processing-2563EB.svg?text=Processing%20cust
 
 ### Security Protected
 
-![Security Protected](error.svg)
+![Security Protected](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -794,7 +794,7 @@ https://glyphbadges.dev/badge/Security-Protected-16A34A.svg?text=Protected%20cus
 
 ### Channel Stable
 
-![Channel Stable](error.svg)
+![Channel Stable](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -811,7 +811,7 @@ https://glyphbadges.dev/badge/Channel-Stable-16A34A.svg?text=Stable%20custom&bg=
 
 ### Channel Experimental
 
-![Channel Experimental](error.svg)
+![Channel Experimental](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -828,7 +828,7 @@ https://glyphbadges.dev/badge/Channel-Experimental-F59E0B.svg?text=Experimental%
 
 ### Status Deprecated
 
-![Status Deprecated](error.svg)
+![Status Deprecated](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -845,7 +845,7 @@ https://glyphbadges.dev/badge/Status-Deprecated-64748B.svg?text=Deprecated%20cus
 
 ### Status Archived
 
-![Status Archived](error.svg)
+![Status Archived](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -862,7 +862,7 @@ https://glyphbadges.dev/badge/Status-Archived-64748B.svg?text=Archived%20custom&
 
 ### Status Verified
 
-![Status Verified](error.svg)
+![Status Verified](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -879,7 +879,7 @@ https://glyphbadges.dev/badge/Status-Verified-2563EB.svg?text=Verified%20custom&
 
 ### Community Active
 
-![Community Active](error.svg)
+![Community Active](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -896,7 +896,7 @@ https://glyphbadges.dev/badge/Community-Active-16A34A.svg?text=Active%20custom&b
 
 ### Visibility Public
 
-![Visibility Public](error.svg)
+![Visibility Public](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -913,7 +913,7 @@ https://glyphbadges.dev/badge/Visibility-Public-2563EB.svg?text=Public%20custom&
 
 ### Visibility Private
 
-![Visibility Private](error.svg)
+![Visibility Private](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -930,7 +930,7 @@ https://glyphbadges.dev/badge/Visibility-Private-64748B.svg?text=Private%20custo
 
 ### Project Open source
 
-![Project Open source](error.svg)
+![Project Open source](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -947,7 +947,7 @@ https://glyphbadges.dev/badge/Project-Open-source-2563EB.svg?text=Open%20source%
 
 ### Docs Available
 
-![Docs Available](error.svg)
+![Docs Available](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -964,7 +964,7 @@ https://glyphbadges.dev/badge/Docs-Available-2563EB.svg?text=Available%20custom&
 
 ### Roadmap In progress
 
-![Roadmap In progress](error.svg)
+![Roadmap In progress](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -981,7 +981,7 @@ https://glyphbadges.dev/badge/Roadmap-In-progress-8B5CF6.svg?text=In%20progress%
 
 ### Changelog Updated
 
-![Changelog Updated](error.svg)
+![Changelog Updated](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -998,7 +998,7 @@ https://glyphbadges.dev/badge/Changelog-Updated-2563EB.svg?text=Updated%20custom
 
 ### Version 2.0.0
 
-![Version 2.0.0](error.svg)
+![Version 2.0.0](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1015,7 +1015,7 @@ https://glyphbadges.dev/badge/Version-2-0-0-8B5CF6.svg?text=2.0.0%20custom&bg=8B
 
 ### Node.js Supported
 
-![Node.js Supported](error.svg)
+![Node.js Supported](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1032,7 +1032,7 @@ https://glyphbadges.dev/badge/Node-js-Supported-339933.svg?text=Supported%20cust
 
 ### TypeScript Supported
 
-![TypeScript Supported](error.svg)
+![TypeScript Supported](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1049,7 +1049,7 @@ https://glyphbadges.dev/badge/TypeScript-Supported-3178C6.svg?text=Supported%20c
 
 ### React Supported
 
-![React Supported](error.svg)
+![React Supported](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1066,7 +1066,7 @@ https://glyphbadges.dev/badge/React-Supported-61DAFB.svg?text=Supported%20custom
 
 ### Vue Supported
 
-![Vue Supported](error.svg)
+![Vue Supported](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1083,7 +1083,7 @@ https://glyphbadges.dev/badge/Vue-Supported-42B883.svg?text=Supported%20custom&b
 
 ### Python Supported
 
-![Python Supported](error.svg)
+![Python Supported](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1100,7 +1100,7 @@ https://glyphbadges.dev/badge/Python-Supported-3776AB.svg?text=Supported%20custo
 
 ### Rust Supported
 
-![Rust Supported](error.svg)
+![Rust Supported](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1117,7 +1117,7 @@ https://glyphbadges.dev/badge/Rust-Supported-DEA584.svg?text=Supported%20custom&
 
 ### Go Supported
 
-![Go Supported](error.svg)
+![Go Supported](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1134,7 +1134,7 @@ https://glyphbadges.dev/badge/Go-Supported-00ADD8.svg?text=Supported%20custom&bg
 
 ### Docker Ready
 
-![Docker Ready](error.svg)
+![Docker Ready](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1151,7 +1151,7 @@ https://glyphbadges.dev/badge/Docker-Ready-2496ED.svg?text=Ready%20custom&bg=249
 
 ### Actions Passing
 
-![Actions Passing](error.svg)
+![Actions Passing](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1168,7 +1168,7 @@ https://glyphbadges.dev/badge/Actions-Passing-2088FF.svg?text=Passing%20custom&b
 
 ### CI Passing
 
-![CI Passing](error.svg)
+![CI Passing](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1185,7 +1185,7 @@ https://glyphbadges.dev/badge/CI-Passing-16A34A.svg?text=Passing%20custom&bg=16A
 
 ### CD Deployed
 
-![CD Deployed](error.svg)
+![CD Deployed](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1202,7 +1202,7 @@ https://glyphbadges.dev/badge/CD-Deployed-8B5CF6.svg?text=Deployed%20custom&bg=8
 
 ### Tests Passing
 
-![Tests Passing](error.svg)
+![Tests Passing](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1219,7 +1219,7 @@ https://glyphbadges.dev/badge/Tests-Passing-16A34A.svg?text=Passing%20custom&bg=
 
 ### Lint Passing
 
-![Lint Passing](error.svg)
+![Lint Passing](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1236,7 +1236,7 @@ https://glyphbadges.dev/badge/Lint-Passing-16A34A.svg?text=Passing%20custom&bg=1
 
 ### Typecheck Passing
 
-![Typecheck Passing](error.svg)
+![Typecheck Passing](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1253,7 +1253,7 @@ https://glyphbadges.dev/badge/Typecheck-Passing-16A34A.svg?text=Passing%20custom
 
 ### CodeQL Passing
 
-![CodeQL Passing](error.svg)
+![CodeQL Passing](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1270,7 +1270,7 @@ https://glyphbadges.dev/badge/CodeQL-Passing-16A34A.svg?text=Passing%20custom&bg
 
 ### Dependabot Enabled
 
-![Dependabot Enabled](error.svg)
+![Dependabot Enabled](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1287,7 +1287,7 @@ https://glyphbadges.dev/badge/Dependabot-Enabled-16A34A.svg?text=Enabled%20custo
 
 ### Package Published
 
-![Package Published](error.svg)
+![Package Published](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1304,7 +1304,7 @@ https://glyphbadges.dev/badge/Package-Published-CB3837.svg?text=Published%20cust
 
 ### Downloads 1.2k/week
 
-![Downloads 1.2k/week](error.svg)
+![Downloads 1.2k/week](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1321,7 +1321,7 @@ https://glyphbadges.dev/badge/Downloads-1-2k-week-8B5CF6.svg?text=1.2k%2Fweek%20
 
 ### Downloads 4.8k/month
 
-![Downloads 4.8k/month](error.svg)
+![Downloads 4.8k/month](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1338,7 +1338,7 @@ https://glyphbadges.dev/badge/Downloads-4-8k-month-8B5CF6.svg?text=4.8k%2Fmonth%
 
 ### Issues 12 open
 
-![Issues 12 open](error.svg)
+![Issues 12 open](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1355,7 +1355,7 @@ https://glyphbadges.dev/badge/Issues-12-open-F59E0B.svg?text=12%20open%20custom&
 
 ### Pull requests 4 open
 
-![Pull requests 4 open](error.svg)
+![Pull requests 4 open](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1372,7 +1372,7 @@ https://glyphbadges.dev/badge/Pull-requests-4-open-2563EB.svg?text=4%20open%20cu
 
 ### Contributors 24
 
-![Contributors 24](error.svg)
+![Contributors 24](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1389,7 +1389,7 @@ https://glyphbadges.dev/badge/Contributors-24-8B5CF6.svg?text=24%20custom&bg=8B5
 
 ### Commits 1.2k
 
-![Commits 1.2k](error.svg)
+![Commits 1.2k](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1406,7 +1406,7 @@ https://glyphbadges.dev/badge/Commits-1-2k-8B5CF6.svg?text=1.2k%20custom&bg=8B5C
 
 ### Forks 48
 
-![Forks 48](error.svg)
+![Forks 48](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1423,7 +1423,7 @@ https://glyphbadges.dev/badge/Forks-48-2563EB.svg?text=48%20custom&bg=2563EB&lab
 
 ### Watchers 32
 
-![Watchers 32](error.svg)
+![Watchers 32](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1440,7 +1440,7 @@ https://glyphbadges.dev/badge/Watchers-32-2563EB.svg?text=32%20custom&bg=2563EB&
 
 ### Stars 904
 
-![Stars 904](error.svg)
+![Stars 904](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1457,7 +1457,7 @@ https://glyphbadges.dev/badge/Stars-904-F59E0B.svg?text=904%20custom&bg=F59E0B&l
 
 ### Release Latest
 
-![Release Latest](error.svg)
+![Release Latest](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1474,7 +1474,7 @@ https://glyphbadges.dev/badge/Release-Latest-16A34A.svg?text=Latest%20custom&bg=
 
 ### Status Operational
 
-![Status Operational](error.svg)
+![Status Operational](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1491,7 +1491,7 @@ https://glyphbadges.dev/badge/Status-Operational-16A34A.svg?text=Operational%20c
 
 ### Status Degraded
 
-![Status Degraded](error.svg)
+![Status Degraded](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1508,7 +1508,7 @@ https://glyphbadges.dev/badge/Status-Degraded-F59E0B.svg?text=Degraded%20custom&
 
 ### Status Down
 
-![Status Down](error.svg)
+![Status Down](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1525,7 +1525,7 @@ https://glyphbadges.dev/badge/Status-Down-DC2626.svg?text=Down%20custom&bg=DC262
 
 ### Status Maintenance
 
-![Status Maintenance](error.svg)
+![Status Maintenance](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1542,7 +1542,7 @@ https://glyphbadges.dev/badge/Status-Maintenance-7C3AED.svg?text=Maintenance%20c
 
 ### Status Monitoring
 
-![Status Monitoring](error.svg)
+![Status Monitoring](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1559,7 +1559,7 @@ https://glyphbadges.dev/badge/Status-Monitoring-2563EB.svg?text=Monitoring%20cus
 
 ### Status Resolved
 
-![Status Resolved](error.svg)
+![Status Resolved](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1576,7 +1576,7 @@ https://glyphbadges.dev/badge/Status-Resolved-16A34A.svg?text=Resolved%20custom&
 
 ### Security A+
 
-![Security A+](error.svg)
+![Security A+](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1593,7 +1593,7 @@ https://glyphbadges.dev/badge/Security-A-16A34A.svg?text=A%2B%20custom&bg=16A34A
 
 ### Bundle Small
 
-![Bundle Small](error.svg)
+![Bundle Small](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1610,7 +1610,7 @@ https://glyphbadges.dev/badge/Bundle-Small-16A34A.svg?text=Small%20custom&bg=16A
 
 ### Memory Efficient
 
-![Memory Efficient](error.svg)
+![Memory Efficient](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1627,7 +1627,7 @@ https://glyphbadges.dev/badge/Memory-Efficient-16A34A.svg?text=Efficient%20custo
 
 ### Accessibility AA
 
-![Accessibility AA](error.svg)
+![Accessibility AA](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1644,7 +1644,7 @@ https://glyphbadges.dev/badge/Accessibility-AA-16A34A.svg?text=AA%20custom&bg=16
 
 ### Quality Excellent
 
-![Quality Excellent](error.svg)
+![Quality Excellent](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1661,7 +1661,7 @@ https://glyphbadges.dev/badge/Quality-Excellent-16A34A.svg?text=Excellent%20cust
 
 ### Review Approved
 
-![Review Approved](error.svg)
+![Review Approved](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1678,7 +1678,7 @@ https://glyphbadges.dev/badge/Review-Approved-16A34A.svg?text=Approved%20custom&
 
 ### Backers 24
 
-![Backers 24](error.svg)
+![Backers 24](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1695,7 +1695,7 @@ https://glyphbadges.dev/badge/Backers-24-EC4899.svg?text=24%20custom&bg=EC4899&l
 
 ### Downloads 10k
 
-![Downloads 10k](error.svg)
+![Downloads 10k](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1712,7 +1712,7 @@ https://glyphbadges.dev/badge/Downloads-10k-8B5CF6.svg?text=10k%20custom&bg=8B5C
 
 ### Issues 98% closed
 
-![Issues 98% closed](error.svg)
+![Issues 98% closed](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1729,7 +1729,7 @@ https://glyphbadges.dev/badge/Issues-98-closed-16A34A.svg?text=98%25%20closed%20
 
 ### Pull requests 92% merged
 
-![Pull requests 92% merged](error.svg)
+![Pull requests 92% merged](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1746,7 +1746,7 @@ https://glyphbadges.dev/badge/Pull-requests-92-merged-16A34A.svg?text=92%25%20me
 
 ### Contributors Active
 
-![Contributors Active](error.svg)
+![Contributors Active](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1763,7 +1763,7 @@ https://glyphbadges.dev/badge/Contributors-Active-16A34A.svg?text=Active%20custo
 
 ### Commits Daily
 
-![Commits Daily](error.svg)
+![Commits Daily](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1780,7 +1780,7 @@ https://glyphbadges.dev/badge/Commits-Daily-8B5CF6.svg?text=Daily%20custom&bg=8B
 
 ### Build 42s
 
-![Build 42s](error.svg)
+![Build 42s](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1797,7 +1797,7 @@ https://glyphbadges.dev/badge/Build-42s-2563EB.svg?text=42s%20custom&bg=2563EB&l
 
 ### API v2
 
-![API v2](error.svg)
+![API v2](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1814,7 +1814,7 @@ https://glyphbadges.dev/badge/API-v2-2563EB.svg?text=v2%20custom&bg=2563EB&label
 
 ### Security Audited
 
-![Security Audited](error.svg)
+![Security Audited](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1831,7 +1831,7 @@ https://glyphbadges.dev/badge/Security-Audited-16A34A.svg?text=Audited%20custom&
 
 ### Privacy Protected
 
-![Privacy Protected](error.svg)
+![Privacy Protected](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1848,7 +1848,7 @@ https://glyphbadges.dev/badge/Privacy-Protected-16A34A.svg?text=Protected%20cust
 
 ### Reliability High
 
-![Reliability High](error.svg)
+![Reliability High](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1865,7 +1865,7 @@ https://glyphbadges.dev/badge/Reliability-High-16A34A.svg?text=High%20custom&bg=
 
 ### Scaling Ready
 
-![Scaling Ready](error.svg)
+![Scaling Ready](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1882,7 +1882,7 @@ https://glyphbadges.dev/badge/Scaling-Ready-2563EB.svg?text=Ready%20custom&bg=25
 
 ### Performance Fast
 
-![Performance Fast](error.svg)
+![Performance Fast](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1899,7 +1899,7 @@ https://glyphbadges.dev/badge/Performance-Fast-16A34A.svg?text=Fast%20custom&bg=
 
 ### Accessibility Accessible
 
-![Accessibility Accessible](error.svg)
+![Accessibility Accessible](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1916,7 +1916,7 @@ https://glyphbadges.dev/badge/Accessibility-Accessible-16A34A.svg?text=Accessibl
 
 ### Design Responsive
 
-![Design Responsive](error.svg)
+![Design Responsive](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1933,7 +1933,7 @@ https://glyphbadges.dev/badge/Design-Responsive-2563EB.svg?text=Responsive%20cus
 
 ### Mobile Ready
 
-![Mobile Ready](error.svg)
+![Mobile Ready](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1950,7 +1950,7 @@ https://glyphbadges.dev/badge/Mobile-Ready-2563EB.svg?text=Ready%20custom&bg=256
 
 ### Environment Production
 
-![Environment Production](error.svg)
+![Environment Production](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1967,7 +1967,7 @@ https://glyphbadges.dev/badge/Environment-Production-16A34A.svg?text=Production%
 
 ### Environment Staging
 
-![Environment Staging](error.svg)
+![Environment Staging](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -1984,7 +1984,7 @@ https://glyphbadges.dev/badge/Environment-Staging-F59E0B.svg?text=Staging%20cust
 
 ### Environment Development
 
-![Environment Development](error.svg)
+![Environment Development](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -2001,7 +2001,7 @@ https://glyphbadges.dev/badge/Environment-Development-8B5CF6.svg?text=Developmen
 
 ### Hosting Self-hosted
 
-![Hosting Self-hosted](error.svg)
+![Hosting Self-hosted](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -2018,7 +2018,7 @@ https://glyphbadges.dev/badge/Hosting-Self-hosted-64748B.svg?text=Self-hosted%20
 
 ### Hosting Cloud
 
-![Hosting Cloud](error.svg)
+![Hosting Cloud](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -2035,7 +2035,7 @@ https://glyphbadges.dev/badge/Hosting-Cloud-2563EB.svg?text=Cloud%20custom&bg=25
 
 ### Architecture Serverless
 
-![Architecture Serverless](error.svg)
+![Architecture Serverless](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -2052,7 +2052,7 @@ https://glyphbadges.dev/badge/Architecture-Serverless-8B5CF6.svg?text=Serverless
 
 ### Network Edge
 
-![Network Edge](error.svg)
+![Network Edge](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -2069,7 +2069,7 @@ https://glyphbadges.dev/badge/Network-Edge-2563EB.svg?text=Edge%20custom&bg=2563
 
 ### Integration Webhooks
 
-![Integration Webhooks](error.svg)
+![Integration Webhooks](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -2086,7 +2086,7 @@ https://glyphbadges.dev/badge/Integration-Webhooks-8B5CF6.svg?text=Webhooks%20cu
 
 ### Auth OAuth
 
-![Auth OAuth](error.svg)
+![Auth OAuth](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -2103,7 +2103,7 @@ https://glyphbadges.dev/badge/Auth-OAuth-2563EB.svg?text=OAuth%20custom&bg=2563E
 
 ### Auth SSO
 
-![Auth SSO](error.svg)
+![Auth SSO](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -2120,7 +2120,7 @@ https://glyphbadges.dev/badge/Auth-SSO-2563EB.svg?text=SSO%20custom&bg=2563EB&la
 
 ### Support Available
 
-![Support Available](error.svg)
+![Support Available](docs/error.svg)
 
 **Customer URL Parameters:**
 
@@ -2137,7 +2137,7 @@ https://glyphbadges.dev/badge/Support-Available-16A34A.svg?text=Available%20cust
 
 ### Community Driven
 
-![Community Driven](error.svg)
+![Community Driven](docs/error.svg)
 
 **Customer URL Parameters:**
 
