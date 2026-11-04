@@ -1,3 +1,5 @@
+![Project covers](https://glyphbadges.dev/cover?title=Project%20covers&description=Create%20beautiful%20project%20covers%20with%20Glyph)
+
 # Project covers
 
 Glyph covers use a fixed visual style based on the supplied reference:
