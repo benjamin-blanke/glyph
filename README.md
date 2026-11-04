@@ -1,6 +1,7 @@
-![Glyph v6 banner](v6banner.png)
-
-# Glyph
+<div align="center">
+  <img src="v6banner.png" alt="Glyph v6 banner">
+  <h1>Glyph</h1>
+</div>
 
 <p align="center">
   <strong>Beautiful, customizable SVG badges for your README.</strong><br>
