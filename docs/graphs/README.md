@@ -1,3 +1,4 @@
+![Star history](https://glyphbadges.dev/chart?owner=benjamin-blanke&repo=glyph)
 # Repository charts
 
 Glyph provides a live SVG star-history chart for public GitHub repositories.
