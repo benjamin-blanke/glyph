@@ -106,6 +106,12 @@ npm install
 npm run typecheck
 ```
 
+## AI Declaration
+
+Glyph is not an AI-generated project. The project is designed, developed, and maintained by Benjamin Blanke.
+
+I sometimes use GitHub Copilot to help upload local changes, review code, or assist with development tasks. All changes are reviewed and controlled by me before being added to the repository.
+
 ## Contributing
 
 See [`docs/CONTRIBUTING.md`](docs/CONTRIBUTING.md) for the icon, SVG, testing,
