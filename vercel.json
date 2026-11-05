@@ -2,6 +2,7 @@
   "rewrites": [
     { "source": "/cover", "destination": "/api/cover" },
     { "source": "/chart", "destination": "/api/chart" },
+    { "source": "/skills", "destination": "/api/skills" },
     { "source": "/badge/discorduser", "destination": "/api/discord" },
     { "source": "/badge/status", "destination": "/api/status" },
     { "source": "/badge/livck", "destination": "/api/livck" },

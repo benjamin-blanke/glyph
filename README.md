@@ -42,6 +42,17 @@ Use `type=stars`, `commits`, `contributors`, `languages`, or `releases`. See
 [`docs/graphs/README.md`](docs/graphs/README.md) for all examples and
 parameters.
 
+## Skill icons
+
+Create a README-ready row of skill icons using short names:
+
+```md
+![Skills](https://glyphbadges.dev/skills?js,ts,react,next,tailwind)
+```
+
+Use `theme=light` for light icon variants. See [`docs/SKILLS.md`](docs/SKILLS.md)
+for the complete upstream icon catalog and supported names.
+
 ## Project covers
 
 Create a fixed-style project cover matching Glyph's dark dotted design:
