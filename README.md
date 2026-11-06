@@ -1,5 +1,10 @@
+<div align="center">
+  
 ![Glyph Badges](https://glyphbadges.dev/cover?title=Glyph%20Badges&description=Beautiful%2C%20customizable%20SVG%20badges%20for%20your%20README.)
 
+<div align="center">
+
+![In Progress](https://glyphbadges.dev/badge/Roadmap-In-progress-8B5CF6.svg?text=In%20progress&bg=8B5CF6&labelBg=23272A&logo=status&style=round)
 ## Quick start
 
 ```md
