@@ -5,7 +5,9 @@
 <div align="center">
 
 ![In Progress](https://glyphbadges.dev/badge/Roadmap-In-progress-8B5CF6.svg?text=In%20progress&bg=8B5CF6&labelBg=23272A&logo=status&style=round)
+![Dicsord Join](https://glyphbadges.dev/badge/Discord-Join-the-community-5865F2.svg?text=Join%20the%20community&bg=5865F2&labelBg=23272A&logo=discord&style=round)
 ## Quick start
+
 
 ```md
 [![Join the Discord](https://glyphbadges.dev/badge/Discord-Join-the-community-5865F2.svg?text=Join%20our%20community&bg=5865F2&labelBg=23272A&logo=discord&style=flat)](https://discord.gg/opushost)
