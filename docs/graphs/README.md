@@ -1,4 +1,9 @@
-![Star history](https://glyphbadges.dev/chart?owner=benjamin-blanke&repo=glyph&type=stars)
+<div align="center">
+
+![Commit activity](https://glyphbadges.dev/chart?owner=benjamin-blanke&repo=glyph&type=commits)
+
+</div>
+
 # Repository charts
 
 Glyph provides live SVG repository charts for public GitHub repositories.
